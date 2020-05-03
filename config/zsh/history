@@ -1,0 +1,100 @@
+exit
+make
+make tests
+p -S nasm
+make
+exit
+./test_printf
+./test_put_b
+./test_put_c
+./test_put_d
+./test_put_o
+./test_put_s
+./test_put_u
+./test_put_x
+exit
+make
+exit
+exit
+./hack
+exit
+make 
+exit
+make
+exit
+./linux_check
+exit
+make linux
+exit
+./linux_check
+exit
+make
+exit
+make
+exit
+make linux
+exit
+make target="linux" linux
+exit
+make target="linux" linux
+exit
+exit
+make target="linux" linux
+exit
+make target="linux" linux
+exit
+./linux_check
+./linux_check
+exit
+make
+make target="osx"
+make target="linux"
+make target="linux"
+exit
+make target="linux"
+exit
+make target="linux"
+exit
+./linux_check
+exit
+make
+exit
+./hack
+exit
+make target="linux"
+exit
+make all
+exit
+make all
+exit
+exit
+make
+exit
+./blender ../example/01/CAT.bmp ../example/01/DESK.bmp -o RES.bmp
+exit
+feh RES.bmp
+exit
+git checkout -b dev
+git checkout dev
+git add .
+exit
+p -S surf
+exit
+git add .
+git commit -m "cleaning up"
+git push -u origin dev
+exit
+git commit -m "descriptions"
+git add .
+git commit -m "descriptions"
+git push -u origin dev
+git pull oridin dev
+git pull origin dev
+exit
+git add .
+git commit -m "backup"
+git push -u origin dev
+exit
+p -Rns dhex
+p -Rns hexer
+exit

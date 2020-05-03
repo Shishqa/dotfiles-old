@@ -1,0 +1,3682 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/shishqa/
+	..
+1585410930
+'M
+	/home/shishqa/Repositories/MIPT
+	2-semester
+1585553643
+'b
+	/root/bin/
+	..
+1586773247
+'c
+	/home/shishqa/.config
+	..
+1585494988
+'h
+	/root/
+	..
+1586773247
+'k
+	/home/shishqa/Repositories/MIPT/2020_2/asm/NASM/break-in/egor/guess
+	guess.c
+1586624918
+'r
+	/home/shishqa/Repositories
+	..
+1585496358
+'u
+	/run/media/shishqa
+	disk
+1585999821
+
+# Bookmarks:
+
+# TUI:
+ar
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/shishqa/.config/ncmpcpp
+	error.log
+2
+d/home/shishqa/.config/vim
+	autoload
+2
+d/home/shishqa/.config/vim/autoload
+	plug.vim
+1
+d/home/shishqa/.config/vim
+	plugged
+5
+d/home/shishqa/.config/vim/plugged
+	ultisnips
+1
+d/home/shishqa/.config/vim
+	plugged
+5
+d/home/shishqa/.config/vim/plugged
+	ultisnips
+1
+d/home/shishqa/.config/vim
+	plugged
+5
+d/home/shishqa/Repositories
+	MIPT
+1
+d/home/shishqa/Repositories/MIPT/2020_2
+	ml
+3
+d/home/shishqa/Repositories/MIPT/2020_2/ml
+	119b
+2
+d/home/shishqa/Repositories/MIPT/2020_2/ml/119b
+	Shishatskiy_119b.tex
+7
+d/home/shishqa/vim
+	runtime
+7
+d/home/shishqa/vim/runtime
+	vimlogo.pdf
+39
+d/home/shishqa/vim
+	tools
+9
+d/home/shishqa/vim/tools
+	..
+0
+d/home/shishqa/vim
+	src
+8
+d/home/shishqa/vim/src
+	menu.c
+37
+d/home/shishqa/vim
+	src
+8
+d/home/shishqa/.config/bspwm
+	bspwmrc
+1
+d/usr/bin
+	..
+0
+d/bin
+	NetworkManager
+6
+d/etc/zsh
+	zprofile
+1
+d/sys
+	class
+3
+d/sys/class
+	..
+0
+d/sys
+	dev
+4
+d/sys/dev
+	block
+1
+d/sys/dev/block
+	..
+0
+d/sys/dev
+	block
+1
+d/sys
+	kernel
+9
+d/sys/kernel
+	boot_params
+1
+d/sys/kernel/boot_params
+	..
+0
+d/sys/kernel
+	debug
+4
+d/sys
+	kernel
+9
+d/usr
+	lib64
+5
+d/usr/lib64
+	ImageMagick-6.9.11
+3
+d/usr
+	lib32
+4
+d/usr/lib32
+	libgomp.spec
+2
+d/usr
+	lib64
+5
+d/home/shishqa/.config/vifm/scripts
+	..
+0
+d/home/shishqa/Downloads
+	..
+0
+d/
+	tmp
+17
+d/tmp
+	.X11-unix
+3
+d/tmp/.X11-unix
+	..
+0
+d/tmp
+	.X11-unix
+3
+d/home/shishqa
+	.themes
+12
+d/home/shishqa/.themes
+	..
+0
+d/home/shishqa
+	.texlive
+11
+d/home
+	shishqa
+1
+d/
+	etc
+4
+d/etc
+	default
+19
+d/etc/default
+	grub
+1
+d/home/shishqa
+	.texlive
+11
+d/home
+	shishqa
+1
+d/
+	etc
+4
+d/etc
+	lightdm
+34
+d/etc/lightdm
+	lightdm.conf
+5
+d/home/shishqa
+	to_egor.o
+35
+d/
+	etc
+4
+d/etc
+	lightdm
+15
+d/
+	etc
+4
+d/home/shishqa/Repositories/MIPT
+	2-semester
+2
+d/home/shishqa/Repositories/MIPT/2-semester
+	Assembly_Dedinskiy
+2
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy
+	NASM
+4
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM
+	break-in
+1
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in
+	another
+1
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another
+	patch
+1
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/patch
+	cmake-build-debug
+2
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another
+	patch
+1
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/patch
+	main.c
+4
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another
+	patch
+3
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/patch
+	CMakeLists.txt
+3
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another
+	crack
+1
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/crack
+	crack.c
+2
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another
+	guess
+2
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/guess
+	HACK.txt
+1
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another
+	patch
+3
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/patch
+	CMakeLists.txt
+3
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another
+	guess
+2
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/guess
+	HACK.txt
+1
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another
+	crack
+1
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/crack
+	crack.c
+2
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another
+	crack
+1
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/crack
+	crack.c
+2
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another
+	guess
+2
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/guess
+	PSSWD.txt
+2
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another
+	guess
+2
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in
+	another
+1
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another
+	guess
+2
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in
+	another
+1
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another
+	crack
+1
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/crack
+	lesha
+4
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another
+	guess
+2
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/guess
+	guess.c
+4
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another
+	crack
+1
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/crack
+	crk
+3
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another
+	crack
+1
+d/
+	etc
+4
+d/home/shishqa/Repositories/MIPT
+	2-semester
+2
+d/home/shishqa/Repositories/MIPT/2-semester
+	Assembly_Dedinskiy
+2
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy
+	NASM
+4
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM
+	break-in
+1
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in
+	check_password.o.lst
+5
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM
+	echo
+3
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy
+	NASM
+4
+d/
+	etc
+4
+d/home/shishqa/Repositories/MIPT
+	2-semester
+2
+d/home/shishqa/Repositories/MIPT/2-semester
+	Algorithms_Grishutin
+1
+d/home/shishqa/Repositories/MIPT/2-semester/Algorithms_Grishutin
+	03_SearchTrees
+4
+d/home/shishqa/Repositories/MIPT/2-semester/Algorithms_Grishutin/03_SearchTrees
+	Problems
+7
+d/home/shishqa/Repositories/MIPT/2-semester/Algorithms_Grishutin/03_SearchTrees/Problems
+	images
+1
+d/home/shishqa/Repositories/MIPT/2-semester/Algorithms_Grishutin/03_SearchTrees/Problems/images
+	Problem1_before.png
+2
+d/
+	etc
+4
+d/home/shishqa/Repositories/MIPT
+	2-semester
+2
+d/home/shishqa/Repositories/MIPT/2-semester
+	Algorithms_Grishutin
+1
+d/home/shishqa/Repositories/MIPT/2-semester/Algorithms_Grishutin
+	03_SearchTrees
+4
+d/home/shishqa/Repositories/MIPT/2-semester/Algorithms_Grishutin/03_SearchTrees
+	Problems
+7
+d/home/shishqa/Repositories/MIPT/2-semester/Algorithms_Grishutin/03_SearchTrees/Problems
+	images
+1
+d/home/shishqa/Repositories/MIPT/2-semester/Algorithms_Grishutin/03_SearchTrees/Problems/images
+	Problem4_merge.png
+3
+d/
+	lib
+6
+d/home/shishqa/Repositories/MIPT
+	2-semester
+2
+d/home/shishqa/Repositories/MIPT/2-semester
+	Math-logic_Dashkov
+4
+d/home/shishqa/Repositories/MIPT/2-semester/Math-logic_Dashkov
+	.git
+1
+d/home/shishqa/Repositories/MIPT/2-semester
+	Assembly_Dedinskiy
+2
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy
+	MS_DOS
+3
+d/home/shishqa/Repositories/MIPT/2-semester
+	Algorithms_Grishutin
+1
+d/home/shishqa/Repositories/MIPT/2-semester/Algorithms_Grishutin
+	03_SearchTrees
+4
+d/home/shishqa/Repositories/MIPT/2-semester
+	Assembly_Dedinskiy
+2
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy
+	C
+2
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/C
+	hashtable
+2
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy
+	test_data.csv
+6
+d/
+	lib64
+7
+d/home/shishqa/Repositories/MIPT
+	2-semester
+2
+d/home/shishqa/Repositories/MIPT/2-semester
+	Assembly_Dedinskiy
+2
+d/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy
+	test_data.csv
+6
+d/
+	opt
+10
+d/home/shishqa
+	.mozilla
+9
+d/home/shishqa/.config
+	zsh
+28
+d/home/shishqa/.config/zsh
+	.zshrc
+3
+d/home/shishqa/.config
+	vifm
+23
+d/home/shishqa/.config/vifm
+	vifmrc
+8
+d/
+	proc
+11
+d/home/shishqa/.config
+	vifm
+23
+d/home/shishqa/.config/vifm
+	colors
+1
+d/home/shishqa/.config/vifm/colors
+	molokai.vifm
+11
+d/home/shishqa
+	.Xauthority
+21
+d/home/shishqa/.config
+	i3
+8
+d/home/shishqa/.config/i3
+	config
+1
+d/
+	run
+13
+d/run
+	mount
+10
+d/run/mount
+	..
+0
+d/run
+	media
+9
+d/run/media
+	..
+0
+d/run
+	udisks2
+17
+d/
+	proc
+11
+d/home/shishqa
+	Downloads
+16
+d/home/shishqa/Downloads
+	Kudryavtsev-LD-Sbornik-zadach-po-matematicheskomu-analizu-Tom-3-Funktsii-neskolkih-peremennyh.djvu
+23
+d/
+	etc
+4
+d/etc
+	..
+0
+d/
+	usr
+18
+d/usr
+	share
+8
+d/usr/share
+	vim
+37
+d/usr/share/vim
+	vimfiles
+1
+d/usr/share/vim/vimfiles
+	indent
+1
+d/usr/share/vim/vimfiles/indent
+	..
+0
+d/usr/share/vim/vimfiles
+	indent
+1
+d/usr/share/vim
+	vimfiles
+1
+d/usr/share/vim/vimfiles
+	syntax
+2
+d/usr/share/vim/vimfiles/syntax
+	..
+0
+d/usr/share/vim/vimfiles
+	syntax
+2
+d/usr/share/vim
+	vimfiles
+1
+d/usr/share
+	vim
+37
+d/usr
+	share
+8
+d/
+	sys
+16
+d/sys
+	class
+3
+d/sys/class
+	power_supply
+37
+d/sys/class/power_supply
+	BAT0
+2
+d/sys/class/power_supply/BAT0
+	capacity
+6
+d/home/shishqa
+	Downloads
+9
+d/home/shishqa/Downloads
+	password(3).txt
+11
+d/home/shishqa
+	Downloads
+9
+d/home
+	shishqa
+1
+d/home/shishqa
+	Repositories
+11
+d/home/shishqa/Repositories
+	MIPT
+1
+d/home/shishqa/Repositories/MIPT
+	2020_2
+2
+d/home/shishqa/Repositories/MIPT/2020_2
+	asm
+2
+d/home/shishqa/Repositories/MIPT/2020_2/asm
+	NASM
+4
+d/home/shishqa/Repositories/MIPT/2020_2/asm/NASM
+	break-in
+1
+d/home/shishqa/Repositories/MIPT/2020_2/asm/NASM/break-in
+	another
+1
+d/home/shishqa/Repositories/MIPT/2020_2/asm/NASM/break-in/another
+	crack
+1
+d/home/shishqa/Repositories/MIPT/2020_2/asm/NASM/break-in/another/crack
+	crack
+1
+d/home/shishqa
+	..
+0
+d
+
+# Right window history (oldest to newest):
+D/home/shishqa/repositories/MIPT/2020_2/asm/NASM/custom_printf
+	..
+0
+D/home/shishqa/repositories/MIPT/2020_2/asm/C/hashtable
+	cmake-build-debug
+2
+D/home/shishqa/repositories/MIPT/2020_2/asm/C/hashtable/cmake-build-debug
+	text.txt
+9
+D/home/shishqa/repositories/MIPT/2020_2/asm/C/hashtable
+	cmake-build-debug
+2
+D/home/shishqa/repositories/MIPT/2020_2/asm/C/hashtable/cmake-build-debug
+	..
+0
+D/home/shishqa/repositories/MIPT/2020_2/asm/C/hashtable
+	cmake-build-debug
+2
+D/home/shishqa/repositories/MIPT/2020_2/asm/C/hashtable/cmake-build-debug
+	text.txt
+9
+D/home/shishqa/repositories/MIPT/2020_2/asm/C/hashtable
+	cmake-build-debug
+2
+D/home/shishqa/repositories/MIPT/2020_2/asm/C
+	Murmurhash64B
+1
+D/usr/lib
+	..
+0
+D/var
+	lib
+5
+D/var/lib
+	..
+0
+D/var
+	lib
+5
+D/usr/share/doc
+	ncmpcpp
+34
+D/usr/share/doc/ncmpcpp
+	config
+5
+D/etc/xdg/systemd
+	..
+0
+D/etc/xdg/autostart
+	..
+0
+D/home/shishqa/repositories
+	MIPT
+1
+D/home/shishqa/repositories/MIPT
+	2020_2
+2
+D/home/shishqa/repositories
+	MIPT
+1
+D/home/shishqa/media
+	music
+1
+D/home/shishqa/media/music
+	..
+0
+D/home/shishqa/media
+	music
+1
+D/home/shishqa/downloads
+	Король и Шут - Король  и Шут.mp3
+16
+D/home/shishqa/media
+	music
+1
+D/home/shishqa/media/music
+	Король и Шут - Король  и Шут.mp3
+2
+D/home/shishqa/media
+	music
+1
+D/home/shishqa/.config/pulse
+	35eccd2dbe424f37843c528453fde32d-stream-volumes.tdb
+5
+D/etc/mopidy
+	mopidy.conf
+2
+D/sys
+	kernel
+9
+D/sys/kernel
+	security
+8
+D/sys/kernel/security
+	lsm
+2
+D/home/shishqa/.mozilla
+	firefox
+2
+D/home/shishqa/.icons
+	default
+1
+D/home/shishqa/.icons/default
+	index.theme
+1
+D/home/shishqa/.icons
+	default
+1
+D/home/shishqa/.local/share/zathura
+	..
+0
+D/home/shishqa/.config/gtk-3.0
+	settings.ini
+1
+D/home/shishqa/.config/gtk-2.0
+	..
+0
+D/home/shishqa/Public
+	..
+0
+D/home/shishqa/.cache
+	..
+0
+D/home/shishqa/Canta-theme
+	src
+4
+D/home/shishqa/Repositories/MIPT/2020_2/asm/NASM/break-in/another
+	guess
+2
+D/home/shishqa/.ncmpcpp
+	error.log
+1
+D/home/shishqa/.config/bspwm
+	bspwmrc
+1
+D/home/shishqa/.local/bin
+	moggsplit
+7
+D/home/shishqa/.config/vifm
+	colors
+1
+D/home/shishqa/.config/vifm/colors
+	ph.vifm
+13
+D/home/shishqa/.config/vifm
+	scripts
+2
+D/usr/include/glibmm_generate_extra_defs
+	..
+0
+D/usr/include
+	glibmm-2.4
+17
+D/usr/include/glibmm-2.4
+	glibmm
+1
+D/usr/include/glibmm-2.4/glibmm
+	arrayhandle.h
+2
+D/usr/include/glibmm-2.4
+	glibmm
+1
+D/usr/include/glibmm-2.4/glibmm
+	arrayhandle.h
+2
+D/usr/include/glibmm-2.4
+	glibmm
+1
+D/usr/include
+	glib
+14
+D/usr/include/glib
+	deprecated
+1
+D/usr/include
+	gdkmm-3.0
+15
+D/usr/include/gdkmm-3.0
+	gdkmm
+1
+D/usr/include
+	cairomm-1.0
+5
+D/usr/include/cairomm-1.0
+	cairomm
+1
+D/usr/include/cairomm-1.0/cairomm
+	..
+0
+D/usr/include/cairomm-1.0
+	cairomm
+1
+D/usr/include
+	cairomm-1.0
+5
+D/usr/include/cairomm-1.0
+	cairomm
+1
+D/usr/include
+	sigc++-2.0
+40
+D/usr/include/sigc++-2.0
+	sigc++
+1
+D/usr/include
+	atkmm-1.6
+6
+D/usr/include/atkmm-1.6
+	atkmm.h
+2
+D/usr/include
+	atkmm
+6
+D/home/shishqa
+	.zoom
+15
+D/home/shishqa/Repositories/MIPT
+	2-semester
+2
+D/home/shishqa/Repositories/MIPT/2-semester
+	Assembly_Dedinskiy
+2
+D/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy
+	C
+2
+D/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/C
+	SFML_app
+2
+D/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/C/SFML_app
+	main.cpp
+1
+D/home/shishqa
+	.texlive
+12
+D/home/shishqa/Repositories/MIPT
+	2-semester
+2
+D/home/shishqa/Repositories/MIPT/2-semester
+	Assembly_Dedinskiy
+2
+D/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy
+	C
+2
+D/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/C
+	SFML_app
+2
+D/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy
+	NASM
+4
+D/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM
+	break-in
+1
+D/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in
+	another
+1
+D/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another
+	crack
+2
+D/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/crack
+	..
+0
+D/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another
+	Crack
+1
+D/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/Crack
+	..
+0
+D/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another
+	Crack
+1
+D/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/Crack
+	cmake-build-debug
+2
+D/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/Crack/cmake-build-debug
+	bg.jpg
+6
+D/home/shishqa
+	.vim
+13
+D/home/shishqa/.vim
+	..
+0
+D/home/shishqa
+	Desktop
+14
+D/home/shishqa/.config
+	zsh
+15
+D/home/shishqa
+	.idapro
+4
+D/home/shishqa/.config
+	zsh
+15
+D/home/shishqa/.config/zsh
+	.zshrc
+2
+D/home/shishqa/.config
+	.Xresources
+28
+D/home/shishqa
+	.bashrc
+25
+D/home/shishqa/.config
+	zsh
+27
+D/home/shishqa/.config/zsh
+	.zshrc
+2
+D/home/shishqa/.config
+	zsh
+27
+D/home/shishqa
+	.config
+4
+D/home/shishqa/.config
+	zsh
+27
+D/home/shishqa/.config/zsh
+	.zshrc
+2
+D/home/shishqa
+	.config
+4
+D/home/shishqa/.config
+	zsh
+27
+D/home/shishqa/.config/zsh
+	.zprofile
+2
+D/home/shishqa/.config
+	aliasrc
+30
+D/home/shishqa
+	.bash_history
+22
+D/home
+	shishqa
+1
+D/home/shishqa/.config
+	zsh
+27
+D/home/shishqa/.config/zsh
+	.zshenv
+3
+D/home/shishqa/.config
+	zsh
+27
+D/home/shishqa
+	Screenshots
+19
+D/home/shishqa/.config
+	zsh
+27
+D/home/shishqa/.config/zsh
+	history
+5
+D/home/shishqa/.config
+	zsh
+27
+D/home/shishqa/.config/zsh
+	.zshrc
+4
+D/home/shishqa/.config
+	zsh
+27
+D/home/shishqa/.config/zsh
+	.zshenv
+3
+D/home/shishqa/.config
+	zsh
+27
+D/home/shishqa/.config/zsh
+	.zcompdump
+1
+D/home/shishqa/.config
+	mimeapps.list
+31
+D/home/shishqa
+	.config
+4
+D/home/shishqa/.config
+	zsh
+27
+D/home/shishqa/.config/zsh
+	.zshrc
+3
+D/home/shishqa
+	.config
+4
+D/home/shishqa/.config
+	zsh
+27
+D/home/shishqa/.config/zsh
+	.zshrc
+3
+D/home/shishqa
+	Downloads
+16
+D/home/shishqa/Downloads
+	Telegram Desktop
+1
+D/home/shishqa/Downloads/Telegram Desktop
+	ДЗ 3.pdf
+1
+D/home/shishqa/Downloads
+	image-from-rawpixel-id-496124-jpeg.jpg
+15
+D/home/shishqa
+	Screenshots
+15
+D/home/shishqa/Screenshots
+	1586323144.png
+18
+D/home/shishqa
+	Repositories
+14
+D/home/shishqa/Repositories
+	MIPT
+3
+D/home/shishqa/Repositories/MIPT
+	2-semester
+2
+D/home/shishqa/Repositories/MIPT/2-semester
+	Math-logic_Dashkov
+4
+D/home/shishqa/Repositories/MIPT/2-semester/Math-logic_Dashkov
+	136a
+3
+D/home/shishqa/Repositories/MIPT/2-semester/Math-logic_Dashkov/136a
+	Shishatskiy_136a.tex
+8
+D/home/shishqa
+	Screenshots
+19
+D/home/shishqa/Screenshots
+	1586331087.png
+19
+D/home/shishqa
+	Screenshots
+19
+D/home/shishqa/Screenshots
+	1586331318.png
+20
+D/home/shishqa
+	.local
+8
+D/home/shishqa/.local
+	share
+3
+D/home/shishqa/.local/share
+	..
+0
+D/home/shishqa/.local
+	lib
+2
+D/home/shishqa/.local/lib
+	..
+0
+D/home/shishqa/.local
+	lib
+2
+D/home/shishqa
+	.local
+8
+D/home
+	shishqa
+1
+D/
+	srv
+16
+D/home/shishqa/.config
+	zsh
+29
+D/home/shishqa/.config/zsh
+	.zshrc
+3
+D/home/shishqa
+	.config
+4
+D/home/shishqa/.config
+	zsh
+29
+D/home/shishqa/.config/zsh
+	.zshrc
+3
+D/home/shishqa/.config
+	zsh
+29
+D/home/shishqa/.config/zsh
+	.zprofile
+2
+D/home/shishqa/.config
+	zsh
+29
+D/home/shishqa
+	.xsession-errors.old
+28
+D/home/shishqa/.config
+	zsh
+29
+D/home/shishqa/.config/zsh
+	.zprofile
+2
+D/home/shishqa/.config
+	profile
+34
+D/home/shishqa
+	Repositories
+18
+D/home/shishqa/.config
+	profile
+34
+D/home/shishqa
+	snap
+20
+D/home/shishqa/.config
+	polybar
+18
+D/home/shishqa/.config/polybar
+	colors.ini
+3
+D/home/shishqa
+	.viminfo
+27
+D/home/shishqa/.config
+	vim
+24
+D/home/shishqa/.config/vim
+	cache
+3
+D/home/shishqa/.config/vim/cache
+	.viminfo
+1
+D/home/shishqa/.config/vim
+	cache
+3
+D/home/shishqa/.config
+	aliasrc
+32
+D/home/shishqa
+	snap
+20
+D/home/shishqa/snap
+	clion
+1
+D/home/shishqa/snap/clion
+	107
+1
+D/home/shishqa/snap/clion/107
+	..
+0
+D/home/shishqa/snap/clion
+	common
+2
+D/home/shishqa/snap/clion/common
+	..
+0
+D/home/shishqa/snap/clion
+	current
+3
+D/home/shishqa/snap/clion/current
+	..
+0
+D/home/shishqa/snap/clion
+	current
+3
+D/home/shishqa/snap
+	clion
+1
+D/home/shishqa
+	snap
+20
+D/home/shishqa/snap
+	clion
+1
+D/home/shishqa/snap/clion
+	common
+2
+D/home/shishqa/snap/clion/common
+	..
+0
+D/home/shishqa/snap/clion
+	107
+1
+D/home/shishqa/snap/clion/107
+	..
+0
+D/home/shishqa/snap/clion
+	107
+1
+D/home/shishqa/snap
+	clion
+1
+D/home/shishqa
+	Screenshots
+19
+D/home/shishqa/Screenshots
+	1586331318.png
+20
+D/home/shishqa
+	Repositories
+18
+D/home/shishqa/Repositories
+	MIPT
+3
+D/home/shishqa
+	Music
+17
+D/home/shishqa/Music
+	Foster The People - Pumped up Kicks (Official Music Video).mp3
+2
+D/home/shishqa
+	.zoom
+13
+D/home/shishqa/.config
+	mimeapps.list
+33
+D/home/shishqa
+	.themes
+12
+D/home/shishqa/.config
+	zsh
+29
+D/home/shishqa/.config/zsh
+	.zcompdump
+1
+D/home/shishqa/.config
+	darktable
+2
+D/home/shishqa/.config/darktable
+	..
+0
+D/home/shishqa/.config
+	mc
+11
+D/home/shishqa/.config/mc
+	..
+0
+D/home/shishqa/.config
+	ncmpcpp
+12
+D/home/shishqa/.config/ncmpcpp
+	..
+0
+D/home/shishqa/.config
+	ncmpcpp
+12
+D/home/shishqa/.config/ncmpcpp
+	error.log
+2
+D/home/shishqa/.config
+	oomox
+15
+D/home/shishqa/.config/oomox
+	..
+0
+D/home/shishqa/.config
+	zsh
+25
+D/home/shishqa/.config/zsh
+	aliasrc
+4
+D/home/shishqa/.config
+	zsh
+25
+D/home/shishqa
+	Downloads
+16
+D/home/shishqa/Downloads
+	Dolls_House_Miniature_Wallpaper_2__57465.1505671358.1280.1280.jpg
+9
+D/home/shishqa
+	Study
+20
+D/home/shishqa/Study
+	Kudryavtsev-LD-Sbornik-zadach-po-matematicheskomu-analizu-Tom-2-Integraly-Ryady.djvu
+3
+D/home/shishqa
+	Study
+20
+D/home/shishqa/Study
+	Kudryavtsev-LD-Sbornik-zadach-po-matematicheskomu-analizu-Tom-2-Integraly-Ryady.djvu
+3
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	.xinitrc
+12
+D/home/shishqa
+	Downloads
+5
+D/home
+	shishqa
+1
+D/
+	etc
+4
+D/etc
+	pam.d
+4
+D/etc/pam.d
+	rlogin
+15
+D/etc
+	pam.d
+4
+D/
+	lost+found
+8
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	zsh
+10
+D/home/shishqa/.config/zsh
+	aliasrc
+4
+D/home/shishqa/.config
+	.Xresources
+11
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	zsh
+10
+D/home/shishqa/.config/zsh
+	aliasrc
+5
+D/home/shishqa/.config
+	.Xresources
+11
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	zsh
+10
+D/home/shishqa/.config/zsh
+	.zprofile
+2
+D/home/shishqa/.config
+	zsh
+10
+D/home/shishqa
+	arch-dotfiles
+6
+D/home/shishqa/arch-dotfiles
+	Study
+3
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	zsh
+10
+D/home/shishqa/.config/zsh
+	aliasrc
+5
+D/home/shishqa/.config
+	yay
+9
+D/home/shishqa
+	arch-dotfiles
+6
+D/home/shishqa/arch-dotfiles
+	Study
+3
+D/home/shishqa
+	Repositories
+6
+D/home/shishqa/Repositories
+	MIPT
+1
+D/home/shishqa/Repositories/MIPT
+	_2
+2
+D/home/shishqa/Repositories/MIPT/_2
+	..
+0
+D/home/shishqa/Repositories/MIPT
+	2020_2
+2
+D/home/shishqa/Repositories/MIPT/2020_2
+	alg
+1
+D/home/shishqa/Repositories/MIPT/2020_2/alg
+	03_SearchTrees
+4
+D/home/shishqa/Repositories/MIPT/2020_2/alg/03_SearchTrees
+	..
+0
+D/home/shishqa/Repositories/MIPT/2020_2/alg
+	03_SearchTrees
+4
+D/home/shishqa/Repositories/MIPT/2020_2/alg/03_SearchTrees
+	Problems
+7
+D/home/shishqa/Repositories/MIPT/2020_2/alg/03_SearchTrees/Problems
+	3_Shishatkiy.aux
+2
+D/home/shishqa/Repositories/MIPT/2020_2/alg/03_SearchTrees
+	E_cars
+5
+D/home/shishqa/Repositories/MIPT/2020_2/alg/03_SearchTrees/E_cars
+	.idea
+1
+D/home/shishqa/Repositories/MIPT/2020_2/alg/03_SearchTrees
+	E_cars
+5
+D/home/shishqa/Repositories/MIPT/2020_2/alg
+	03_SearchTrees
+4
+D/home/shishqa/Repositories/MIPT/2020_2
+	asm
+2
+D/home/shishqa/Repositories/MIPT/2020_2/asm
+	C
+2
+D/home/shishqa/Repositories/MIPT/2020_2/asm/C
+	..
+0
+D/home/shishqa/Repositories/MIPT/2020_2/asm
+	C
+2
+D/home/shishqa/Repositories/MIPT/2020_2/asm/C
+	hashtable
+2
+D/home/shishqa/Repositories/MIPT/2020_2/asm/C/hashtable
+	HashTable.h
+4
+D/home/shishqa/Repositories/MIPT/2020_2/asm/C
+	hashtable
+2
+D/home/shishqa/Repositories/MIPT/2020_2/asm
+	NASM
+4
+D/home/shishqa/Repositories/MIPT/2020_2
+	asm
+2
+D/home/shishqa/Repositories/MIPT/2020_2/asm
+	README.md
+5
+D/home/shishqa/Repositories/MIPT/2020_2
+	ml
+3
+D/home/shishqa/Repositories/MIPT/2020_2/ml
+	136a
+3
+D/home/shishqa/Repositories/MIPT/2020_2/ml/136a
+	Shishatskiy_136a.fls
+4
+D/home/shishqa/Repositories/MIPT/2020_2/ml
+	136a
+3
+D/home/shishqa/Repositories/MIPT/2020_2
+	oop
+4
+D/home/shishqa/Repositories/MIPT/2020_2/oop
+	..
+0
+D/home/shishqa/Repositories/MIPT/2020_2
+	alg
+1
+D/home/shishqa/Repositories/MIPT
+	2019_1
+1
+D/home/shishqa/Repositories/MIPT/2019_1
+	clang
+1
+D/home/shishqa/Repositories/MIPT/2019_1/clang
+	.git
+1
+D/home/shishqa/Repositories/MIPT/2019_1
+	clang
+1
+D/home/shishqa/Repositories/MIPT
+	2019_1
+1
+D/home/shishqa/Repositories
+	MIPT
+1
+D/home/shishqa
+	arch-dotfiles
+7
+D/home/shishqa/arch-dotfiles
+	config
+4
+D/home/shishqa/arch-dotfiles/config
+	picom
+15
+D/home/shishqa/arch-dotfiles
+	config
+4
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	picom
+5
+D/home/shishqa/.config/picom
+	picom.conf
+1
+D/home/shishqa/.config
+	picom
+5
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	bspwm
+1
+D/home/shishqa/.config/bspwm
+	bspwmrc
+1
+D/home/shishqa/.config
+	vim
+9
+D/home/shishqa/.config/vim
+	.vimrc
+6
+D/home/shishqa/.config
+	nitrogen
+4
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	bspwm
+1
+D/home/shishqa/.config/bspwm
+	bspwmrc
+1
+D/home/shishqa/.config
+	bspwm
+1
+D/home/shishqa
+	vim
+8
+D/home/shishqa/vim
+	READMEdir
+3
+D/home/shishqa/vim/READMEdir
+	README_unix.txt
+19
+D/home/shishqa/vim
+	src
+8
+D/home/shishqa/vim/src
+	dlldata.c
+36
+D/home/shishqa/vim
+	src
+8
+D/home/shishqa
+	Downloads
+6
+D/home/shishqa/Downloads
+	Kudryavtsev-LD-Sbornik-zadach-po-matematicheskomu-analizu-Tom-2-Integraly-Ryady.djvu
+12
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	sxhkd
+7
+D/home/shishqa/.config/sxhkd
+	sxhkdrc
+1
+D/home/shishqa/.config
+	picom
+5
+D/home/shishqa/.config/picom
+	picom.conf
+1
+D/home/shishqa/.config
+	picom
+6
+D/home/shishqa
+	Music
+7
+D/home/shishqa/Music
+	..
+0
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	mpd
+4
+D/home/shishqa/.config/mpd
+	playlists
+1
+D/home/shishqa/.config
+	neofetch
+5
+D/home/shishqa/.config/neofetch
+	config.conf
+1
+D/home/shishqa/.config
+	mpd
+4
+D/home/shishqa/.config/mpd
+	playlists
+1
+D/home/shishqa/.config
+	mpd
+4
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	.Xresources
+15
+D/home/shishqa
+	.mozilla
+4
+D/home
+	shishqa
+1
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	mpd
+4
+D/home/shishqa/.config/mpd
+	mpd.conf
+2
+D/home/shishqa/.config
+	polybar
+8
+D/home/shishqa
+	.mozilla
+5
+D/home
+	shishqa
+1
+D/
+	etc
+4
+D/etc
+	pulse
+8
+D/etc/pulse
+	client.conf
+1
+D/etc
+	pulse
+8
+D/home/shishqa
+	Repositories
+10
+D/home/shishqa/Repositories
+	MIPT
+1
+D/home/shishqa/Repositories/MIPT
+	2020_2
+2
+D/home/shishqa/Repositories/MIPT/2020_2
+	asm
+2
+D/home/shishqa/Repositories/MIPT/2020_2/asm
+	NASM
+4
+D/home/shishqa/Repositories/MIPT/2020_2/asm/NASM
+	break-in
+1
+D/home/shishqa/Repositories/MIPT/2020_2/asm/NASM/break-in
+	egor
+2
+D/home/shishqa/Repositories/MIPT/2020_2/asm/NASM/break-in/egor
+	password
+1
+D/home/shishqa/Repositories/MIPT/2020_2/asm/NASM/break-in
+	egor
+2
+D/home/shishqa/Repositories/MIPT/2020_2/asm/NASM
+	echo
+3
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	picom
+7
+D/home/shishqa/.config/picom
+	picom.conf
+1
+D/home/shishqa/.config
+	nitrogen
+6
+D/home/shishqa
+	.local
+3
+D/home/shishqa/.local
+	bin
+1
+D/home/shishqa
+	arch-dotfiles
+17
+D/home/shishqa/arch-dotfiles
+	scripts
+5
+D/home/shishqa/arch-dotfiles/scripts
+	rofi-wifi
+7
+D/home/shishqa/arch-dotfiles
+	Study
+3
+D/home/shishqa
+	.local
+3
+D/home/shishqa/.local
+	bin
+1
+D/home/shishqa/.local/bin
+	check-arch-updates
+1
+D/home/shishqa/.local
+	share
+2
+D/home/shishqa
+	.lyrics
+4
+D/home/shishqa/.lyrics
+	..
+0
+D/home/shishqa
+	.vifm
+6
+D/home/shishqa/.vifm
+	..
+0
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	user-dirs.dirs
+17
+D/home/shishqa
+	Music
+9
+D/home/shishqa/.config
+	polybar
+8
+D/home/shishqa/.config/polybar
+	poly_launch
+5
+D/home/shishqa/.config
+	polybar
+8
+D/home/shishqa
+	.local
+3
+D/home/shishqa/.local
+	bin
+1
+D/home/shishqa/.local/bin
+	poly_launch
+4
+D/home/shishqa/.local
+	bin
+1
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	bspwm
+1
+D/home/shishqa/.config/bspwm
+	bspwmrc
+1
+D/home/shishqa/.config
+	bspwm
+1
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	vim
+12
+D/home/shishqa/.config/vim
+	cache
+3
+D/home/shishqa/.config/vim/cache
+	.viminfo
+1
+D/home/shishqa/.config/vim
+	cache
+3
+D/home/shishqa/.config
+	vim
+12
+D/home/shishqa
+	Repositories
+11
+D/home/shishqa/Repositories
+	MIPT
+1
+D/home/shishqa/Repositories/MIPT
+	2020_2
+2
+D/home/shishqa/Repositories/MIPT/2020_2
+	asm
+2
+D/home/shishqa/Repositories/MIPT/2020_2/asm
+	NASM
+4
+D/home/shishqa/Repositories/MIPT/2020_2/asm/NASM
+	break-in
+1
+D/home/shishqa/Repositories/MIPT/2020_2/asm/NASM/break-in
+	egor
+2
+D/home/shishqa/Repositories/MIPT/2020_2/asm/NASM/break-in/egor
+	guess
+2
+D/home/shishqa/Repositories/MIPT/2020_2/asm/NASM/break-in/egor/guess
+	guess
+6
+D/home/shishqa/Repositories/MIPT/2020_2/asm/NASM/break-in/egor
+	crack
+1
+D/home/shishqa/Repositories/MIPT/2020_2/asm/NASM/break-in/egor/crack
+	lesha
+4
+D/home/shishqa/Repositories/MIPT/2020_2/asm/NASM/break-in/egor
+	crack
+1
+D/home/shishqa/Repositories/MIPT/2020_2/asm/NASM/break-in/egor/crack
+	password
+6
+D/home/shishqa/Repositories/MIPT/2020_2/asm/NASM/break-in/egor
+	crack
+1
+D/home/shishqa/Repositories/MIPT/2020_2/asm/NASM/break-in
+	egor
+2
+D/home/shishqa/Repositories/MIPT/2020_2/asm/NASM
+	break-in
+1
+D/home/shishqa/Repositories/MIPT/2020_2/asm
+	NASM
+4
+D/home/shishqa/Repositories/MIPT/2020_2
+	asm
+2
+D/home/shishqa/Repositories/MIPT/2020_2/asm
+	NASM
+4
+D/home/shishqa/Repositories/MIPT/2020_2
+	asm
+2
+D/home/shishqa/Repositories/MIPT
+	2020_2
+2
+D/home/shishqa/Repositories
+	MIPT
+1
+D/home/shishqa
+	Downloads
+9
+D/home/shishqa/Downloads
+	Kudryavtsev-LD-Sbornik-zadach-po-matematicheskomu-analizu-Tom-2-Integraly-Ryady.djvu
+12
+D/home/shishqa
+	Downloads
+9
+D/home
+	shishqa
+1
+D/
+	etc
+4
+D/etc
+	X11
+2
+D/etc/X11
+	xorg.conf.d
+2
+D/etc/X11/xorg.conf.d
+	30-touchpad.conf
+2
+D/home/shishqa
+	Templates
+16
+D/home/shishqa/Templates
+	..
+0
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	.Xresources
+18
+D/home/shishqa
+	arch-dotfiles
+18
+D/home/shishqa/arch-dotfiles
+	Study
+3
+D/home/shishqa
+	Study
+16
+D/home/shishqa/Study
+	Kudryavtsev-LD-Sbornik-zadach-po-matematicheskomu-analizu-Tom-2-Integraly-Ryady.djvu
+3
+D/home/shishqa
+	Pictures
+13
+D/home
+	shishqa
+1
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	yay
+15
+D/home/shishqa
+	.mozilla
+6
+D/home/shishqa/.config
+	user-dirs.dirs
+20
+D/home/shishqa
+	.config
+2
+D/home
+	shishqa
+1
+D/
+	etc
+4
+D/etc
+	X11
+2
+D/etc/X11
+	xorg.conf.d
+2
+D/etc
+	xdg
+34
+D/etc/xdg
+	user-dirs.conf
+5
+D/etc
+	xdg
+34
+D/
+	etc
+4
+D/home/shishqa
+	Music
+10
+D/home/shishqa/Music
+	..
+0
+D/home/shishqa
+	Pictures
+11
+D/home/shishqa/Pictures
+	..
+0
+D/home/shishqa
+	Repositories
+11
+D/home/shishqa/Repositories
+	MIPT
+1
+D/home/shishqa
+	Study
+12
+D/home/shishqa/Study
+	Kudryavtsev-LD-Sbornik-zadach-po-matematicheskomu-analizu-Tom-2-Integraly-Ryady.djvu
+3
+D/home/shishqa
+	Templates
+13
+D/home/shishqa/Templates
+	..
+0
+D/home/shishqa
+	.idapro
+4
+D/home/shishqa/.idapro
+	..
+0
+D/home/shishqa
+	.icons
+3
+D/home/shishqa/.icons
+	default
+1
+D/home/shishqa/.icons/default
+	index.theme
+1
+D/home/shishqa/.icons
+	default
+1
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	.Xresources
+18
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	bspwm
+2
+D/home/shishqa/.config/bspwm
+	bspwmrc
+2
+D/home/shishqa/.config
+	bspwm
+2
+D/home/shishqa
+	.config
+2
+D/home
+	shishqa
+1
+D/
+	mnt
+9
+D/mnt
+	..
+0
+D/
+	mnt
+9
+D/home/shishqa
+	.config
+3
+D/home/shishqa/.config
+	bspwm
+2
+D/home/shishqa/.config/bspwm
+	bspwmrc
+1
+D/home/shishqa/.config
+	bspwm
+2
+D/home/shishqa
+	.config
+3
+D/home/shishqa/.config
+	autostart
+1
+D/home/shishqa/.config/autostart
+	libinput-gestures.desktop
+1
+D/home/shishqa/.config
+	autostart
+1
+D/home/shishqa
+	.cache
+2
+D/home/shishqa/.cache
+	..
+0
+D/home/shishqa
+	.CLion2019.3
+1
+D/home/shishqa/.CLion2019.3
+	config
+1
+D/home/shishqa/.CLion2019.3/config
+	plugins
+3
+D/home/shishqa/.CLion2019.3/config/plugins
+	..
+0
+D/home/shishqa/.CLion2019.3/config
+	plugins
+3
+D/home/shishqa/.CLion2019.3
+	config
+1
+D/home/shishqa
+	.mozilla
+6
+D/home
+	shishqa
+1
+D/home/shishqa
+	tetetetet
+16
+D/home/shishqa/tetetetet
+	..
+0
+D/home/shishqa
+	.Xauthority
+16
+D/home
+	shishqa
+1
+D/
+	home
+5
+D/home
+	shishqa
+1
+D/home/shishqa
+	snap
+18
+D/home/shishqa/snap
+	clion
+1
+D/home/shishqa/snap/clion
+	107
+1
+D/home/shishqa/snap/clion/107
+	..
+0
+D/home/shishqa/snap/clion
+	common
+2
+D/home/shishqa/snap/clion/common
+	..
+0
+D/home/shishqa/snap/clion
+	current
+3
+D/home/shishqa/snap/clion/current
+	..
+0
+D/home/shishqa/snap/clion
+	current
+3
+D/home/shishqa/snap
+	clion
+1
+D/home/shishqa
+	.config
+2
+D/home
+	shishqa
+1
+D/
+	usr
+19
+D/usr
+	share
+8
+D/usr/share
+	..
+0
+D/usr
+	share
+8
+D/
+	home
+5
+D/home
+	shishqa
+1
+D/home/shishqa
+	Study
+15
+D/home/shishqa/Study
+	Kudryavtsev-LD-Sbornik-zadach-po-matematicheskomu-analizu-Tom-2-Integraly-Ryady.djvu
+3
+D/home/shishqa
+	123
+10
+D/home/shishqa/123
+	..
+0
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	htop
+6
+D/home/shishqa
+	.icons
+3
+D/home/shishqa/.icons
+	default
+1
+D/home/shishqa
+	.java
+4
+D/home/shishqa/.java
+	fonts
+2
+D/home/shishqa/.java/fonts
+	..
+0
+D/home/shishqa/.java
+	fonts
+2
+D/home/shishqa
+	.java
+4
+D/home
+	shishqa
+1
+D/home/shishqa
+	.ncmpcpp
+7
+D/home/shishqa/.ncmpcpp
+	error.log
+1
+D/home/shishqa
+	.urxvt
+9
+D/home/shishqa/.urxvt
+	..
+0
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	polybar
+11
+D/home/shishqa
+	.ncmpcpp
+8
+D/home/shishqa/.ncmpcpp
+	error.log
+1
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	ncmpcpp
+8
+D/home/shishqa/.config/ncmpcpp
+	config
+1
+D/home/shishqa/.config
+	ncmpcpp
+8
+D/home/shishqa
+	.config
+2
+D/home
+	shishqa
+1
+D/
+	etc
+4
+D/etc
+	mopidy
+10
+D/etc/mopidy
+	mopidy.conf
+2
+D/etc
+	mopidy
+10
+D/
+	etc
+4
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	mopidy
+7
+D/home/shishqa/.config/mopidy
+	..
+0
+D/home/shishqa/.config
+	nitrogen
+10
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	ncmpcpp
+7
+D/home/shishqa
+	.local
+5
+D/home
+	shishqa
+1
+D/home/shishqa
+	media
+11
+D/home/shishqa/media
+	pictures
+2
+D/home/shishqa
+	.lyrics
+6
+D/home/shishqa/.lyrics
+	..
+0
+D/home/shishqa
+	media
+10
+D/home
+	shishqa
+1
+D/home/shishqa
+	media
+10
+D/home/shishqa/media
+	pictures
+2
+D/home/shishqa/media/pictures
+	..
+0
+D/home/shishqa/media
+	music
+1
+D/home/shishqa/media/music
+	Король и Шут - Король  и Шут.mp3
+2
+D/home/shishqa/media
+	music
+1
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	zsh
+18
+D/home/shishqa/.config/zsh
+	.zshenv
+3
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	zsh
+18
+D/home/shishqa/.config/zsh
+	aliasrc
+5
+D/home/shishqa/.config
+	user-dirs.dirs
+21
+D/home/shishqa
+	.config
+2
+D/home
+	shishqa
+1
+D/
+	etc
+4
+D/etc
+	xdg
+34
+D/etc/xdg
+	user-dirs.defaults
+6
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	nitrogen
+9
+D/home/shishqa
+	.config
+2
+D/home
+	shishqa
+1
+D/
+	etc
+4
+D/etc
+	mopidy
+10
+D/etc/mopidy
+	mopidy.conf
+2
+D/etc
+	mopidy
+10
+D/
+	etc
+4
+D/home/shishqa
+	.config
+2
+D/home/shishqa/.config
+	ncmpcpp
+7
+D/home/shishqa/.config/ncmpcpp
+	config
+1
+D/home/shishqa/.config
+	sxhkd
+13
+D/home/shishqa/.config/sxhkd
+	sxhkdrc
+1
+D/home/shishqa/.config
+	polybar
+11
+D/home/shishqa/.config/polybar
+	bar-top.ini
+2
+D/home/shishqa/.config
+	bspwm
+2
+D/home/shishqa/.config/bspwm
+	bspwmrc
+3
+D/home/shishqa/.config
+	polybar
+11
+D/home/shishqa/.config/polybar
+	modules.ini
+4
+D/home/shishqa/.config
+	polybar
+11
+D/home/shishqa/.config/polybar
+	modules.ini
+4
+D/home/shishqa/.config
+	autostart
+1
+D/home/shishqa/.config/autostart
+	libinput-gestures.desktop
+1
+D/home/shishqa/.config
+	ncmpcpp
+7
+D/home/shishqa
+	arch-dotfiles
+8
+D/home/shishqa/arch-dotfiles
+	config
+4
+D/home/shishqa/arch-dotfiles/config
+	i3
+8
+D/home/shishqa/arch-dotfiles/config/i3
+	config
+1
+D/home/shishqa/arch-dotfiles/config
+	picom
+15
+D/home/shishqa/arch-dotfiles
+	config
+4
+D/home/shishqa
+	study
+12
+D/home/shishqa/study
+	..
+0
+D/home/shishqa
+	repositories
+11
+D/home/shishqa/repositories
+	MIPT
+1
+D/home/shishqa/repositories/MIPT
+	2020_2
+2
+D/home/shishqa/repositories/MIPT/2020_2
+	asm
+2
+D/home/shishqa/repositories/MIPT/2020_2/asm
+	NASM
+4
+D/home/shishqa/repositories/MIPT/2020_2/asm/NASM
+	break-in
+1
+D/home/shishqa/repositories/MIPT/2020_2/asm/NASM/break-in
+	egor
+2
+D/home/shishqa/repositories/MIPT/2020_2/asm/NASM/break-in/egor
+	..
+0
+D/home/shishqa/repositories/MIPT/2020_2/asm/NASM/break-in
+	egor
+2
+D/home/shishqa/repositories/MIPT/2020_2/asm/NASM/break-in/egor
+	crack
+1
+D/home/shishqa/repositories/MIPT/2020_2/asm/NASM/break-in/egor/crack
+	crack.c
+3
+D/home/shishqa/repositories/MIPT/2020_2/asm/NASM/break-in/egor
+	guess
+2
+D/home/shishqa/repositories/MIPT/2020_2/asm/NASM/break-in/egor/guess
+	ATTEMPTS
+1
+D/home/shishqa/repositories/MIPT/2020_2/asm/NASM/break-in/egor
+	password
+3
+D/home/shishqa/repositories/MIPT/2020_2/asm/NASM/break-in
+	egor
+2
+D/home/shishqa/repositories/MIPT/2020_2/asm/NASM/break-in/egor
+	password
+3
+D/home/shishqa/repositories/MIPT/2020_2/asm/NASM/break-in
+	egor
+2
+D/home/shishqa/repositories/MIPT/2020_2/asm/NASM/break-in/egor
+	password
+3
+D/home/shishqa/repositories/MIPT/2020_2/asm/NASM/break-in
+	egor
+2
+D/home/shishqa/repositories/MIPT/2020_2/asm/NASM/break-in/egor
+	guess
+2
+D/home/shishqa/repositories/MIPT/2020_2/asm/NASM/break-in/egor/guess
+	HACK.txt
+2
+D/home/shishqa/repositories/MIPT/2020_2/asm/NASM/break-in/egor
+	guess
+2
+D/home/shishqa/repositories/MIPT/2020_2/asm/NASM/break-in
+	egor
+2
+D/home/shishqa/repositories/MIPT/2020_2/asm/NASM
+	echo
+3
+D/home/shishqa/repositories/MIPT/2020_2/asm
+	C
+2
+D/home/shishqa/repositories/MIPT/2020_2/asm/C
+	hashtable
+2
+D/home/shishqa/repositories/MIPT/2020_2/asm/C/hashtable
+	cmake-build-debug
+2
+D/home/shishqa/repositories/MIPT/2020_2/asm/C/hashtable/cmake-build-debug
+	hashtable
+5
+D/home/shishqa/repositories/MIPT/2020_2/asm/C/hashtable
+	main.cpp
+5
+D/home/shishqa/repositories/MIPT/2020_2/asm/C
+	hashtable
+2
+D/home/shishqa/repositories/MIPT/2020_2/asm
+	C
+2
+D/home/shishqa/repositories/MIPT/2020_2
+	asm
+2
+D/home/shishqa/repositories/MIPT
+	2020_2
+2
+D/home/shishqa/repositories
+	MIPT
+1
+D/home/shishqa
+	snap
+14
+D/home/shishqa/snap
+	clion
+1
+D/home/shishqa
+	snapd
+15
+D/home/shishqa/snapd
+	src
+3
+D/home/shishqa/snapd/src
+	snapd-2.44.2
+2
+D/home/shishqa/snapd/src/snapd-2.44.2
+	..
+0
+D/home/shishqa/snapd/src
+	snapd-2.44.2
+2
+D/home/shishqa/snapd
+	pkg
+2
+D/home/shishqa/snapd/pkg
+	..
+0
+D/home/shishqa/snapd
+	pkg
+2
+D/home/shishqa
+	snapd
+15
+D/home/shishqa/snapd
+	pkg
+2
+D/home/shishqa/snapd/pkg
+	snapd
+1
+D/home/shishqa/snapd/pkg/snapd
+	..
+0
+D/home/shishqa/snapd/pkg
+	snapd
+1
+D/home/shishqa/snapd
+	PKGBUILD
+6
+D/home/shishqa
+	snapd
+13
+D/home
+	shishqa
+1
+D/
+	run
+13
+D
+
+# Command line history (oldest to newest):
+:touch TODO
+:mkdir ncmpcpp
+:touch autostart
+:mkdir Music
+:touch .profile
+:cabbrev
+:colorscheme
+:! sudo vim mirrorlist
+:mkdir cache
+:mkdir dotfiles
+:mkdir 1-semester
+:mkdir 2-semester
+:mkdir C-lang_Dedinsky
+:mkdir C++-lang_Mesherin
+:mkdir Algorithms_Grishutin
+:mkdir Assembly_Dedinskiy
+:mkdir Math-logic_Dashkov
+:wq
+:copy
+:! locale-gen
+:mkdir
+:! sudo touch 20-touchpad.conf
+:!touch .vimrc
+:! touch 
+:touch 10-backlight.conf
+:! sudo touch 10-backlight.conf
+:! sudo vim 10-backlight.conf
+:! sudo rm 10-backlight.conf
+:! sudo vim 20-touchpad.conf
+:! touch .Xresources
+:! sudo vim locale.gen
+:!sudo touch vconsole.conf
+:!sudo vim vconsole.conf
+:! sudo touch 00-keyboard.conf
+:! sudo vim 00-keyboard.conf
+:! mkdir Screenshots
+:mkdir .scripts
+:! touch Жопа!
+:touch vim
+:mkdir vim
+:touch .vimrc
+:mkdir .vim
+:mkdir dunst
+:touch dunstrc
+:! sudo vim mopidy.conf
+:sudo vim mopidy.conf
+:!sudo vim mopidy.conf
+:echo $VIM
+:tourh vimrc.plug
+:touch vimrc.plug
+:! feh eberhard-grossgasteiger-47g-IDWhlCc-unsplash.jpg
+:!make
+:mkdir rofi
+:touch config
+:tou
+:touch modules.ini
+:mkdir picom
+:touch picom.conf
+:touch test.tex
+:! sudo mkdir mounts
+:!sudo rm mounts
+:!sudo rmdir mounts
+:mkdir Win10
+:! sudo mkdir Win10
+:sudo mkdir Manjaro
+:! sudo mkdir Manjaro
+:mkdir rees
+:colo
+:touch bottom
+:touch rofi-wifi
+:! chmod +x rofi-wifi
+:mkdir KLSH
+:touch plan.tex
+:mkdir 119b
+:touch Shishatskiy_119b.tex
+:mkdir 136a
+:touch Shishatskiy_136a.tex
+:mkdir tmp
+:!rm background.jpeg
+:! sudo cp background.jpeg ~/
+:! sudo rm background.jpeg
+:touch murmurhash64B.asm
+:! make
+:touch hack.sh
+:!chmod +x hack.sh
+:mkdir test
+:touch test.asm
+:touch add.c
+:make
+:touch hack.c
+:touch
+:touch main.c
+:touch HACK
+:!chmod +x hacked
+:mkdir crack
+:mkdir guess
+:touch activate
+:mkdir zsh
+:touch .zprofile
+:mkdir images
+:mkdir hashtable
+:touch test_data.csv
+:touch minimal.vifm
+:w
+:mkcd Study
+:! sudo rm nodm
+:touch .zshenv
+:mkdir Repo
+:mkdir MIPT
+:mkdir _1
+:mkdir _2
+:mkdir algo
+:mkdir asm
+:mkdir oop
+:mkdir ml
+:mkdir clang
+:mkcd mpd
+:copy /urs/share/doc/mpd/mpdconf.example $XDG_CONFIG_HOME/mpd/mpd.conf
+:copy /urs/share/doc/mpd/mpdconf.example ~/.config/mpd/mpd.conf
+:!cp /urs/share/doc/mpd/mpdconf.example ~/.config/mpd/mpd.conf
+:copy /usr/share/doc/mpd/mpdconf.example $XDG_CONFIG_HOME/mpd/mpd.conf
+:!cp /usr/share/doc/mpd/mpdconf.example ~/.config/mpd/mpd.conf
+:mkdir playlists
+:! sudo vim client.conf
+:mkdir bin
+:touch test.c
+:!chmod +x password
+:touch crack
+:touch crk
+:touch 30-touchpad.conf
+:mkdir mopidy
+:touch mopidy.conf
+:q
+
+# Search history (oldest to newest):
+/mopidy
+/ncmo
+/pul
+/z
+/zsh
+/ida6
+/urxv
+/mpd
+/dbu
+/urx
+/pacm
+/polk
+/pa,
+/pa
+/polyba
+/pacma
+/vconso
+/locale
+/kbd
+/duns
+/doc
+/ncm
+/mop
+/ncmp
+/xgree
+/gree
+/fon
+/fonts
+/pol
+/ki
+/kiwi
+/rofi
+/grub
+/vifm
+/cairo
+/sig
+/atk
+/vim
+/X11
+/xdg
+/mopi
+
+# Prompt history (oldest to newest):
+ppoly_launch
+pminimal.vifm
+plesha.txt
+pto_egor
+pmacos_security_check.txt
+pMakefile.txt
+psecurity_check.txt
+pMurmurhash64B
+pMyTheme
+pconfig
+pwallpaper
+pcheck-arch-updates
+pconfig.ini
+p.dotfiles
+pvim
+p.vimrc
+pdunstrc
+pvimfiles
+p.vimrc.plug
+ptop
+pbottom.ini
+pbar-top
+pbar-bottom.ini
+pplane.png
+pdiametral.png
+plow_distance.png
+pbig_distance
+pbig_distance.png
+pbackground
+pmenu_n.png
+pmenu_s.png
+pmenu_e.png
+pmenu_w.png
+pmenu_ne.png
+pmenu_nw.png
+pmenu_se.png
+pmenu_sw.png
+pterminal_box_c.png
+pinbox_n.png
+pinbox_s.png
+pinbox_w.png
+pinbox_e.png
+pinbox_nw.png
+pinbox_ne.png
+pinbox_sw.png
+pinbox_se.png
+pprogress_c
+ptest
+phack
+pbg.jpg
+pcrack.c
+pguess.c
+p.asm
+pHACK.txt
+pPSSWD.txt
+pcrack
+pMakefile
+pmacos_security_check
+psecurity_check
+phistory
+pprofile
+pProblem1_T1_rebuilt.png
+pProblem1_before.png
+pProblem1_after.png
+pProblem4_Merge.png
+pProblem4_split.png
+pProblem4_merge.png
+p.zlogin
+p.profile
+p.zprofile
+pRepos
+pRepositories
+p2019_1
+p2020_2
+palg
+ppassword
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/.vifm-Trash-0/000_snap
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/shishqa/.local/share/vifm/Trash/000_.vimrc
+	/home/shishqa/.vimrc
+t/home/shishqa/.local/share/vifm/Trash/000_.viminfo
+	/home/shishqa/.viminfo
+t/home/shishqa/.local/share/vifm/Trash/000_Downloads
+	/home/shishqa/Downloads
+t/home/shishqa/.local/share/vifm/Trash/000_Загрузки
+	/home/shishqa/Загрузки
+t/home/shishqa/.local/share/vifm/Trash/000_2020-03-29-150941_1920x1080_scrot.png
+	/home/shishqa/2020-03-29-150941_1920x1080_scrot.png
+t/home/shishqa/.local/share/vifm/Trash/000_2020-03-29_15:19:53_scrot.png
+	/home/shishqa/Screenshots/2020-03-29_15:19:53_scrot.png
+t/home/shishqa/.local/share/vifm/Trash/000_2020-03-29_15:19:57_scrot.png
+	/home/shishqa/Screenshots/2020-03-29_15:19:57_scrot.png
+t/home/shishqa/.local/share/vifm/Trash/000_2020-03-29_15:12:16_scrot.png
+	/home/shishqa/2020-03-29_15:12:16_scrot.png
+t/home/shishqa/.local/share/vifm/Trash/000_2020-03-29_15:23:57_scrot.png
+	/home/shishqa/2020-03-29_15:23:57_scrot.png
+t/home/shishqa/.local/share/vifm/Trash/000_2020-03-29_15:24:19_scrot.png
+	/home/shishqa/2020-03-29_15:24:19_scrot.png
+t/home/shishqa/.local/share/vifm/Trash/000_2020-03-29_15:26:18_scrot.png
+	/home/shishqa/2020-03-29_15:26:18_scrot.png
+t/home/shishqa/.local/share/vifm/Trash/000_2020-03-29_15:31:03_scrot.png
+	/home/shishqa/Screenshots/2020-03-29_15:31:03_scrot.png
+t/home/shishqa/.local/share/vifm/Trash/000_2020-03-29_15:32:55_scrot.png
+	/home/shishqa/Screenshots/2020-03-29_15:32:55_scrot.png
+t/home/shishqa/.local/share/vifm/Trash/000_vim
+	/home/shishqa/vim
+t/home/shishqa/.local/share/vifm/Trash/000_2020-03-29_17:48:32_scrot.png
+	/home/shishqa/Screenshots/2020-03-29_17:48:32_scrot.png
+t/home/shishqa/.local/share/vifm/Trash/000_2020-03-29_18:01:31_scrot.png
+	/home/shishqa/Screenshots/2020-03-29_18:01:31_scrot.png
+t/home/shishqa/.local/share/vifm/Trash/000_2020-03-29_18:01:40_scrot.png
+	/home/shishqa/Screenshots/2020-03-29_18:01:40_scrot.png
+t/home/shishqa/.local/share/vifm/Trash/000_yay
+	/home/shishqa/yay
+t/home/shishqa/.local/share/vifm/Trash/000_TXLib.h
+	/home/shishqa/Downloads/TXLib.h
+t/home/shishqa/.local/share/vifm/Trash/000_.vifm
+	/home/shishqa/.vifm
+t/home/shishqa/.local/share/vifm/Trash/002_vim
+	/home/shishqa/.config/vim
+t/home/shishqa/.local/share/vifm/Trash/001_.vimrc
+	/home/shishqa/.config/vim/.vimrc
+t/home/shishqa/.local/share/vifm/Trash/000_Desktop
+	/home/shishqa/Desktop
+t/home/shishqa/.local/share/vifm/Trash/000_test
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/test
+t/home/shishqa/.local/share/vifm/Trash/000_test.lst
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/test.lst
+t/home/shishqa/.local/share/vifm/Trash/000_test.o
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/test.o
+t/home/shishqa/.local/share/vifm/Trash/000_test.s
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/test.s
+t/home/shishqa/.local/share/vifm/Trash/000_Tick_counter
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/Tick_counter
+t/home/shishqa/.local/share/vifm/Trash/000_Ticks
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/Ticks
+t/home/shishqa/.local/share/vifm/Trash/000_dunstrc
+	/home/shishqa/.config/dunst/dunstrc
+t/home/shishqa/.local/share/vifm/Trash/000_lecture_1
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/lecture_1
+t/home/shishqa/.local/share/vifm/Trash/000_1585480845.png
+	/home/shishqa/Screenshots/1585480845.png
+t/home/shishqa/.local/share/vifm/Trash/000_.ncmpcpp
+	/home/shishqa/.ncmpcpp
+t/home/shishqa/.local/share/vifm/Trash/000_config
+	/home/shishqa/.ncmpcpp/config
+t/home/shishqa/.local/share/vifm/Trash/000_.vim
+	/home/shishqa/.config/vim/.vim
+t/home/shishqa/.local/share/vifm/Trash/000_vim82
+	/home/shishqa/.config/vim/vim82
+t/home/shishqa/.local/share/vifm/Trash/000_colors
+	/home/shishqa/.config/vim/vim82/colors
+t/home/shishqa/.local/share/vifm/Trash/000_compiler
+	/home/shishqa/.config/vim/vim82/compiler
+t/home/shishqa/.local/share/vifm/Trash/000_doc
+	/home/shishqa/.config/vim/vim82/doc
+t/home/shishqa/.local/share/vifm/Trash/000_ftplugin
+	/home/shishqa/.config/vim/vim82/ftplugin
+t/home/shishqa/.local/share/vifm/Trash/000_indent
+	/home/shishqa/.config/vim/vim82/indent
+t/home/shishqa/.local/share/vifm/Trash/000_keymap
+	/home/shishqa/.config/vim/vim82/keymap
+t/home/shishqa/.local/share/vifm/Trash/000_lang
+	/home/shishqa/.config/vim/vim82/lang
+t/home/shishqa/.local/share/vifm/Trash/000_macros
+	/home/shishqa/.config/vim/vim82/macros
+t/home/shishqa/.local/share/vifm/Trash/000_pack
+	/home/shishqa/.config/vim/vim82/pack
+t/home/shishqa/.local/share/vifm/Trash/000_plugin
+	/home/shishqa/.config/vim/vim82/plugin
+t/home/shishqa/.local/share/vifm/Trash/000_print
+	/home/shishqa/.config/vim/vim82/print
+t/home/shishqa/.local/share/vifm/Trash/000_spell
+	/home/shishqa/.config/vim/vim82/spell
+t/home/shishqa/.local/share/vifm/Trash/000_syntax
+	/home/shishqa/.config/vim/vim82/syntax
+t/home/shishqa/.local/share/vifm/Trash/000_tools
+	/home/shishqa/.config/vim/vim82/tools
+t/home/shishqa/.local/share/vifm/Trash/000_tutor
+	/home/shishqa/.config/vim/vim82/tutor
+t/home/shishqa/.local/share/vifm/Trash/000_bugreport.vim
+	/home/shishqa/.config/vim/vim82/bugreport.vim
+t/home/shishqa/.local/share/vifm/Trash/000_defaults.vim
+	/home/shishqa/.config/vim/vim82/defaults.vim
+t/home/shishqa/.local/share/vifm/Trash/000_delmenu.vim
+	/home/shishqa/.config/vim/vim82/delmenu.vim
+t/home/shishqa/.local/share/vifm/Trash/000_evim.vim
+	/home/shishqa/.config/vim/vim82/evim.vim
+t/home/shishqa/.local/share/vifm/Trash/000_filetype.vim
+	/home/shishqa/.config/vim/vim82/filetype.vim
+t/home/shishqa/.local/share/vifm/Trash/000_ftoff.vim
+	/home/shishqa/.config/vim/vim82/ftoff.vim
+t/home/shishqa/.local/share/vifm/Trash/000_ftplugin.vim
+	/home/shishqa/.config/vim/vim82/ftplugin.vim
+t/home/shishqa/.local/share/vifm/Trash/000_ftplugof.vim
+	/home/shishqa/.config/vim/vim82/ftplugof.vim
+t/home/shishqa/.local/share/vifm/Trash/000_gvimrc_example.vim
+	/home/shishqa/.config/vim/vim82/gvimrc_example.vim
+t/home/shishqa/.local/share/vifm/Trash/000_indent.vim
+	/home/shishqa/.config/vim/vim82/indent.vim
+t/home/shishqa/.local/share/vifm/Trash/000_indoff.vim
+	/home/shishqa/.config/vim/vim82/indoff.vim
+t/home/shishqa/.local/share/vifm/Trash/000_menu.vim
+	/home/shishqa/.config/vim/vim82/menu.vim
+t/home/shishqa/.local/share/vifm/Trash/000_mswin.vim
+	/home/shishqa/.config/vim/vim82/mswin.vim
+t/home/shishqa/.local/share/vifm/Trash/000_optwin.vim
+	/home/shishqa/.config/vim/vim82/optwin.vim
+t/home/shishqa/.local/share/vifm/Trash/000_rgb.txt
+	/home/shishqa/.config/vim/vim82/rgb.txt
+t/home/shishqa/.local/share/vifm/Trash/000_scripts.vim
+	/home/shishqa/.config/vim/vim82/scripts.vim
+t/home/shishqa/.local/share/vifm/Trash/000_synmenu.vim
+	/home/shishqa/.config/vim/vim82/synmenu.vim
+t/home/shishqa/.local/share/vifm/Trash/000_vimrc_example.vim
+	/home/shishqa/.config/vim/vim82/vimrc_example.vim
+t/home/shishqa/.local/share/vifm/Trash/000_dist
+	/home/shishqa/.config/vim/vim82/autoload/dist
+t/home/shishqa/.local/share/vifm/Trash/000_xml
+	/home/shishqa/.config/vim/vim82/autoload/xml
+t/home/shishqa/.local/share/vifm/Trash/000_README.txt
+	/home/shishqa/.config/vim/vim82/autoload/README.txt
+t/home/shishqa/.local/share/vifm/Trash/000_RstFold.vim
+	/home/shishqa/.config/vim/vim82/autoload/RstFold.vim
+t/home/shishqa/.local/share/vifm/Trash/000_ada.vim
+	/home/shishqa/.config/vim/vim82/autoload/ada.vim
+t/home/shishqa/.local/share/vifm/Trash/000_adacomplete.vim
+	/home/shishqa/.config/vim/vim82/autoload/adacomplete.vim
+t/home/shishqa/.local/share/vifm/Trash/000_ccomplete.vim
+	/home/shishqa/.config/vim/vim82/autoload/ccomplete.vim
+t/home/shishqa/.local/share/vifm/Trash/000_clojurecomplete.vim
+	/home/shishqa/.config/vim/vim82/autoload/clojurecomplete.vim
+t/home/shishqa/.local/share/vifm/Trash/000_context.vim
+	/home/shishqa/.config/vim/vim82/autoload/context.vim
+t/home/shishqa/.local/share/vifm/Trash/000_contextcomplete.vim
+	/home/shishqa/.config/vim/vim82/autoload/contextcomplete.vim
+t/home/shishqa/.local/share/vifm/Trash/000_csscomplete.vim
+	/home/shishqa/.config/vim/vim82/autoload/csscomplete.vim
+t/home/shishqa/.local/share/vifm/Trash/000_decada.vim
+	/home/shishqa/.config/vim/vim82/autoload/decada.vim
+t/home/shishqa/.local/share/vifm/Trash/000_getscript.vim
+	/home/shishqa/.config/vim/vim82/autoload/getscript.vim
+t/home/shishqa/.local/share/vifm/Trash/000_gnat.vim
+	/home/shishqa/.config/vim/vim82/autoload/gnat.vim
+t/home/shishqa/.local/share/vifm/Trash/000_gzip.vim
+	/home/shishqa/.config/vim/vim82/autoload/gzip.vim
+t/home/shishqa/.local/share/vifm/Trash/000_haskellcomplete.vim
+	/home/shishqa/.config/vim/vim82/autoload/haskellcomplete.vim
+t/home/shishqa/.local/share/vifm/Trash/000_htmlcomplete.vim
+	/home/shishqa/.config/vim/vim82/autoload/htmlcomplete.vim
+t/home/shishqa/.local/share/vifm/Trash/000_javascriptcomplete.vim
+	/home/shishqa/.config/vim/vim82/autoload/javascriptcomplete.vim
+t/home/shishqa/.local/share/vifm/Trash/000_netrw.vim
+	/home/shishqa/.config/vim/vim82/autoload/netrw.vim
+t/home/shishqa/.local/share/vifm/Trash/000_netrwFileHandlers.vim
+	/home/shishqa/.config/vim/vim82/autoload/netrwFileHandlers.vim
+t/home/shishqa/.local/share/vifm/Trash/000_netrwSettings.vim
+	/home/shishqa/.config/vim/vim82/autoload/netrwSettings.vim
+t/home/shishqa/.local/share/vifm/Trash/000_netrw_gitignore.vim
+	/home/shishqa/.config/vim/vim82/autoload/netrw_gitignore.vim
+t/home/shishqa/.local/share/vifm/Trash/000_paste.vim
+	/home/shishqa/.config/vim/vim82/autoload/paste.vim
+t/home/shishqa/.local/share/vifm/Trash/000_phpcomplete.vim
+	/home/shishqa/.config/vim/vim82/autoload/phpcomplete.vim
+t/home/shishqa/.local/share/vifm/Trash/000_python3complete.vim
+	/home/shishqa/.config/vim/vim82/autoload/python3complete.vim
+t/home/shishqa/.local/share/vifm/Trash/000_pythoncomplete.vim
+	/home/shishqa/.config/vim/vim82/autoload/pythoncomplete.vim
+t/home/shishqa/.local/share/vifm/Trash/000_rubycomplete.vim
+	/home/shishqa/.config/vim/vim82/autoload/rubycomplete.vim
+t/home/shishqa/.local/share/vifm/Trash/000_rust.vim
+	/home/shishqa/.config/vim/vim82/autoload/rust.vim
+t/home/shishqa/.local/share/vifm/Trash/000_rustfmt.vim
+	/home/shishqa/.config/vim/vim82/autoload/rustfmt.vim
+t/home/shishqa/.local/share/vifm/Trash/000_spellfile.vim
+	/home/shishqa/.config/vim/vim82/autoload/spellfile.vim
+t/home/shishqa/.local/share/vifm/Trash/000_sqlcomplete.vim
+	/home/shishqa/.config/vim/vim82/autoload/sqlcomplete.vim
+t/home/shishqa/.local/share/vifm/Trash/000_syntaxcomplete.vim
+	/home/shishqa/.config/vim/vim82/autoload/syntaxcomplete.vim
+t/home/shishqa/.local/share/vifm/Trash/000_tar.vim
+	/home/shishqa/.config/vim/vim82/autoload/tar.vim
+t/home/shishqa/.local/share/vifm/Trash/000_tohtml.vim
+	/home/shishqa/.config/vim/vim82/autoload/tohtml.vim
+t/home/shishqa/.local/share/vifm/Trash/000_vimball.vim
+	/home/shishqa/.config/vim/vim82/autoload/vimball.vim
+t/home/shishqa/.local/share/vifm/Trash/000_xmlcomplete.vim
+	/home/shishqa/.config/vim/vim82/autoload/xmlcomplete.vim
+t/home/shishqa/.local/share/vifm/Trash/000_xmlformat.vim
+	/home/shishqa/.config/vim/vim82/autoload/xmlformat.vim
+t/home/shishqa/.local/share/vifm/Trash/000_zip.vim
+	/home/shishqa/.config/vim/vim82/autoload/zip.vim
+t/home/shishqa/.local/share/vifm/Trash/000_vimfiles
+	/home/shishqa/.config/vim/vimfiles
+t/home/shishqa/.local/share/vifm/Trash/001_test_printf.id0
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/custom_printf/test_printf.id0
+t/home/shishqa/.local/share/vifm/Trash/001_test_printf.id1
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/custom_printf/test_printf.id1
+t/home/shishqa/.local/share/vifm/Trash/001_test_printf.id2
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/custom_printf/test_printf.id2
+t/home/shishqa/.local/share/vifm/Trash/001_test_printf.nam
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/custom_printf/test_printf.nam
+t/home/shishqa/.local/share/vifm/Trash/001_test_printf.til
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/custom_printf/test_printf.til
+t/home/shishqa/.local/share/vifm/Trash/000_.xsession
+	/home/shishqa/.xsession
+t/home/shishqa/.local/share/vifm/Trash/000_.xsession-errors.old
+	/home/shishqa/.xsession-errors.old
+t/home/shishqa/.local/share/vifm/Trash/000_Kitware
+	/home/shishqa/.config/Kitware
+t/home/shishqa/.local/share/vifm/Trash/000_environment.d
+	/home/shishqa/.config/environment.d
+t/home/shishqa/.local/share/vifm/Trash/000_picom.conf
+	/home/shishqa/.config/picom/picom.conf
+t/home/shishqa/.local/share/vifm/Trash/000_tmp-gaps
+	/home/shishqa/tmp-gaps
+t/home/shishqa/.local/share/vifm/Trash/000_.xsession-errors
+	/home/shishqa/.xsession-errors
+t/home/shishqa/.local/share/vifm/Trash/000_test.aux
+	/home/shishqa/Repositories/test.aux
+t/home/shishqa/.local/share/vifm/Trash/000_test.fdb_latexmk
+	/home/shishqa/Repositories/test.fdb_latexmk
+t/home/shishqa/.local/share/vifm/Trash/000_test.fls
+	/home/shishqa/Repositories/test.fls
+t/home/shishqa/.local/share/vifm/Trash/000_test.log
+	/home/shishqa/Repositories/test.log
+t/home/shishqa/.local/share/vifm/Trash/000_test.pdf
+	/home/shishqa/Repositories/test.pdf
+t/home/shishqa/.local/share/vifm/Trash/000_test.synctex.gz
+	/home/shishqa/Repositories/test.synctex.gz
+t/home/shishqa/.local/share/vifm/Trash/000_test.tex
+	/home/shishqa/Repositories/test.tex
+t/home/shishqa/.local/share/vifm/Trash/000_tmp
+	/home/shishqa/.config/vim/tmp
+t/home/shishqa/.local/share/vifm/Trash/000_ghidra_scripts
+	/home/shishqa/ghidra_scripts
+t/home/shishqa/.local/share/vifm/Trash/000_.ghidra
+	/home/shishqa/.ghidra
+t/home/shishqa/.local/share/vifm/Trash/000_.idapro
+	/home/shishqa/.idapro
+t/home/shishqa/.local/share/vifm/Trash/000_.lyrics
+	/home/shishqa/.lyrics
+t/home/shishqa/.local/share/vifm/Trash/000_arstotzka.vim
+	/home/shishqa/.config/vim/colors/arstotzka.vim
+t/home/shishqa/.local/share/vifm/Trash/000_azure.vim
+	/home/shishqa/.config/vim/colors/azure.vim
+t/home/shishqa/.local/share/vifm/Trash/000_bold.vim
+	/home/shishqa/.config/vim/colors/bold.vim
+t/home/shishqa/.local/share/vifm/Trash/000_boxuk.vim
+	/home/shishqa/.config/vim/colors/boxuk.vim
+t/home/shishqa/.local/share/vifm/Trash/000_carbonight-contrast.vim
+	/home/shishqa/.config/vim/colors/carbonight-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_carbonight.vim
+	/home/shishqa/.config/vim/colors/carbonight.vim
+t/home/shishqa/.local/share/vifm/Trash/000_chocolate.vim
+	/home/shishqa/.config/vim/colors/chocolate.vim
+t/home/shishqa/.local/share/vifm/Trash/000_crisp.vim
+	/home/shishqa/.config/vim/colors/crisp.vim
+t/home/shishqa/.local/share/vifm/Trash/000_darkside-contrast.vim
+	/home/shishqa/.config/vim/colors/darkside-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_darkside.vim
+	/home/shishqa/.config/vim/colors/darkside.vim
+t/home/shishqa/.local/share/vifm/Trash/000_earthsong-contrast.vim
+	/home/shishqa/.config/vim/colors/earthsong-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_earthsong-light.vim
+	/home/shishqa/.config/vim/colors/earthsong-light.vim
+t/home/shishqa/.local/share/vifm/Trash/000_earthsong.vim
+	/home/shishqa/.config/vim/colors/earthsong.vim
+t/home/shishqa/.local/share/vifm/Trash/000_freshcut-contrast.vim
+	/home/shishqa/.config/vim/colors/freshcut-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_freshcut.vim
+	/home/shishqa/.config/vim/colors/freshcut.vim
+t/home/shishqa/.local/share/vifm/Trash/000_frontier-contrast.vim
+	/home/shishqa/.config/vim/colors/frontier-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_frontier.vim
+	/home/shishqa/.config/vim/colors/frontier.vim
+t/home/shishqa/.local/share/vifm/Trash/000_github.vim
+	/home/shishqa/.config/vim/colors/github.vim
+t/home/shishqa/.local/share/vifm/Trash/000_gloom-contrast.vim
+	/home/shishqa/.config/vim/colors/gloom-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_gloom.vim
+	/home/shishqa/.config/vim/colors/gloom.vim
+t/home/shishqa/.local/share/vifm/Trash/000_glowfish-contrast.vim
+	/home/shishqa/.config/vim/colors/glowfish-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_glowfish.vim
+	/home/shishqa/.config/vim/colors/glowfish.vim
+t/home/shishqa/.local/share/vifm/Trash/000_goldfish-contrast.vim
+	/home/shishqa/.config/vim/colors/goldfish-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_goldfish.vim
+	/home/shishqa/.config/vim/colors/goldfish.vim
+t/home/shishqa/.local/share/vifm/Trash/000_grunge-contrast.vim
+	/home/shishqa/.config/vim/colors/grunge-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_grunge.vim
+	/home/shishqa/.config/vim/colors/grunge.vim
+t/home/shishqa/.local/share/vifm/Trash/000_halflife-contrast.vim
+	/home/shishqa/.config/vim/colors/halflife-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_halflife.vim
+	/home/shishqa/.config/vim/colors/halflife.vim
+t/home/shishqa/.local/share/vifm/Trash/000_heroku.vim
+	/home/shishqa/.config/vim/colors/heroku.vim
+t/home/shishqa/.local/share/vifm/Trash/000_hyrule-contrast.vim
+	/home/shishqa/.config/vim/colors/hyrule-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_hyrule.vim
+	/home/shishqa/.config/vim/colors/hyrule.vim
+t/home/shishqa/.local/share/vifm/Trash/000_iceberg-contrast.vim
+	/home/shishqa/.config/vim/colors/iceberg-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_iceberg.vim
+	/home/shishqa/.config/vim/colors/iceberg.vim
+t/home/shishqa/.local/share/vifm/Trash/000_juicy-contrast.vim
+	/home/shishqa/.config/vim/colors/juicy-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_juicy.vim
+	/home/shishqa/.config/vim/colors/juicy.vim
+t/home/shishqa/.local/share/vifm/Trash/000_keen-contrast.vim
+	/home/shishqa/.config/vim/colors/keen-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_keen.vim
+	/home/shishqa/.config/vim/colors/keen.vim
+t/home/shishqa/.local/share/vifm/Trash/000_kiwi.vim
+	/home/shishqa/.config/vim/colors/kiwi.vim
+t/home/shishqa/.local/share/vifm/Trash/000_laravel-contrast.vim
+	/home/shishqa/.config/vim/colors/laravel-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_laravel.vim
+	/home/shishqa/.config/vim/colors/laravel.vim
+t/home/shishqa/.local/share/vifm/Trash/000_lavender-contrast.vim
+	/home/shishqa/.config/vim/colors/lavender-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_lavender.vim
+	/home/shishqa/.config/vim/colors/lavender.vim
+t/home/shishqa/.local/share/vifm/Trash/000_legacy.vim
+	/home/shishqa/.config/vim/colors/legacy.vim
+t/home/shishqa/.local/share/vifm/Trash/000_mellow-contrast.vim
+	/home/shishqa/.config/vim/colors/mellow-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_mellow.vim
+	/home/shishqa/.config/vim/colors/mellow.vim
+t/home/shishqa/.local/share/vifm/Trash/000_mintchoc.vim
+	/home/shishqa/.config/vim/colors/mintchoc.vim
+t/home/shishqa/.local/share/vifm/Trash/000_mud-contrast.vim
+	/home/shishqa/.config/vim/colors/mud-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_mud.vim
+	/home/shishqa/.config/vim/colors/mud.vim
+t/home/shishqa/.local/share/vifm/Trash/000_otakon.vim
+	/home/shishqa/.config/vim/colors/otakon.vim
+t/home/shishqa/.local/share/vifm/Trash/000_parsec.vim
+	/home/shishqa/.config/vim/colors/parsec.vim
+t/home/shishqa/.local/share/vifm/Trash/000_pastel.vim
+	/home/shishqa/.config/vim/colors/pastel.vim
+t/home/shishqa/.local/share/vifm/Trash/000_patriot-contrast.vim
+	/home/shishqa/.config/vim/colors/patriot-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_patriot.vim
+	/home/shishqa/.config/vim/colors/patriot.vim
+t/home/shishqa/.local/share/vifm/Trash/000_peacock-contrast.vim
+	/home/shishqa/.config/vim/colors/peacock-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_peacock.vim
+	/home/shishqa/.config/vim/colors/peacock.vim
+t/home/shishqa/.local/share/vifm/Trash/000_peacocks-in-space.vim
+	/home/shishqa/.config/vim/colors/peacocks-in-space.vim
+t/home/shishqa/.local/share/vifm/Trash/000_peel.vim
+	/home/shishqa/.config/vim/colors/peel.vim
+t/home/shishqa/.local/share/vifm/Trash/000_piggy.vim
+	/home/shishqa/.config/vim/colors/piggy.vim
+t/home/shishqa/.local/share/vifm/Trash/000_potpourri-contrast.vim
+	/home/shishqa/.config/vim/colors/potpourri-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_potpourri.vim
+	/home/shishqa/.config/vim/colors/potpourri.vim
+t/home/shishqa/.local/share/vifm/Trash/000_rainbow.vim
+	/home/shishqa/.config/vim/colors/rainbow.vim
+t/home/shishqa/.local/share/vifm/Trash/000_revelation-contrast.vim
+	/home/shishqa/.config/vim/colors/revelation-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_revelation.vim
+	/home/shishqa/.config/vim/colors/revelation.vim
+t/home/shishqa/.local/share/vifm/Trash/000_shrek.vim
+	/home/shishqa/.config/vim/colors/shrek.vim
+t/home/shishqa/.local/share/vifm/Trash/000_slate.vim
+	/home/shishqa/.config/vim/colors/slate.vim
+t/home/shishqa/.local/share/vifm/Trash/000_slime-contrast.vim
+	/home/shishqa/.config/vim/colors/slime-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_slime.vim
+	/home/shishqa/.config/vim/colors/slime.vim
+t/home/shishqa/.local/share/vifm/Trash/000_snappy-contrast.vim
+	/home/shishqa/.config/vim/colors/snappy-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_snappy-light.vim
+	/home/shishqa/.config/vim/colors/snappy-light.vim
+t/home/shishqa/.local/share/vifm/Trash/000_snappy.vim
+	/home/shishqa/.config/vim/colors/snappy.vim
+t/home/shishqa/.local/share/vifm/Trash/000_solarflare-contrast.vim
+	/home/shishqa/.config/vim/colors/solarflare-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_solarflare.vim
+	/home/shishqa/.config/vim/colors/solarflare.vim
+t/home/shishqa/.local/share/vifm/Trash/000_sourlick-contrast.vim
+	/home/shishqa/.config/vim/colors/sourlick-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_sourlick.vim
+	/home/shishqa/.config/vim/colors/sourlick.vim
+t/home/shishqa/.local/share/vifm/Trash/000_spearmint.vim
+	/home/shishqa/.config/vim/colors/spearmint.vim
+t/home/shishqa/.local/share/vifm/Trash/000_stark-contrast.vim
+	/home/shishqa/.config/vim/colors/stark-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_stark.vim
+	/home/shishqa/.config/vim/colors/stark.vim
+t/home/shishqa/.local/share/vifm/Trash/000_super.vim
+	/home/shishqa/.config/vim/colors/super.vim
+t/home/shishqa/.local/share/vifm/Trash/000_tonic.vim
+	/home/shishqa/.config/vim/colors/tonic.vim
+t/home/shishqa/.local/share/vifm/Trash/000_tribal.vim
+	/home/shishqa/.config/vim/colors/tribal.vim
+t/home/shishqa/.local/share/vifm/Trash/000_tron-contrast.vim
+	/home/shishqa/.config/vim/colors/tron-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_tron.vim
+	/home/shishqa/.config/vim/colors/tron.vim
+t/home/shishqa/.local/share/vifm/Trash/000_turnip-contrast.vim
+	/home/shishqa/.config/vim/colors/turnip-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_turnip.vim
+	/home/shishqa/.config/vim/colors/turnip.vim
+t/home/shishqa/.local/share/vifm/Trash/000_userscape.vim
+	/home/shishqa/.config/vim/colors/userscape.vim
+t/home/shishqa/.local/share/vifm/Trash/000_yule.vim
+	/home/shishqa/.config/vim/colors/yule.vim
+t/home/shishqa/.local/share/vifm/Trash/000_zacks-contrast.vim
+	/home/shishqa/.config/vim/colors/zacks-contrast.vim
+t/home/shishqa/.local/share/vifm/Trash/000_zacks.vim
+	/home/shishqa/.config/vim/colors/zacks.vim
+t/home/shishqa/.local/share/vifm/Trash/000_rees
+	/home/shishqa/rees
+t/home/shishqa/.local/share/vifm/Trash/000_system-usb-mount
+	/home/shishqa/.local/bin/system-usb-mount
+t/.vifm-Trash-0/000_fabrizio-conti-ds_W6kF3IoU-unsplash.jpg
+	/etc/lightdm/fabrizio-conti-ds_W6kF3IoU-unsplash.jpg
+t/home/shishqa/.local/share/vifm/Trash/000_i3
+	/home/shishqa/Repositories/.dotfiles/i3
+t/home/shishqa/.local/share/vifm/Trash/000_vifm
+	/home/shishqa/Repositories/.dotfiles/vifm
+t/home/shishqa/.local/share/vifm/Trash/003_vim
+	/home/shishqa/Repositories/.dotfiles/vim
+t/home/shishqa/.local/share/vifm/Trash/000_vifm-colors
+	/home/shishqa/Repositories/.dotfiles/config/vifm/colors/vifm-colors
+t/home/shishqa/.local/share/vifm/Trash/000_.xinitrc
+	/home/shishqa/.config/.xinitrc
+t/home/shishqa/.local/share/vifm/Trash/001_.xinitrc
+	/home/shishqa/Repositories/.dotfiles/.xinitrc
+t/home/shishqa/.local/share/vifm/Trash/000_.Xresources
+	/home/shishqa/Repositories/.dotfiles/.Xresources
+t/home/shishqa/.local/share/vifm/Trash/000_CB_1stApril_contest
+	/home/shishqa/Repositories/CB_1stApril_contest
+t/home/shishqa/.local/share/vifm/Trash/000_big_distance.png
+	/home/shishqa/Repositories/MIPT/2-semester/Math-logic_Dashkov/136a/images/big_distance.png
+t/.vifm-Trash-0/000_background.jpg
+	/boot/grub/themes/Slaze/background.jpg
+t/home/shishqa/.local/share/vifm/Trash/001_config
+	/home/shishqa/.config/rofi/config
+t/home/shishqa/.local/share/vifm/Trash/000_config.rasi
+	/home/shishqa/.config/rofi/config.rasi
+t/home/shishqa/.local/share/vifm/Trash/000_android_notification.rasi
+	/home/shishqa/.config/rofi/android_notification.rasi
+t/home/shishqa/.local/share/vifm/Trash/000_Grub2_guide_progress_c.png
+	/home/shishqa/Grub2_guide_progress_c.png
+t/home/shishqa/.local/share/vifm/Trash/000_background.jpeg
+	/home/shishqa/background.jpeg
+t/home/shishqa/.local/share/vifm/Trash/000_Archlinux
+	/home/shishqa/tmp/Archlinux
+t/home/shishqa/.local/share/vifm/Trash/000_ranger
+	/home/shishqa/.config/ranger
+t/home/shishqa/.local/share/vifm/Trash/000_123
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/123
+t/home/shishqa/.local/share/vifm/Trash/000_sequrity_check.asm
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/sequrity_check.asm
+t/home/shishqa/.local/share/vifm/Trash/000_murmurhash64B.asm
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/murmurhash64B.asm
+t/home/shishqa/.local/share/vifm/Trash/001_tmp
+	/home/shishqa/tmp
+t/home/shishqa/.local/share/vifm/Trash/000_myscheme
+	/home/shishqa/.config/vis/colors/myscheme
+t/home/shishqa/.local/share/vifm/Trash/000_vis
+	/home/shishqa/.config/vis
+t/home/shishqa/.local/share/vifm/Trash/000_.gtkrc.tmp-0
+	/home/shishqa/.gtkrc.tmp-0
+t/home/shishqa/.local/share/vifm/Trash/000_xfce4
+	/home/shishqa/.config/xfce4
+t/home/shishqa/.local/share/vifm/Trash/000_rofi
+	/home/shishqa/.config/rofi
+t/home/shishqa/.local/share/vifm/Trash/002_config
+	/home/shishqa/Repositories/.dotfiles/config
+t/home/shishqa/.local/share/vifm/Trash/000_Thunar
+	/home/shishqa/Repositories/.dotfiles/config/Thunar
+t/home/shishqa/.local/share/vifm/Trash/000_dconf
+	/home/shishqa/Repositories/.dotfiles/config/dconf
+t/home/shishqa/.local/share/vifm/Trash/000_inkscape
+	/home/shishqa/Repositories/.dotfiles/config/inkscape
+t/home/shishqa/.local/share/vifm/Trash/000_obs-studio
+	/home/shishqa/Repositories/.dotfiles/config/obs-studio
+t/home/shishqa/.local/share/vifm/Trash/000_oomox
+	/home/shishqa/Repositories/.dotfiles/config/oomox
+t/home/shishqa/.local/share/vifm/Trash/000_qt5ct
+	/home/shishqa/Repositories/.dotfiles/config/qt5ct
+t/home/shishqa/.local/share/vifm/Trash/000_qutebrowser
+	/home/shishqa/Repositories/.dotfiles/config/qutebrowser
+t/home/shishqa/.local/share/vifm/Trash/000_vlc
+	/home/shishqa/Repositories/.dotfiles/config/vlc
+t/home/shishqa/.local/share/vifm/Trash/001_yay
+	/home/shishqa/Repositories/.dotfiles/config/yay
+t/home/shishqa/.local/share/vifm/Trash/000_QtProject.conf
+	/home/shishqa/Repositories/.dotfiles/config/QtProject.conf
+t/home/shishqa/.local/share/vifm/Trash/000_mimeapps.list
+	/home/shishqa/Repositories/.dotfiles/config/mimeapps.list
+t/home/shishqa/.local/share/vifm/Trash/000_zoomus.conf
+	/home/shishqa/Repositories/.dotfiles/config/zoomus.conf
+t/home/shishqa/.local/share/vifm/Trash/002_vifm-colors
+	/home/shishqa/.config/vifm/colors/vifm-colors
+t/home/shishqa/.local/share/vifm/Trash/001_Thunar
+	/home/shishqa/.config/Thunar
+t/home/shishqa/.local/share/vifm/Trash/000_test_get
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/test_get
+t/home/shishqa/.local/share/vifm/Trash/000_a.out
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/a.out
+t/home/shishqa/.local/share/vifm/Trash/000_hack.sh
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/hack.sh
+t/home/shishqa/.local/share/vifm/Trash/000_2020-04-04 22-25-38.mkv
+	/home/shishqa/2020-04-04 22-25-38.mkv
+t/home/shishqa/.local/share/vifm/Trash/000_2020-04-04 22-29-49.mkv
+	/home/shishqa/2020-04-04 22-29-49.mkv
+t/home/shishqa/.local/share/vifm/Trash/000_2020-04-04 22-30-53.mkv
+	/home/shishqa/2020-04-04 22-30-53.mkv
+t/home/shishqa/.local/share/vifm/Trash/000_egor
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/egor
+t/home/shishqa/.local/share/vifm/Trash/000_lesha
+	/home/shishqa/lesha
+t/home/shishqa/.local/share/vifm/Trash/000_to_egor.asm
+	/home/shishqa/to_egor.asm
+t/home/shishqa/.local/share/vifm/Trash/000_to_egor.o
+	/home/shishqa/to_egor.o
+t/home/shishqa/.local/share/vifm/Trash/001_to_egor.asm
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/to_egor.asm
+t/home/shishqa/.local/share/vifm/Trash/001_to_egor.o
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/to_egor.o
+t/home/shishqa/.local/share/vifm/Trash/001_lesha
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/lesha
+t/home/shishqa/.local/share/vifm/Trash/000_.idea
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/untitled/.idea
+t/home/shishqa/.local/share/vifm/Trash/000_cmake-build-debug
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/untitled/cmake-build-debug
+t/home/shishqa/.local/share/vifm/Trash/000_CMakeLists.txt
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/untitled/CMakeLists.txt
+t/home/shishqa/.local/share/vifm/Trash/000_main.c
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/untitled/main.c
+t/home/shishqa/.local/share/vifm/Trash/000_HACK
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/HACK
+t/home/shishqa/.local/share/vifm/Trash/000_crack
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/crack
+t/home/shishqa/.local/share/vifm/Trash/000_Cracker
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/Cracker
+t/home/shishqa/.local/share/vifm/Trash/000_patcher
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/patcher
+t/home/shishqa/.local/share/vifm/Trash/000_untitled
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/untitled
+t/home/shishqa/.local/share/vifm/Trash/000_hacked.id0
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/hacked.id0
+t/home/shishqa/.local/share/vifm/Trash/000_hacked.id1
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/hacked.id1
+t/home/shishqa/.local/share/vifm/Trash/000_hacked.id2
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/hacked.id2
+t/home/shishqa/.local/share/vifm/Trash/000_hacked.nam
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/hacked.nam
+t/home/shishqa/.local/share/vifm/Trash/000_hacked.til
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/hacked.til
+t/home/shishqa/.local/share/vifm/Trash/000_TEST
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/TEST
+t/home/shishqa/.local/share/vifm/Trash/000_aaa
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/aaa
+t/home/shishqa/.local/share/vifm/Trash/000_hack
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/hack
+t/home/shishqa/.local/share/vifm/Trash/000_hk
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/hk
+t/home/shishqa/.local/share/vifm/Trash/000_Crack
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/Crack
+t/home/shishqa/.local/share/vifm/Trash/001_test
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/crack/test
+t/home/shishqa/.local/share/vifm/Trash/000_patch
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/patch
+t/home/shishqa/.local/share/vifm/Trash/000_HACK.txt
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/HACK.txt
+t/home/shishqa/.local/share/vifm/Trash/000_PSSWD.txt
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/PSSWD.txt
+t/home/shishqa/.local/share/vifm/Trash/000_activate
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/activate
+t/home/shishqa/.local/share/vifm/Trash/000_crack.c
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/crack.c
+t/home/shishqa/.local/share/vifm/Trash/000_crk
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/crk
+t/home/shishqa/.local/share/vifm/Trash/000_guess.c
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/guess.c
+t/home/shishqa/.local/share/vifm/Trash/000_hacked
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/hacked
+t/home/shishqa/.local/share/vifm/Trash/004_test
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/another/test
+t/home/shishqa/.local/share/vifm/Trash/000_GHIDRA_TEST.rep
+	/home/shishqa/GHIDRA_TEST.rep
+t/home/shishqa/.local/share/vifm/Trash/000_GHIDRA_TEST.gpr
+	/home/shishqa/GHIDRA_TEST.gpr
+t/home/shishqa/.local/share/vifm/Trash/001_.vim
+	/home/shishqa/.vim
+t/home/shishqa/.local/share/vifm/Trash/000_password
+	/home/shishqa/Downloads/password
+t/home/shishqa/.local/share/vifm/Trash/000_password.asm
+	/home/shishqa/Downloads/password.asm
+t/home/shishqa/.local/share/vifm/Trash/000_password.txt
+	/home/shishqa/Downloads/password.txt
+t/home/shishqa/.local/share/vifm/Trash/000_to_egor(1).asm
+	/home/shishqa/Downloads/to_egor(1).asm
+t/home/shishqa/.local/share/vifm/Trash/003_to_egor.asm
+	/home/shishqa/Downloads/to_egor.asm
+t/home/shishqa/.local/share/vifm/Trash/000_MAIN.asm
+	/home/shishqa/Downloads/MAIN.asm
+t/home/shishqa/.local/share/vifm/Trash/000_License free.txt
+	/home/shishqa/Downloads/License free.txt
+t/home/shishqa/.local/share/vifm/Trash/000_License premium.txt
+	/home/shishqa/Downloads/License premium.txt
+t/home/shishqa/.local/share/vifm/Trash/000_christmas-black.zip
+	/home/shishqa/Downloads/christmas-black.zip
+t/home/shishqa/.local/share/vifm/Trash/000_dunstrc1
+	/home/shishqa/Downloads/dunstrc1
+t/home/shishqa/.local/share/vifm/Trash/000_ida64
+	/home/shishqa/Downloads/ida64
+t/home/shishqa/.local/share/vifm/Trash/000_1499.eps
+	/home/shishqa/Downloads/1499.eps
+t/home/shishqa/.local/share/vifm/Trash/000_3046291.ai
+	/home/shishqa/Downloads/3046291.ai
+t/home/shishqa/.local/share/vifm/Trash/001_password
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/NASM/break-in/egor/password
+t/home/shishqa/.local/share/vifm/Trash/000_.zshrc
+	/home/shishqa/.zshrc
+t/home/shishqa/.local/share/vifm/Trash/000_.zshenv
+	/home/shishqa/.config/zsh/.zshenv
+t/home/shishqa/.local/share/vifm/Trash/000_.bash_history
+	/home/shishqa/.bash_history
+t/home/shishqa/.local/share/vifm/Trash/000_.bash_profile
+	/home/shishqa/.bash_profile
+t/home/shishqa/.local/share/vifm/Trash/000_.bashrc
+	/home/shishqa/.bashrc
+t/home/shishqa/.local/share/vifm/Trash/000_.profile
+	/home/shishqa/.profile
+t/home/shishqa/.local/share/vifm/Trash/000_SFML_app
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/C/SFML_app
+t/home/shishqa/.local/share/vifm/Trash/000_gtk_app
+	/home/shishqa/Repositories/MIPT/2-semester/Assembly_Dedinskiy/C/gtk_app
+t/home/shishqa/.local/share/vifm/Trash/000_dotfiles_vifmrc at master · sdushantha_dotfiles_files
+	/home/shishqa/Downloads/dotfiles_vifmrc at master · sdushantha_dotfiles_files
+t/home/shishqa/.local/share/vifm/Trash/000_dotfiles_vifmrc at master · sdushantha_dotfiles.html
+	/home/shishqa/Downloads/dotfiles_vifmrc at master · sdushantha_dotfiles.html
+t/home/shishqa/.local/share/vifm/Trash/000_vifmimg
+	/home/shishqa/.local/bin/vifmimg
+t/home/shishqa/.local/share/vifm/Trash/000_vifmrun
+	/home/shishqa/.local/bin/vifmrun
+t/home/shishqa/.local/share/vifm/Trash/000_minimal.vifm
+	/home/shishqa/.config/vifm/colors/minimal.vifm
+t/home/shishqa/.local/share/vifm/Trash/000_.zlogin
+	/home/shishqa/.zlogin
+t/home/shishqa/.local/share/vifm/Trash/000_.zprofile
+	/home/shishqa/.zprofile
+t/home/shishqa/.local/share/vifm/Trash/000_snap
+	/home/shishqa/snap
+t/home/shishqa/.local/share/vifm/Trash/000_profile
+	/home/shishqa/.config/profile
+t/home/shishqa/.local/share/vifm/Trash/001_qutebrowser
+	/home/shishqa/.config/qutebrowser
+t/home/shishqa/.local/share/vifm/Trash/000_mc
+	/home/shishqa/.config/mc
+t/home/shishqa/.local/share/vifm/Trash/001_oomox
+	/home/shishqa/.config/oomox
+t/home/shishqa/.local/share/vifm/Trash/000_aliasrc
+	/home/shishqa/.config/aliasrc
+t/home/shishqa/.local/share/vifm/Trash/000_.bash_logout
+	/home/shishqa/.bash_logout
+t/home/shishqa/.local/share/vifm/Trash/000_.zprofile
+	/home/shishqa/.config/zsh/.zprofile
+t/home/shishqa/.local/share/vifm/Trash/000_.zcompdump
+	/home/shishqa/.zcompdump
+t/home/shishqa/.local/share/vifm/Trash/000_.profile
+	/home/shishqa/.config/.profile
+t/home/shishqa/.local/share/vifm/Trash/000_test_data.csv
+	/home/shishqa/Repositories/MIPT/2020_2/asm/test_data.csv
+t/home/shishqa/.local/share/vifm/Trash/000_ultisnips
+	/home/shishqa/.config/vim/plugged/ultisnips
+t/home/shishqa/.local/share/vifm/Trash/000_Documents
+	/home/shishqa/Documents
+t/home/shishqa/.local/share/vifm/Trash/000_Music
+	/home/shishqa/Music
+t/home/shishqa/.local/share/vifm/Trash/000_Pictures
+	/home/shishqa/Pictures
+t/home/shishqa/.local/share/vifm/Trash/000_Public
+	/home/shishqa/Public
+t/home/shishqa/.local/share/vifm/Trash/000_Templates
+	/home/shishqa/Templates
+t/home/shishqa/.local/share/vifm/Trash/000_Videos
+	/home/shishqa/Videos
+t/home/shishqa/.local/share/vifm/Trash/001_password
+	/home/shishqa/Repositories/MIPT/2020_2/asm/NASM/break-in/egor/password
+t/home/shishqa/.local/share/vifm/Trash/000_lesha
+	/home/shishqa/Repositories/MIPT/2020_2/asm/NASM/break-in/egor/crack/lesha
+t/home/shishqa/.local/share/vifm/Trash/000_crack
+	/home/shishqa/Repositories/MIPT/2020_2/asm/NASM/break-in/egor/crack/crack
+t/home/shishqa/.local/share/vifm/Trash/000_t1
+	/home/shishqa/Repositories/MIPT/2020_2/asm/NASM/break-in/egor/crack/t1
+t/home/shishqa/.local/share/vifm/Trash/000_test
+	/home/shishqa/Repositories/MIPT/2020_2/asm/NASM/break-in/egor/crack/test
+t/home/shishqa/.local/share/vifm/Trash/000_test_crk
+	/home/shishqa/Repositories/MIPT/2020_2/asm/NASM/break-in/egor/crack/test_crk
+t/home/shishqa/.local/share/vifm/Trash/000_crk
+	/home/shishqa/Repositories/MIPT/2020_2/asm/NASM/break-in/egor/crack/crk
+t/home/shishqa/.local/share/vifm/Trash/000_Canta-theme
+	/home/shishqa/Canta-theme
+t/home/shishqa/.local/share/vifm/Trash/000_.Xresources
+	/home/shishqa/.Xresources
+t/home/shishqa/.local/share/vifm/Trash/000_.CLion2019.3
+	/home/shishqa/.CLion2019.3
+t/home/shishqa/.local/share/vifm/Trash/000_.bspwmrc.swp
+	/home/shishqa/.config/bspwm/.bspwmrc.swp
+t/home/shishqa/.local/share/vifm/Trash/000_tetetetet
+	/home/shishqa/tetetetet
+t/home/shishqa/.local/share/vifm/Trash/000_123
+	/home/shishqa/123
+t/home/shishqa/.local/share/vifm/Trash/000_.urxvt
+	/home/shishqa/.urxvt
+t/home/shishqa/.local/share/vifm/Trash/000_user-dirs.dirs
+	/home/shishqa/.config/user-dirs.dirs
+t/home/shishqa/.local/share/vifm/Trash/000_user-dirs.locale
+	/home/shishqa/.config/user-dirs.locale
+t/home/shishqa/.local/share/vifm/Trash/000_error.log
+	/home/shishqa/.ncmpcpp/error.log
+t/home/shishqa/.local/share/vifm/Trash/000_mopidy.conf
+	/home/shishqa/.config/mopidy/mopidy.conf
+t/home/shishqa/.local/share/vifm/Trash/000_mopidy
+	/home/shishqa/.config/mopidy
+t/home/shishqa/.local/share/vifm/Trash/000_mpd
+	/home/shishqa/.config/mpd
+t/home/shishqa/.local/share/vifm/Trash/000_poly_launch
+	/home/shishqa/.config/polybar/poly_launch
+t/home/shishqa/.local/share/vifm/Trash/000_autostart
+	/home/shishqa/.config/autostart
+t/home/shishqa/.local/share/vifm/Trash/000_.CLion2019.2
+	/home/shishqa/.CLion2019.2
+t/home/shishqa/.local/share/vifm/Trash/000_111
+	/home/shishqa/111
+t/.vifm-Trash-0/000_snap
+	/snap
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].0
+]F
+s0

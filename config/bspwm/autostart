@@ -1,0 +1,11 @@
+#!/bin/sh
+
+xss-lock --transfer-sleep-lock -- lock.sh & 
+picom &
+nitrogen --restore &
+poly_launch &
+libinput-gestures-setup start &
+dunst &
+
+# IMPORTANT FOR JetBrains APPS
+wmname LG3D

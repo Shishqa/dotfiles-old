@@ -1,0 +1,11 @@
+call plug#begin('~/.config/vim/plugged')
+
+" Snippet engine
+" Plug 'SirVer/ultisnips'
+
+" Plug 'xavierd/clang_complete'
+
+" LaTeX in vim
+Plug 'lervag/vimtex'
+
+call plug#end()

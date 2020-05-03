@@ -1,0 +1,110 @@
+!#########################################################################################
+!#
+!#  ██╗  ██╗██████╗ ███████╗███████╗ ██████╗ ██╗   ██╗██████╗  ██████╗███████╗███████╗
+!#  ╚██╗██╔╝██╔══██╗██╔════╝██╔════╝██╔═══██╗██║   ██║██╔══██╗██╔════╝██╔════╝██╔════╝
+!#   ╚███╔╝ ██████╔╝█████╗  ███████╗██║   ██║██║   ██║██████╔╝██║     █████╗  ███████╗
+!#   ██╔██╗ ██╔══██╗██╔══╝  ╚════██║██║   ██║██║   ██║██╔══██╗██║     ██╔══╝  ╚════██║
+!#  ██╔╝ ██╗██║  ██║███████╗███████║╚██████╔╝╚██████╔╝██║  ██║╚██████╗███████╗███████║
+!#  ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝╚══════╝
+!#
+!#  Edited by Shishqa
+!#
+!#########################################################################################
+
+
+!##< FONT >###############################################################################
+
+*font: xft:Inconsolata LGC:style=Regular:pixelsize=16
+
+!##< COLORS >#############################################################################
+
+! special
+*.foreground:   #d0d0d0
+*.background:   #151515
+*.cursorColor:  #d0d0d0
+
+! black
+*.color0:       #151515
+*.color8:       #505050
+
+! red
+*.color1:       #ac4142
+*.color9:       #ac4142
+
+! green
+*.color2:       #90a959
+*.color10:      #90a959
+
+! yellow
+*.color3:       #f4bf75
+*.color11:      #f4bf75
+
+! blue
+*.color4:       #6a9fb5
+*.color12:      #6a9fb5
+
+! magenta
+*.color5:       #aa759f
+*.color13:      #aa759f
+
+! cyan
+*.color6:       #75b5aa
+*.color14:      #75b5aa
+
+! white
+*.color7:       #d0d0d0
+*.color15:      #f5f5f5
+
+!##< URXVT CONFIG >#######################################################################
+
+URxvt.scrollBar: false
+URxvt.depth: 32
+URxvt.background: [97]#151515
+URxvt.internalBorder: 20
+
+!##< URXVT PERLS >########################################################################
+
+!##< ROFI CONFIG >########################################################################
+
+rofi.modi:                           ssh,window,drun,run
+rofi.sidebar-mode:                   false
+rofi.terminal:                       urxvt
+rofi.ssh-client:                     ssh
+rofi.ssh-command:                    {terminal} -e "{ssh-client} {host}"
+rofi.opacity:                        100
+rofi.columns:                        1
+rofi.fullscreen:                     true
+rofi.font:                           Monospace 16
+
+!#< rofi colors >#
+
+! State:           'bg',          'fg',     'bgalt',  'hlbg',   'hlfg'
+rofi.color-normal: argb:00151515,  #899184,  argb:00151515,  argb:00151515,  #FFFFFF
+rofi.color-active: argb:00151515,  #7A9168,  argb:00151515,  argb:00151515,  #FFFFFF
+rofi.color-urgent: argb:00151515,  #505050,  argb:00151515,  argb:00151515,  #FFFFFF
+
+!                  'background', 'border'
+rofi.color-window: argb:dd151515, #404552
+rofi.bw:                             0
+rofi.padding:                        400
+rofi.levenshtein-sort:               true
+rofi.case-sensitive:                 false
+rofi.fuzzy:                          false
+rofi.line-margin:                    2
+rofi.separator-style:                none
+rofi.hide-scrollbar:                 true
+rofi.markup-rows:                    false
+
+
+
+!#########################################################################################
+!#
+!#  ███████╗ ██████╗ ███████╗
+!#  ██╔════╝██╔═══██╗██╔════╝
+!#  █████╗  ██║   ██║█████╗  
+!#  ██╔══╝  ██║   ██║██╔══╝  
+!#  ███████╗╚██████╔╝██║     
+!#  ╚══════╝ ╚═════╝ ╚═╝     
+!#
+!#########################################################################################
+                         

@@ -1,0 +1,42 @@
+#! /bin/sh
+
+export BSPWM_CONFIG="$HOME/.config/bspwm"
+
+bspc config window_gap              18
+bspc config border_width            0
+
+bspc config split_ratio             0.6180
+bspc config automatic_scheme        longest_side
+bspc config removal_adjustment      true
+bspc config auto_cancel             true
+bspc config initial_polarity        second_child
+
+bspc config borderless_monocle      true
+bspc config gapless_monocle         true
+
+bspc config focus_follows_pointer   true
+bspc config history_aware_focus     true
+bspc config focus_by_distance       true
+
+bspc monitor --reset-desktops term www chat dev edit graph settings misc
+
+
+bspc rule --add Firefox                         desktop='www'       follow=on
+###
+bspc rule --add TelegramDesktop                 desktop='chat'      follow=on
+###
+bspc rule --add jetbrains-clion                 desktop='dev'       follow=on
+bspc rule --add jetbrains-pycharm               desktop='dev'       follow=on
+###
+bspc rule --add libreoffice-startcenter         desktop='edit'      follow=on  
+###
+bspc tule --add Gimp                            desktop='graph'     follow=on
+bspc rule --add Inkscape                        desktop='graph'     follow=on
+###
+bspc rule --add Nitrogen                        desktop='settings'  follow=on
+bspc rule --add Lxappearance                    desktop='settings'  follow=on
+
+# 
+sxhkd &
+"$BSPWM_CONFIG/autostart" &
+#
