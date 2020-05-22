@@ -1,0 +1,44 @@
+#!/bin/sh
+
+N='#ffffff00'  # none
+B='#151515dd'  # blank
+C='#151515dd'  # clear ish
+D='#899184ff'  # default
+T='#b7d5d4ff'  # text
+W='#a54354ff'  # wrong
+V='#616f62ff'  # verifying
+
+
+i3lock \
+--ringvercolor=$N           \
+--ringwrongcolor=$N         \
+--verifcolor=$T             \
+--wrongcolor=$W             \
+--timecolor=$T              \
+--datecolor=$T              \
+--layoutcolor=$T            \
+--keyhlcolor=$T             \
+--bar-color=$N              \
+\
+--veriftext="verifying"     \
+--wrongtext="try again"     \
+\
+--timesize=90               \
+--datesize=18               \
+--layoutsize=14             \
+--verifsize=40              \
+--wrongsize=40              \
+\
+--screen 1                  \
+--blur 0                    \
+--clock                     \
+--timestr="%H:%M:%S"        \
+--datestr="%A, %d %B %Y"    \
+--keylayout 2               \
+--ignore-empty-password     \
+--pass-media-keys           \
+--pass-screen-keys          \
+--bar-indicator             \
+--bar-width=15              \
+--bar-position=800          \
+--bar-direction=2           \

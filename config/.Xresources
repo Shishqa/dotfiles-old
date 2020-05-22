@@ -19,48 +19,50 @@
 !##< COLORS >#############################################################################
 
 ! special
-*.foreground:   #d0d0d0
-*.background:   #151515
-*.cursorColor:  #d0d0d0
+*.foreground:   #a7a7a7
+*.background:   #1e1e1e
+*.cursorColor:  #a7a7a7
 
 ! black
-*.color0:       #151515
-*.color8:       #505050
+*.color0:       #1e1e1e
+*.color8:       #5f5a60
 
 ! red
-*.color1:       #ac4142
-*.color9:       #ac4142
+*.color1:       #cf6a4c
+*.color9:       #cf6a4c
 
 ! green
-*.color2:       #90a959
-*.color10:      #90a959
+*.color2:       #8f9d6a
+*.color10:      #8f9d6a
 
 ! yellow
-*.color3:       #f4bf75
-*.color11:      #f4bf75
+*.color3:       #f9ee98
+*.color11:      #f9ee98
 
 ! blue
-*.color4:       #6a9fb5
-*.color12:      #6a9fb5
+*.color4:       #7587a6
+*.color12:      #7587a6
 
 ! magenta
-*.color5:       #aa759f
-*.color13:      #aa759f
+*.color5:       #9b859d
+*.color13:      #9b859d
 
 ! cyan
-*.color6:       #75b5aa
-*.color14:      #75b5aa
+*.color6:       #afc4db
+*.color14:      #afc4db
 
 ! white
-*.color7:       #d0d0d0
-*.color15:      #f5f5f5
+*.color7:       #a7a7a7
+*.color15:      #ffffff
+
+*fading:        25
+*fadeColor:     #1e1e1e
 
 !##< URXVT CONFIG >#######################################################################
 
 URxvt.scrollBar: false
 URxvt.depth: 32
-URxvt.background: [97]#151515
-URxvt.internalBorder: 20
+URxvt.internalBorder: 18
 
 !##< URXVT PERLS >########################################################################
 

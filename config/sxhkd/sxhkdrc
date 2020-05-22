@@ -8,11 +8,15 @@ super + Return
 
 # file explorer
 super + e
-    urxvt -e vifm ~/ /mnt/WorkDisk
+    urxvt -e vifm ~/ ~/repositories/MIPT/2020_2/
 
 # browser
 super + w
     firefox & 
+
+# pick colour
+super + p
+    pick-colour-picker &
 
 # system monitor
 super + i
@@ -106,10 +110,6 @@ super + ctrl + {m,x,y,z}
 # focus the node in the given direction
 super + {_,shift + }{h,j,k,l}
 	bspc node -{f,s} {west,south,north,east}
-
-# focus the node for the given path jump
-super + {p,b,comma,period}
-	bspc node -f @{parent,brother,first,second}
 
 # focus the next/previous node in the current desktop
 super + {_,shift + }c

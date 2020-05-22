@@ -11,18 +11,24 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/mpd
+~Msle0~/\<info\>
 
 # Last Substitute String:
 $
 
 # Command Line History (newest to oldest):
-:q
-|2,0,1588497310,,"q"
 :wq
-|2,0,1588497007,,"wq"
+|2,0,1590153598,,"wq"
 :w
-|2,0,1588493560,,"w"
+|2,0,1590153520,,"w"
+:q
+|2,0,1590123200,,"q"
+:qw
+|2,0,1589629242,,"qw"
+:Wq
+|2,0,1589392799,,"Wq"
+:s
+|2,0,1589100331,,"s"
 :help hex
 |2,0,1588329810,,"help hex"
 :Q
@@ -69,6 +75,10 @@ $
 |2,0,1585830498,,"colorscheme MyTheme"
 
 # Search String History (newest to oldest):
+? \<info\>
+|2,1,1590056714,,"\\<info\\>"
+?/RET
+|2,1,1588486422,47,"RET"
 ?/netwo
 |2,1,1587306506,47,"netwo"
 ?/xke
@@ -165,8 +175,6 @@ $
 |2,1,1585832278,47,"separator"
 ?/fulls
 |2,1,1585831879,47,"fulls"
-?/rofi
-|2,1,1585831817,47,"rofi"
 
 # Expression History (newest to oldest):
 
@@ -176,110 +184,138 @@ $
 
 # Registers:
 "0	CHAR	0
-	$(SRC)/linux/test.o
-|3,0,0,0,1,0,1588493280,"$(SRC)/linux/test.o"
+	urxvt -geometry 38x18+$pos_x+$pos_y --title "popup calendar" -e dialog --no-shadow --no-lines --no-cancel --week-start 1 --clear --calendar "" 1 40
+	
+	
+|3,0,0,0,3,0,1590057346,"urxvt -geometry 38x18+$pos_x+$pos_y --title \"popup calendar\" -e dialog --no-shadow --no-lines --no-cancel --week-start 1 --clear --calendar \"\" 1 40","",""
 ""1	LINE	0
 	
-|3,1,1,1,1,0,1588494380,""
+|3,1,1,1,1,0,1590153389,""
 "2	LINE	0
-	macos_security_check: test.o get_string.o check_password.o Murmurhash64B.o
-		ld -o $@ $^
-	
-	test.o: test.asm
-		nasm -felf64 test.asm
-|3,0,2,1,5,0,1588494380,"macos_security_check: test.o get_string.o check_password.o Murmurhash64B.o","	ld -o $@ $^","","test.o: test.asm","	nasm -felf64 test.asm"
+	# focus the node for the given path jump
+|3,0,2,1,1,0,1590153388,"# focus the node for the given path jump"
 "3	LINE	0
-	            mov     rdi, 0
-|3,0,3,1,1,0,1588491979,"            mov     rdi, 0"
+		bspc node -f @{parent,brother,first,second}
+|3,0,3,1,1,0,1590153387,"	bspc node -f @{parent,brother,first,second}"
 "4	LINE	0
-	            mov     rax, 0x2000003
-|3,0,4,1,1,0,1588491979,"            mov     rax, 0x2000003"
+	super + {p,b,comma,period}
+|3,0,4,1,1,0,1590153387,"super + {p,b,comma,period}"
 "5	LINE	0
-	LIBRARIES	:= -lMSLib
-|3,0,5,1,1,0,1588445189,"LIBRARIES	:= -lMSLib"
+	
+|3,0,5,1,1,0,1590058682,""
 "6	LINE	0
-	LIB		:= ../old_libs/mslib
-|3,0,6,1,1,0,1588445188,"LIB		:= ../old_libs/mslib"
+	];
+|3,0,6,1,1,0,1590058681,"];"
 "7	LINE	0
-	INCLUDE	:= ../old_libs
-|3,0,7,1,1,0,1588445187,"INCLUDE	:= ../old_libs"
+	experimental-backends = true;
+	round-borders = 1;
+	corner-radius = 10.0;
+	detect-rounded-corners = true;
+	rounded-corners-exclude = [
+	  "window_type = 'menu'",
+	  "window_type = 'dropdown_menu'",
+	  "window_type = 'popup_menu'",
+	  "class_g = 'Polybar'",
+	  "class_g = 'Rofi'",
+	  "class_g = 'Dunst'"
+|3,0,7,1,11,0,1590058680,"experimental-backends = true;","round-borders = 1;","corner-radius = 10.0;","detect-rounded-corners = true;","rounded-corners-exclude = [","  \"window_type = 'menu'\",","  \"window_type = 'dropdown_menu'\",","  \"window_type = 'popup_menu'\",","  \"class_g = 'Polybar'\",","  \"class_g = 'Rofi'\",","  \"class_g = 'Dunst'\""
 "8	LINE	0
-	#include <cstdio>
-|3,0,8,1,1,0,1588245654,"#include <cstdio>"
+	######################
+|3,0,8,1,1,0,1590058308,"######################"
 "9	LINE	0
-	: m_button("Hello World")dd   // creates a new button with label "Hello World".
-|3,0,9,1,1,0,1588156929,": m_button(\"Hello World\")dd   // creates a new button with label \"Hello World\"."
+	#
+|3,0,9,1,1,0,1590058308,"#"
 "-	CHAR	0
-	_
-|3,0,36,0,1,0,1588493928,"_"
+	h
+|3,0,36,0,1,0,1590153286,"h"
 
 # Buffer list:
-%~/.xsession-errors	1	0
+%~/.config/sxhkd/sxhkdrc	20	0
 
 # History of marks within files (newest to oldest):
 
-> ~/.xsession-errors
-	*	1588497309	0
+> ~/.config/sxhkd/sxhkdrc
+	*	1590153590	0
+	"	20	0
+	^	20	0
+	.	17	12
+	+	113	0
+	+	18	9
+	+	19	23
+	+	11	47
+	+	17	12
+
+> ~/.config/bspwm/bspwmrc
+	*	1590153340	0
+	"	41	0
+
+> ~/.local/bin/poly_launch
+	*	1590153291	0
+	"	5	0
+
+> ~/.local/bin/rofi-powermenu
+	*	1590153286	0
+	"	15	12
+	.	15	12
+	+	15	12
+
+> ~/repositories/dotfiles/scripts/rofi-powermenu
+	*	1590153250	0
+	"	15	12
+	.	15	12
+	+	15	12
+
+> ~/.local/bin/list-font
+	*	1590153201	0
 	"	1	0
 
-> ~/.dhexrc
-	*	1588497286	0
-	"	9	0
-
-> ~/repositories/dotfiles/.zshenv
-	*	1588497271	0
+> ~/.local/bin/fill-workspace.sh
+	*	1590153183	0
 	"	3	0
 
-> ~/.xinitrc
-	*	1588497261	0
-	"	28	0
+> ~/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/main.cpp
+	*	1590123411	0
+	"	18	0
 
-> ~/TODO
-	*	1588497247	0
-	"	1	0
+> ~/.config/.Xresources
+	*	1590123377	0
+	"	112	0
+	^	65	24
+	.	65	23
+	+	65	23
 
-> ~/repositories/MIPT/2020_2/asm/20_C/04_Alpha-blending/README.md
-	*	1588497006	0
-	"	1	25
-	^	1	26
-	.	2	0
-	+	12	2
-	+	5	2
-	+	1	1
-	+	5	28
-	+	10	78
-	+	11	21
-	+	1	26
-	+	2	0
-
-> ~/repositories/MIPT/2020_2/asm/20_C/20_SAS-to-ELF/README.md
-	*	1588495953	0
-	"	3	15
-	^	3	16
-	.	3	15
-	+	1	80
-	+	3	15
-
-> ~/repositories/MIPT/2020_2/asm/20_C/03_HashTable-optimized/README.md
-	*	1588495899	0
-	"	3	0
-	^	3	0
-	.	2	0
-	+	1	87
-	+	2	0
-
-> ~/repositories/MIPT/2020_2/asm/00_MS-DOS/README.md
-	*	1588495845	0
-	"	5	63
-	^	5	64
-	.	5	63
-	+	1	50
-	+	3	110
-	+	5	63
-
-> ~/repositories/MIPT/2020_2/asm/10_NASM/10_Custom-Printf/README.md
-	*	1588495711	0
-	"	1	57
-	^	1	58
-	.	1	56
-	+	1	56
+> ~/.config/neofetch/config.conf
+	*	1590123356	0
+	"	771	11
+	^	680	18
+	.	680	17
+	+	28	4
+	+	86	11
+	+	74	19
+	+	102	21
+	+	159	17
+	+	238	11
+	+	221	13
+	+	207	13
+	+	238	10
+	+	302	16
+	+	537	17
+	+	549	12
+	+	680	19
+	+	746	23
+	+	8	0
+	+	30	0
+	+	24	4
+	+	28	5
+	+	12	4
+	+	13	4
+	+	15	4
+	+	21	4
+	+	746	21
+	+	14	4
+	+	22	4
+	+	20	4
+	+	22	4
+	+	46	14
+	+	133	20
+	+	680	17

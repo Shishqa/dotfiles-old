@@ -1,100 +1,105 @@
+neofetch
+neofetch
+neofetch
+neofetch
+neofetch
+neofetch
+neofetch
+neofetch
+neofetch
+neofetch
+neofetch
+neofetch
+popup-calendar2.sh
+popup-calendar2.sh --popup
+man bspc
+yay -Ss rxvt-unicode-pixbuf
+yay -S rxvt-unicode-pixbuf
+popup-calendar2.sh --popup
+popup-calendar2.sh --popup &
 exit
-make
-make tests
-p -S nasm
-make
+p -S cal
+p -Ss cal
 exit
-./test_printf
-./test_put_b
-./test_put_c
-./test_put_d
-./test_put_o
-./test_put_s
-./test_put_u
-./test_put_x
+const byte_t END[10] = {MOV_NUM + RAX, 0x3C, 0x00, 0x00, 0x00, // mov rax, 0x3C \
+                            QWORD_OP, XOR, Operand(3, RDI, RDI),   // xor
+urxvt -geometry 38x18+12+300 --title "popup calendar" -e dialog --no-shadow --no-lines --no-cancel --week-start 1 --clear --calendar "" 1 40\
+\
+
+urxvt --title "popup calendar" -e dialog --no-shadow --no-lines --no-cancel --week-start 1 --clear --calendar "" 1 40\
+\
+
+reboot
+vifm
+xprop
+xprop
 exit
-make
+xprop
+xprop
+xprop
+xprop
+xprop
 exit
+popup-calendar2.sh --popup &
+p -Syyu
+reboot
+p -Sc
 exit
-./hack
+p -Qs calc
+p -Qs math
+p -Rns mathomatic 
+calc
+p -S calcurse
+calcurse
+p -S typespeed
+typespeed
+typespeed
+yay -Sc
+snap upgrade
+snap help
+snap refresh
+sudo snap refresh
+neofetch
 exit
-make 
+neofetch
+neofetch
+neofetch
+p -S w3m
+neofetch
+neofetch
+neofetch
+p -S pidof
+printf "%b" "\033]11;#ff0000\007"
+pip3 install pywal
+p -S pip
+p -Ss pip
+yay -Ss pip
+p -Ss python
+p -Ss python3
+wal
+yay -Ss python-pywal
+yay -S python-pywal
+p -S python-pywal
+wal
 exit
-make
+neofetch
+rebooy
+reboot
+wal -i "449509.png"
+wal -i "oie_1125850i4qbGG70.jpg"
+wal -i "image-from-rawpixel-id-2049915-jpeg.jpg"
+wal -i "image-from-rawpixel-id-2049806-jpeg.jpg"
+wal -i "409866.png"
+wal -i "image-from-rawpixel-id-495930-jpeg.jpg"
+wal -i "image-from-rawpixel-id-495921-jpeg.jpg"
+wal -i "image-from-rawpixel-id-495989-jpeg.jpg"
+wal -i "image-from-rawpixel-id-495982-jpeg.jpg"
+wal -i "image-from-rawpixel-id-2049919-jpeg.jpg"
+reboot
+reboot
+time tree
 exit
-./linux_check
+list-font
 exit
-make linux
-exit
-./linux_check
-exit
-make
-exit
-make
-exit
-make linux
-exit
-make target="linux" linux
-exit
-make target="linux" linux
-exit
-exit
-make target="linux" linux
-exit
-make target="linux" linux
-exit
-./linux_check
-./linux_check
-exit
-make
-make target="osx"
-make target="linux"
-make target="linux"
-exit
-make target="linux"
-exit
-make target="linux"
-exit
-./linux_check
-exit
-make
-exit
-./hack
-exit
-make target="linux"
-exit
-make all
-exit
-make all
-exit
-exit
-make
-exit
-./blender ../example/01/CAT.bmp ../example/01/DESK.bmp -o RES.bmp
-exit
-feh RES.bmp
-exit
-git checkout -b dev
-git checkout dev
-git add .
-exit
-p -S surf
-exit
-git add .
-git commit -m "cleaning up"
-git push -u origin dev
-exit
-git commit -m "descriptions"
-git add .
-git commit -m "descriptions"
-git push -u origin dev
-git pull oridin dev
-git pull origin dev
-exit
-git add .
-git commit -m "backup"
-git push -u origin dev
-exit
-p -Rns dhex
-p -Rns hexer
+lock
 exit

@@ -1,0 +1,21 @@
+#!/bin/sh
+
+WIDTH=410
+HEIGHT=376
+BAR_HEIGHT=26
+BOTTOM=true
+DATE="$(date +" %A, %d %B %H:%M:%S ")"
+
+case "$1" in
+    --popup)
+
+        pos_x=$((1920 / 2 - (WIDTH / 2)))
+        pos_y=$((1080 - HEIGHT - BAR_HEIGHT))    
+
+        urxvt -geometry 38x18+$pos_x+$pos_y --title "popup calendar" -e dialog --no-shadow --no-lines --no-cancel --week-start 1 --clear --calendar "" 1 40
+
+        ;;
+    *)
+        echo "$DATE"
+        ;;
+esac
