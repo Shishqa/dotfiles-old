@@ -8,11 +8,19 @@ super + Return
 
 # file explorer
 super + e
-    urxvt -e vifm ~/ ~/repositories/MIPT/2020_2/
+    urxvt -e vifm ~/ / &
 
-# browser
+# firefox
 super + w
     firefox & 
+
+# ncmpcpp
+super + n
+    urxvt -name 'ncmpcpp' -e "ncmpcpp" &
+
+# calendar
+super + c
+    urxvt -name 'calendar' -e "calcurse" &    
 
 # pick colour
 super + p
@@ -20,23 +28,27 @@ super + p
 
 # system monitor
 super + i
-    urxvt -e htop
+    urxvt -name 'htop' -e "htop" &
 
 # program launcher
 super + d
 	rofi -show combi
 
 # bluetooth menu
-super + b
+super + alt + b
     rofi-bluetooth
 
 # wifi menu
-super + n
+super + alt + w
     rofi-wifi
 
 # power menu
-super + x
+super + alt + q
     rofi-powermenu
+
+# mpd
+super + alt + m
+    rofi-mpc
 
 # make sxhkd reload its configuration files:
 super + Escape
@@ -61,10 +73,10 @@ XF86AudioMute
 
 # brightness
 XF86MonBrightnessUp
-    xbacklight -inc 10
+    xbacklight -inc 20
 
 XF86MonBrightnessDown
-    xbacklight -dec 10
+    xbacklight -dec 20
 
 
 #
@@ -111,47 +123,13 @@ super + ctrl + {m,x,y,z}
 super + {_,shift + }{h,j,k,l}
 	bspc node -{f,s} {west,south,north,east}
 
-# focus the next/previous node in the current desktop
-super + {_,shift + }c
-	bspc node -f {next,prev}.local
-
 # focus the next/previous desktop in the current monitor
 super + bracket{left,right}
 	bspc desktop -f {prev,next}.local
 
-# focus the last node/desktop
-super + {grave,Tab}
-	bspc {node,desktop} -f last
-
-# focus the older or newer node in the focus history
-super + {o,i}
-	bspc wm -h off; \
-	bspc node {older,newer} -f; \
-	bspc wm -h on
-
 # focus or send to the given desktop
 super + {_,shift + }{1-9,0}
 	bspc {desktop -f,node -d} '^{1-9,10}'
-
-#
-# preselect
-#
-
-# preselect the direction
-super + ctrl + {h,j,k,l}
-	bspc node -p {west,south,north,east}
-
-# preselect the ratio
-super + ctrl + {1-9}
-	bspc node -o 0.{1-9}
-
-# cancel the preselection for the focused node
-super + ctrl + space
-	bspc node -p cancel
-
-# cancel the preselection for the focused desktop
-super + ctrl + shift + space
-	bspc query -N -d | xargs -I id -n 1 bspc node id -p cancel
 
 #
 # move/resize

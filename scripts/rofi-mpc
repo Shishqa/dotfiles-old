@@ -1,0 +1,34 @@
+#!/bin/sh
+
+ANS=$(echo " play| pause| stop| next| previous| repeat| ncmpcpp| " | \
+      rofi -sep "|" -dmenu -i -p 'Mopidy  ' "" )
+        case "$ANS" in
+            *play) 
+                mpc play 
+                ;;
+            *pause) 
+                mpc pause
+                ;;
+            *stop) 
+                mpc stop 
+                sleep 0.5
+                rofi-mpc
+                ;;
+            *next) 
+                mpc next 
+                sleep 0.5
+                rofi-mpc
+                ;;
+            *previous) 
+                mpc prev 
+                sleep 0.5
+                rofi-mpc
+                ;;
+            *repeat) 
+                mpc repeat 
+                ;;
+            *ncmpcpp) 
+                urxvt -name 'ncmpcpp' -e "ncmpcpp" &
+        esac
+
+exit 0

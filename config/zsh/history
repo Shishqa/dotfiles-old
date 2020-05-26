@@ -1,105 +1,100 @@
-neofetch
-neofetch
-neofetch
-neofetch
-neofetch
-neofetch
-neofetch
-neofetch
-neofetch
-neofetch
-neofetch
-neofetch
-popup-calendar2.sh
-popup-calendar2.sh --popup
-man bspc
-yay -Ss rxvt-unicode-pixbuf
-yay -S rxvt-unicode-pixbuf
-popup-calendar2.sh --popup
-popup-calendar2.sh --popup &
-exit
-p -S cal
-p -Ss cal
-exit
-const byte_t END[10] = {MOV_NUM + RAX, 0x3C, 0x00, 0x00, 0x00, // mov rax, 0x3C \
-                            QWORD_OP, XOR, Operand(3, RDI, RDI),   // xor
-urxvt -geometry 38x18+12+300 --title "popup calendar" -e dialog --no-shadow --no-lines --no-cancel --week-start 1 --clear --calendar "" 1 40\
-\
-
-urxvt --title "popup calendar" -e dialog --no-shadow --no-lines --no-cancel --week-start 1 --clear --calendar "" 1 40\
-\
-
-reboot
+firefox www.vk.com
 vifm
-xprop
-xprop
+vifm
+vifm
+dunstify "hello"
 exit
-xprop
-xprop
-xprop
-xprop
-xprop
-exit
-popup-calendar2.sh --popup &
+dunstify "hello"
+dunstify "hello"
+dunstify "hello"
+dunstify "hello"
+dunstify "hello"
+killall dunst
+dunst &
+killall dunst
+dunst &
+dunstify "hello"
+killall dunst
+dunst &
+dunstify "hello"
+killall dunst
+dunst &
+dunstify "hello"
+dunstify "hello"
+killall dunst
+dunst &
+dunstify "hello"
+killall dunst
+dunst &
+dunstify "hello"
+killall dunst
+dunst &
+dunstify "hello"
+killall dunst
+dunst &
+dunstify "hello"
+killall dunst
+dunst &
+dunstify "hello"
+killall dunst
+dunst &
+dunstify "hello"
+killall dunst
+dunst &
+dunstify "hello"
+dunstify -h
+dunstify --help
+dunstify --urgency=LOW "hello"
+dunstify --urgency=HIGH "hello"
+dunstify --urgency=CRITICAL "hello"
+echo -e "\ue0cc"
+echo -e "\ue0df"
+echo -e "\ue09f"
+echo -e "\ue13f"
+xfd -fa siji
+echo -e "\u2525"
+echo -e "\u2525"
+xfd -fa siji
+cava
+cava
+cava
+cava
+cava
+cava
 p -Syyu
-reboot
-p -Sc
+yay -Syyu
 exit
-p -Qs calc
-p -Qs math
-p -Rns mathomatic 
-calc
-p -S calcurse
-calcurse
-p -S typespeed
-typespeed
-typespeed
-yay -Sc
-snap upgrade
-snap help
-snap refresh
-sudo snap refresh
-neofetch
+echo -e "\ue10c"
+echo -e "\ue0cf"
+echo -e "\ue100"
+echo -e "\ue194"
+echo -e "\ue190"
+echo -e "\ue0c1"
+echo -e "\ue0c2"
+echo -e "\ue0c3"
+xfd -fa siji
+ncmpcpp
 exit
+ncmpcpp
+vifm
+cava
+xrdb ~/.config/.Xresources
+xrdb ~/.config/.Xresources
+calc 
+calc 
+vifm
+vifm
+cava
+cava
+vifm
+tty-clock -c -s
 neofetch
-neofetch
-neofetch
-p -S w3m
-neofetch
-neofetch
-neofetch
-p -S pidof
-printf "%b" "\033]11;#ff0000\007"
-pip3 install pywal
-p -S pip
-p -Ss pip
-yay -Ss pip
-p -Ss python
-p -Ss python3
-wal
-yay -Ss python-pywal
-yay -S python-pywal
-p -S python-pywal
-wal
+dunstify --urgency=CRITICAL "hello"
+dunstify --urgency=NORMAL "hello"
+dunstify --urgency=LOW "hello"
 exit
-neofetch
-rebooy
-reboot
-wal -i "449509.png"
-wal -i "oie_1125850i4qbGG70.jpg"
-wal -i "image-from-rawpixel-id-2049915-jpeg.jpg"
-wal -i "image-from-rawpixel-id-2049806-jpeg.jpg"
-wal -i "409866.png"
-wal -i "image-from-rawpixel-id-495930-jpeg.jpg"
-wal -i "image-from-rawpixel-id-495921-jpeg.jpg"
-wal -i "image-from-rawpixel-id-495989-jpeg.jpg"
-wal -i "image-from-rawpixel-id-495982-jpeg.jpg"
-wal -i "image-from-rawpixel-id-2049919-jpeg.jpg"
-reboot
-reboot
-time tree
+killall dunst
+dunst &
+dunstify --urgency=NORMAL "hello"
 exit
-list-font
-exit
-lock
 exit

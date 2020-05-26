@@ -83,7 +83,7 @@ hide_duplicates_count = yes
 # The width can be negative.  In this case the actual width is the
 # screen width minus the width defined in within the geometry option.
 #geometry = "250x50-40+40"
-geometry = "300x50-10+35"
+geometry = "300x50-16+51"
 
 # Shrink window if it's smaller than the width.  Will be ignored if
 # width is 0.
@@ -167,8 +167,8 @@ max_icon_size = 80
 # Paths to default icons.
 icon_path = /usr/share/icons/Paper/16x16/mimetypes/:/usr/share/icons/Paper/48x48/status/:/usr/share/icons/Paper/16x16/devices/:/usr/share/icons/Paper/48x48/notifications/:/usr/share/icons/Paper/48x48/emblems/
 
-frame_width = 3
-frame_color = "#C9AE74"
+frame_width = 0
+frame_color = "#FBE9B9"
 
 [shortcuts]
 
@@ -194,21 +194,18 @@ context = ctrl+shift+period
 [urgency_low]
 # IMPORTANT: colors have to be defined in quotation marks.
 # Otherwise the "#" and following would be interpreted as a comment.
-frame_color = "#3B7C87"
-foreground = "#3B7C87"
-background = "#151515"
+foreground = "#A7A7A7"
+background = "#1E1E1E"
 timeout = 4
 
 [urgency_normal]
-frame_color = "#C9AE74"
-foreground = "#C9AE74"
-background = "#151515"
+foreground = "#D9E5D6"
+background = "#1E1E1E"
 timeout = 6
 
 [urgency_critical]
-frame_color = "#B7472A"
-foreground = "#B7472A"
-background = "#151515"
+foreground = "#F2594D"
+background = "#1E1E1E"
 timeout = 8
 
 ################################################################################

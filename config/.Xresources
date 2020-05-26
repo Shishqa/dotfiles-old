@@ -10,8 +10,8 @@
 !#  Edited by Shishqa
 !#
 !#########################################################################################
-
-
+!
+!
 !##< FONT >###############################################################################
 
 *font: xft:Inconsolata LGC:style=Regular:pixelsize=16
@@ -55,49 +55,57 @@
 *.color7:       #a7a7a7
 *.color15:      #ffffff
 
-*fading:        25
-*fadeColor:     #1e1e1e
+!##< URXVT >##############################################################################
 
-!##< URXVT CONFIG >#######################################################################
-
-URxvt.scrollBar: false
-URxvt.depth: 32
+URxvt.scrollBar:      false
+URxvt.depth:          32
 URxvt.internalBorder: 18
 
-!##< URXVT PERLS >########################################################################
+!#< URXVT PERLS 
+URxvt.perl-ext-common: default,matcher,resize-font
 
-!##< ROFI CONFIG >########################################################################
+!#< resize-font 
+URxvt.keysym.C-Down:  resize-font:smaller
+URxvt.keysym.C-Up:    resize-font:bigger
 
-rofi.modi:                           ssh,window,drun,run
-rofi.sidebar-mode:                   false
-rofi.terminal:                       urxvt
-rofi.ssh-client:                     ssh
-rofi.ssh-command:                    {terminal} -e "{ssh-client} {host}"
-rofi.opacity:                        100
-rofi.columns:                        1
-rofi.fullscreen:                     true
-rofi.font:                           Monospace 16
+!#< clickable links
+URxvt.matcher.button:       1
+URxvt.url-launcher:         firefox
+URxvt.url-select.underline: true
+URxvt.matcher.rend.0:       Uline Bold fg5
 
-!#< rofi colors >#
+!##< ROFI >###############################################################################
 
-! State:           'bg',          'fg',     'bgalt',  'hlbg',   'hlfg'
-rofi.color-normal: argb:00151515,  #899184,  argb:00151515,  argb:00151515,  #FFFFFF
-rofi.color-active: argb:00151515,  #7A9168,  argb:00151515,  argb:00151515,  #FFFFFF
-rofi.color-urgent: argb:00151515,  #505050,  argb:00151515,  argb:00151515,  #FFFFFF
+!#< colors 
 
-!                  'background', 'border'
-rofi.color-window: argb:dd151515, #404552
-rofi.bw:                             0
-rofi.padding:                        400
-rofi.levenshtein-sort:               true
-rofi.case-sensitive:                 false
-rofi.fuzzy:                          false
-rofi.line-margin:                    2
-rofi.separator-style:                none
-rofi.hide-scrollbar:                 true
-rofi.markup-rows:                    false
+! State:           'bg',          'fg',      'bgalt',        'hlbg',         'hlfg'
+rofi.color-normal: argb:001E1E1E,  #A7A7A7,  argb:00151515,  argb:FFFBE9B9,  #1E1E1E
+rofi.color-active: argb:001E1E1E,  #FBE9B9,  argb:00151515,  argb:FFFBE9B9,  #1E1E1E
+rofi.color-urgent: argb:001E1E1E,  #F259D4,  argb:00151515,  argb:FFFBE9B9,  #1E1E1E
+!                  'bg',           'border'
+rofi.color-window: argb:E01E1E1E,  #404552
 
+!#< config 
 
+rofi.modi:              ssh,window,drun,run
+rofi.sidebar-mode:      false
+rofi.terminal:          urxvt
+rofi.ssh-client:        ssh
+rofi.ssh-command:       {terminal} -e "{ssh-client} {host}"
+rofi.opacity:           100
+rofi.columns:           1
+rofi.fullscreen:        true
+rofi.font:              Monospace 16
+
+rofi.bw:                0
+rofi.padding:           400
+rofi.levenshtein-sort:  true
+rofi.case-sensitive:    false
+rofi.fuzzy:             false
+rofi.line-margin:       2
+rofi.separator-style:   none
+rofi.hide-scrollbar:    true
+rofi.markup-rows:       false
 
 !#########################################################################################
 !#

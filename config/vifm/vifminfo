@@ -12,7 +12,7 @@
 'b
 	/home/shishqa/bin/
 	..
-1586947374
+1590484779
 'c
 	/home/shishqa/.config
 	..
@@ -20,7 +20,7 @@
 'h
 	/home/shishqa/
 	..
-1586947374
+1590484779
 'k
 	/home/shishqa/repositories/MIPT/2020_2/asm/NASM/20_Break-In/Mine/hack
 	src
@@ -46,1038 +46,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/10_SAS-fork
-	config
-4
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C
-	20_SAS-to-ELF
-7
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/20_SAS-to-ELF
-	tests
-3
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/20_SAS-to-ELF/tests
-	TEST
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/20_SAS-to-ELF/tests/TEST
-	main.asm
-1
-d/home/shishqa
-	snap
-11
-d/home/shishqa/repositories/MIPT/2020_2
-	..
-0
-d/home/shishqa/repositories/MIPT
-	2019_1
-1
-d/home/shishqa/repositories/MIPT/2019_1
-	clang
-1
-d/home/shishqa/repositories/MIPT/2019_1/clang
-	Include
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Include
-	..
-0
-d/home/shishqa/repositories/MIPT/2019_1/clang
-	Projects
-3
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects
-	test
-11
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/test
-	src
-3
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/test/src
-	main.cpp
-1
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/test
-	src
-3
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects
-	05_Classic-List
-5
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/05_Classic-List
-	src
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/05_Classic-List/src
-	run_tests.cpp
-4
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/05_Classic-List
-	src
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects
-	05_Binary-Search-Tree
-5
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/05_Binary-Search-Tree
-	src
-5
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/05_Binary-Search-Tree/src
-	node_methods.h
-1
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/05_Binary-Search-Tree
-	src
-5
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects
-	08_Translator
-8
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/08_Translator
-	log
-3
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/08_Translator/log
-	dump1.png
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/08_Translator
-	.vscode
-1
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/08_Translator/.vscode
-	..
-0
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/08_Translator
-	saved_tree
-7
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects
-	07_Derivative-Calc
-7
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/07_Derivative-Calc
-	LaTeX
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/07_Derivative-Calc/LaTeX
-	exp2
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/07_Derivative-Calc/LaTeX/exp2
-	exp2.pdf
-3
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/07_Derivative-Calc/LaTeX
-	exp2
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/07_Derivative-Calc
-	LaTeX
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects
-	01_Onegin-Sort
-1
-d/home/shishqa/repositories/MIPT/2019_1/clang
-	Projects
-3
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects
-	01_Onegin-Sort
-1
-d/home/shishqa/repositories/MIPT/2019_1/clang
-	Include
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Include
-	tree_class.h
-12
-d/home/shishqa/repositories/MIPT/2019_1/clang
-	Projects
-3
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects
-	01_Onegin-Sort
-1
-d/home/shishqa/repositories/MIPT/2019_1/clang
-	Projects
-3
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects
-	06_Akinator
-6
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/06_Akinator
-	bin
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/06_Akinator/bin
-	akinator
-1
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/06_Akinator
-	config
-3
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/06_Akinator/config
-	config
-1
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/06_Akinator
-	data
-4
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/06_Akinator/data
-	tree_2
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/06_Akinator
-	tmp
-7
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/06_Akinator/tmp
-	..
-0
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/06_Akinator
-	src
-6
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/06_Akinator/src
-	readers.cpp
-4
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/06_Akinator
-	src
-6
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/06_Akinator/src
-	akinator.cpp
-1
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/06_Akinator
-	config
-3
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/06_Akinator/config
-	config
-1
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/06_Akinator
-	config
-3
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/06_Akinator/config
-	config
-1
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/06_Akinator
-	bin
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/06_Akinator/bin
-	akinator1
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/06_Akinator
-	Makefile
-8
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects
-	06_Akinator
-6
-d/home/shishqa/repositories/MIPT/2019_1/clang
-	Projects
-3
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects
-	10. Voxlang
-10
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/10. Voxlang
-	..
-0
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects
-	9.Translator
-9
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/9.Translator
-	src
-5
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/9.Translator/src
-	main.cpp
-14
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/9.Translator
-	src
-5
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects
-	9.Translator
-9
-d/home/shishqa/repositories/MIPT/2019_1/clang
-	Projects
-3
-d/home/shishqa/repositories/MIPT/2019_1
-	clang
-1
-d/home/shishqa/repositories/MIPT/2019_1/clang
-	Include
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Include
-	tree_class.h
-12
-d/home/shishqa/repositories/MIPT/2019_1/clang
-	Projects
-3
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects
-	3.Asm_Compiler
-3
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/3.Asm_Compiler
-	Asm
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/3.Asm_Compiler/Asm
-	src
-3
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/3.Asm_Compiler/Asm/src
-	..
-0
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/3.Asm_Compiler/Asm
-	src
-3
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/3.Asm_Compiler
-	Asm
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/3.Asm_Compiler/Asm
-	src
-3
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/3.Asm_Compiler
-	src_backup
-6
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/3.Asm_Compiler/src_backup
-	..
-0
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/3.Asm_Compiler
-	Asm
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/3.Asm_Compiler/Asm
-	src
-3
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/3.Asm_Compiler/Asm/src
-	..
-0
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/3.Asm_Compiler/Asm
-	src
-3
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/3.Asm_Compiler
-	config
-4
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/3.Asm_Compiler/config
-	cmd_defines.h
-1
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/3.Asm_Compiler
-	src_backup
-6
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/3.Asm_Compiler/src_backup
-	asm
-1
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/3.Asm_Compiler/src_backup/asm
-	asm.h
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/3.Asm_Compiler/src_backup
-	config
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/3.Asm_Compiler/src_backup/config
-	cmd_defines.h
-1
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/3.Asm_Compiler/src_backup
-	config
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/3.Asm_Compiler
-	config
-4
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/3.Asm_Compiler/config
-	cmd_defines.h
-1
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/3.Asm_Compiler
-	config
-4
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects
-	05_Classic-List
-5
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/05_Classic-List
-	src
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/05_Classic-List/src
-	Linked_Ptr_List_methods.h
-3
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/05_Classic-List
-	src
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects
-	Lesha
-10
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/Lesha
-	src
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/Lesha/src
-	frontend-1.h
-10
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/Lesha
-	src
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects
-	09_Music-Lang
-9
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/09_Music-Lang
-	MIDI's
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/09_Music-Lang/MIDI's
-	Fibonacci.mp3
-3
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/09_Music-Lang
-	src_remember
-7
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects
-	08_C-like-Lang
-8
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects/08_C-like-Lang
-	bin
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects
-	08_C-like-Lang
-8
-d/home/shishqa/repositories/MIPT/2019_1/clang
-	Include
-2
-d/home/shishqa/repositories/MIPT/2019_1/clang/Include
-	tree_class.h
-12
-d/home/shishqa/repositories/MIPT/2019_1/clang
-	Include
-2
-d/home/shishqa/repositories/MIPT/2019_1
-	clang
-1
-d/home/shishqa/repositories/MIPT/2019_1/clang
-	Projects
-3
-d/home/shishqa/repositories/MIPT/2019_1
-	clang
-1
-d/home/shishqa/repositories/MIPT/2019_1/clang
-	Projects
-3
-d/home/shishqa/repositories/MIPT/2019_1
-	clang
-1
-d/home/shishqa/repositories/MIPT/2019_1/clang
-	Projects
-3
-d/home/shishqa/repositories/MIPT/2019_1
-	clang
-1
-d/home/shishqa/repositories/MIPT/2019_1/clang
-	Projects
-3
-d/home/shishqa/repositories/MIPT/2019_1/clang/Projects
-	03_CPU-Emulator
-3
-d/home/shishqa/repositories/MIPT/2019_1/clang
-	Projects
-3
-d/home/shishqa/repositories/MIPT/2019_1
-	CLANG
-1
-d/home/shishqa/repositories/MIPT
-	2020_2
-2
-d/home/shishqa/repositories/MIPT/2020_2
-	ASM
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM
-	20_C
-4
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C
-	05_SAS-to-ELF
-5
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	tests
-3
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/tests
-	TEST
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/tests/TEST
-	main.asm
-1
-d/home/shishqa/repositories/MIPT/2020_2
-	ASM
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM
-	20_C
-4
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C
-	11_C-like-Lang-fork
-7
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/11_C-like-Lang-fork
-	programs
-5
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/11_C-like-Lang-fork/programs
-	fibonacci
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/11_C-like-Lang-fork/programs/fibonacci
-	DEC.plan
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/11_C-like-Lang-fork/programs
-	tmp.asm
-5
-d/home/shishqa
-	snap
-18
-d/home/shishqa/repositories/MIPT/2020_2
-	ASM
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM
-	20_C
-4
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C
-	05_SAS-to-ELF
-5
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	bin
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/bin
-	test.out
-3
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	Makefile
-4
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C
-	05_SAS-to-ELF
-5
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	src
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	simple_vector
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/simple_vector
-	vector.hpp
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	simple_vector
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	src
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	simple_vector
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/simple_vector
-	test_vector.cpp
-3
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	utils
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
-	instructions
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
-	..
-0
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
-	instructions
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
-	instruction.cpp
-3
-d/home/shishqa
-	study
-6
-d/home/shishqa/repositories/MIPT/2020_2
-	ASM
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM
-	20_C
-4
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C
-	05_SAS-to-ELF
-5
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	bin
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/bin
-	out.bin
-1
-d/home/shishqa
-	study
-6
-d/home/shishqa/repositories/MIPT/2020_2
-	ASM
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM
-	20_C
-4
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C
-	10_SAS-fork
-6
-d/home/shishqa
-	study
-6
-d/home/shishqa/repositories/MIPT/2020_2
-	ASM
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM
-	20_C
-4
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C
-	05_SAS-to-ELF
-5
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	bin
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C
-	05_SAS-to-ELF
-5
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	src
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	utils
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
-	instructions
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
-	config
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions/config
-	defines.hpp
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
-	config
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
-	instructions
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	utils
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	src
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C
-	05_SAS-to-ELF
-5
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	src
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	utils
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
-	instructions
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
-	config
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions/config
-	defines.hpp
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
-	config
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
-	instructions
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	utils
-1
-d/home/shishqa
-	downloads
-15
-d/home/shishqa/downloads
-	Telegram
-1
-d/home/shishqa/downloads/Telegram
-	ДЗ 6. DFS и Ко, пути.pdf
-7
-d/home/shishqa
-	repositories
-17
-d/home/shishqa/repositories
-	MIPT
-1
-d/home/shishqa
-	.when
-13
-d/home/shishqa/repositories/MIPT/2020_2
-	ASM
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM
-	20_C
-4
-d/home/shishqa/repositories/MIPT/2020_2
-	ASM
-2
-d/home/shishqa/repositories/MIPT
-	2020_2
-2
-d/home/shishqa/repositories
-	MIPT
-1
-d/home/shishqa
-	study
-19
-d/home/shishqa/study
-	Kudryavtsev-LD-Sbornik-zadach-po-matematicheskomu-analizu-Tom-3-Funktsii-neskolkih-peremennyh.djvu
-6
-d/home/shishqa
-	downloads
-15
-d/home/shishqa/downloads
-	ObinsKit_1.1.4_x64
-1
-d/home/shishqa/downloads/ObinsKit_1.1.4_x64
-	obinskit
-12
-d/home/shishqa
-	media
-15
-d/home/shishqa/media
-	screenshots
-3
-d/home/shishqa
-	media
-15
-d/home/shishqa/media
-	screenshots
-3
-d/home/shishqa
-	repositories
-16
-d/home/shishqa/repositories
-	MIPT
-1
-d/home/shishqa/repositories/MIPT
-	2020_2
-2
-d/home/shishqa/repositories/MIPT/2020_2
-	ALG
-1
-d/home/shishqa/repositories/MIPT/2020_2/ALG
-	..
-0
-d/home/shishqa
-	repositories
-15
-d/home/shishqa/repositories
-	MIPT
-1
-d/home/shishqa/repositories/MIPT
-	2020_2
-2
-d/home/shishqa/repositories/MIPT/2020_2
-	ASM
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM
-	20_C
-4
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C
-	05_SAS-to-ELF
-5
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	src
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	utils
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
-	instructions
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
-	instruction_encodings.cpp
-5
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
-	instructions
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	utils
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	tests
-3
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/tests
-	TEST
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/tests/TEST
-	main.asm
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/tests
-	TEST
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	src
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	utils
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
-	instructions
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
-	instruction_encodings.cpp
-5
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
-	instructions
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	utils
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	src
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	utils
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
-	instructions
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
-	instruction_encodings.cpp
-5
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
-	instructions
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	utils
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	src
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C
-	05_SAS-to-ELF
-5
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	src
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	utils
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	src
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C
-	05_SAS-to-ELF
-5
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	src
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	utils
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	bin
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/bin
-	..
-0
-d/home/shishqa
-	repositories
-6
-d/home/shishqa/repositories/MIPT/2020_2
-	ASM
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM
-	20_C
-4
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C
-	05_SAS-to-ELF
-5
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	bin
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/bin
-	..
-0
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	src
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	utils
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
-	instructions
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
-	config
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions/config
-	defines.hpp
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
-	config
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
-	instructions
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	utils
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	src
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	utils
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
-	instructions
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
-	config
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions/config
-	defines.hpp
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
-	config
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions/config
-	cmd_defines.h
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
-	config
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
-	instructions
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	main.cpp
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	tests
-3
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/tests
-	test.cpp
-5
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	src
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	utils
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
-	instructions
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
-	instruction_encodings.cpp
-5
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
-	instructions
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	utils
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	src
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C
-	10_SAS-fork
-6
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/10_SAS-fork
-	old_libs
-5
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C
-	05_SAS-to-ELF
-5
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	src
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	utils
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
-	instructions
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
-	instruction_encodings.cpp
-5
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
-	instructions
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	utils
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	Makefile
-4
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C
-	05_SAS-to-ELF
-5
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	src
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	utils
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
-	instructions
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
-	config
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions/config
-	defines.hpp
-2
-d/home/shishqa
-	repositories
-17
-d/home/shishqa/repositories
-	MIPT
-1
-d/home/shishqa/repositories/MIPT
-	2020_2
-2
-d/home/shishqa/repositories/MIPT/2020_2
-	ASM
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM
-	20_C
-4
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C
-	05_SAS-to-ELF
-5
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	src
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	utils
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
-	simple_vector
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/simple_vector
-	..
-0
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
-	instructions
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
-	config
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions/config
-	cmd_defines.h
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
-	instruction.cpp
-3
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
-	simple_vector
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/simple_vector
-	..
-0
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
-	simple_vector
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
-	utils
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
-	src
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C
-	10_SAS-fork
-6
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/10_SAS-fork
-	programs
-6
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/10_SAS-fork/programs
-	fibonacci
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/10_SAS-fork/programs/fibonacci
-	main1.asm
-3
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/10_SAS-fork/programs
-	test.out
-5
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/10_SAS-fork
-	CPU
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/10_SAS-fork/CPU
-	bin
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/10_SAS-fork/CPU/bin
-	test.out
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/10_SAS-fork/CPU
-	bin
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/10_SAS-fork
-	CPU
-2
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/10_SAS-fork/CPU
-	bin
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/10_SAS-fork
-	ASM
-1
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/10_SAS-fork/ASM
-	..
-0
-d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/10_SAS-fork
-	programs
-6
 d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/10_SAS-fork/programs
 	square_equation
 3
@@ -3040,96 +2008,1047 @@ d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
 d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
 	main.cpp
 2
-d/home/shishqa
-	.debug
-3
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
+	README.md
+6
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C
+	05_SAS-to-ELF
+5
+d/home/shishqa/repositories/MIPT/2020_2/ASM
+	20_C
+4
 d/home/shishqa/repositories/MIPT/2020_2
 	ASM
 2
+d/home/shishqa/repositories/MIPT
+	2020_2
+2
+d/home/shishqa/repositories
+	dotfiles
+2
+d/home/shishqa
+	.local
+8
+d/home/shishqa/.local
+	bin
+1
+d/home/shishqa/.local/bin
+	rofi-wifi
+6
+d/home/shishqa/.local
+	bin
+1
+d/home/shishqa
+	repositories
+17
+d/home/shishqa/repositories
+	dotfiles
+2
+d/home/shishqa/repositories/dotfiles
+	scripts
+3
+d/home/shishqa/repositories/dotfiles/scripts
+	bin
+1
+d/home/shishqa/repositories/dotfiles
+	scripts
+3
+d/home/shishqa/repositories/dotfiles/scripts
+	rofi-wifi
+6
+d/home/shishqa/repositories/dotfiles
+	scripts
+3
+d/home/shishqa/repositories
+	dotfiles
+2
+d/home/shishqa/repositories/dotfiles
+	scripts
+3
+d/home/shishqa/repositories/dotfiles/scripts
+	rofi-wifi
+6
+d/home/shishqa/repositories/dotfiles
+	config
+2
+d/home/shishqa/repositories/dotfiles/config
+	picom
+6
+d/home/shishqa/repositories/dotfiles
+	config
+2
+d/home/shishqa/repositories
+	dotfiles
+2
+d/home/shishqa/repositories/dotfiles
+	config
+2
+d/home/shishqa/repositories/dotfiles/config
+	picom
+6
+d/home/shishqa/repositories/dotfiles
+	.zshenv
+5
+d/home/shishqa/repositories
+	dotfiles
+2
+d/home/shishqa
+	repositories
+17
+d/home
+	shishqa
+1
+d/home/shishqa
+	.local
+8
+d/home/shishqa/.local
+	share
+2
+d/home/shishqa/.local/share
+	vifm
+5
+d/home/shishqa/.local/share/vifm
+	Trash
+1
+d/home/shishqa/.local/share/vifm/Trash
+	000_popup-calendar2.sh
+33
+d/home/shishqa/.local/share/vifm
+	Trash
+1
+d/home/shishqa/.local/share
+	vifm
+5
+d/home/shishqa
+	media
+16
+d/home
+	shishqa
+1
+d/home/shishqa
+	.local
+8
+d/home/shishqa/.local
+	bin
+1
+d/home/shishqa/.local/bin
+	calendar
+1
+d/home/shishqa/.local
+	bin
+1
+d/home/shishqa
+	media
+16
+d/home/shishqa/.config
+	bspwm
+4
+d/home/shishqa/.config/bspwm
+	bspwmrc
+2
+d/home/shishqa/.config
+	bspwm
+4
+d/home/shishqa/.config/bspwm
+	bspwmrc
+2
+d/home/shishqa/.config
+	bspwm
+4
+d/home/shishqa
+	media
+16
+d/home/shishqa/repositories/MIPT/2020_2
+	ALG
+1
+d/home/shishqa/repositories/MIPT
+	2020_2
+2
+d/home/shishqa/repositories
+	MIPT
+1
+d/home/shishqa
+	repositories
+17
+d/home/shishqa/.config
+	nitrogen
+18
+d/home/shishqa/.config/nitrogen
+	nitrogen.cfg
+2
+d/home/shishqa/.config
+	neofetch
+17
+d/home/shishqa/.config/neofetch
+	config.conf
+1
+d/home/shishqa/.config
+	ncmpcpp
+16
+d/home/shishqa
+	.config
+2
+d/home
+	shishqa
+1
+d/
+	etc
+4
+d/etc
+	mopidy
+33
+d/etc/mopidy
+	logging.conf
+1
+d/etc
+	mopidy
+33
+d/
+	var
+21
+d/var
+	lock
+7
+d/home/shishqa
+	.Xauthority
+17
+d/home/shishqa/.config
+	polybar
+17
+d/home/shishqa/.config/polybar
+	modules.ini
+4
+d/home/shishqa
+	study
+19
+d/home/shishqa/study
+	Kudryavtsev-LD-Sbornik-zadach-po-matematicheskomu-analizu-Tom-2-Integraly-Ryady.djvu
+4
+d/home/shishqa
+	study
+19
+d/home/shishqa/repositories/MIPT/2020_2
+	ASM
+2
+d/home/shishqa/repositories/MIPT/2020_2/ASM
+	20_C
+4
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C
+	04_Alpha-blending
+4
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending
+	src
+3
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending/src
+	Image.cpp
+4
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending
+	bin
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending/bin
+	..
+0
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending
+	bin
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending/bin
+	NO-SSE-STAT
+4
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending
+	src
+3
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending/src
+	main.cpp
+6
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending
+	bin
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending/bin
+	NO-SSE-STAT
+4
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending
+	src
+3
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending/src
+	main.cpp
+6
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending
+	bin
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending/bin
+	NO-SSE-STAT
+5
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending
+	bin
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending/bin
+	CATONDESK.bmp
+2
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending
+	example
+2
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending/example
+	01
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending/example/01
+	CAT.bmp
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending/example
+	01
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending
+	bin
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending/bin
+	CAT.bmp
+2
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending
+	src
+3
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending/src
+	main.cpp
+5
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending
+	bin
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending/bin
+	CAT.bmp
+2
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending
+	src
+3
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending/src
+	main.cpp
+5
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending
+	src
+3
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C
+	03_HashTable-optimized
+3
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/03_HashTable-optimized
+	34_asm_sse_question
+11
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/03_HashTable-optimized/34_asm_sse_question
+	..
+0
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/03_HashTable-optimized
+	32_asm_sse
+9
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/03_HashTable-optimized/32_asm_sse
+	..
+0
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/03_HashTable-optimized
+	00_hash-research
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/03_HashTable-optimized/00_hash-research
+	..
+0
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/03_HashTable-optimized
+	40_-O1
+12
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C
+	02_HashTable-class
+2
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/02_HashTable-class
+	..
+0
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C
+	05_SAS-to-ELF
+5
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
+	playground
+2
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/playground
+	TEST
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
+	src
+4
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
+	utils
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
+	utils.cpp
+4
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
+	utils
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
+	instructions
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
+	config
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions/config
+	standard_implementations.hpp
+3
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
+	instruction_encodings.cpp
+5
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
+	instructions
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
+	utils
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
+	bin
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/bin
+	sastoelf
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
+	progs
+3
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/progs
+	perf_test
+4
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
+	src
+4
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
+	utils
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
+	instructions
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
+	config
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions/config
+	x86_defines.hpp
+5
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
+	config
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
+	instructions
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
+	utils
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
+	src
+4
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
+	main.cpp
+2
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF
+	src
+4
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src
+	utils
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils
+	instructions
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
+	config
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions/config
+	x86_defines.hpp
+4
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
+	config
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions/config
+	x86_defines.hpp
+4
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
+	config
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions/config
+	standard_implementations.hpp
+2
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
+	config
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions/config
+	standard_implementations.hpp
+2
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
+	config
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions/config
+	standard_implementations.hpp
+2
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
+	config
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions/config
+	tools.hpp
+3
+d/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/utils/instructions
+	instruction_encodings.cpp
+5
+d/home/shishqa
+	study
+19
+d/home/shishqa/.config
+	bspwm
+4
+d/home/shishqa/.config/bspwm
+	autostart
+1
+d/home/shishqa/repositories/MIPT/2020_2
+	ASM
+2
+d/home/shishqa/repositories/MIPT/2020_2/ASM
+	10_NASM
+3
+d/home/shishqa/repositories/MIPT/2020_2/ASM/10_NASM
+	02_Custom-Printf
+3
+d/home/shishqa/repositories/MIPT/2020_2/ASM/10_NASM/02_Custom-Printf
+	bin
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/10_NASM/02_Custom-Printf/bin
+	test_put_c
+3
+d/home/shishqa/repositories/MIPT/2020_2/ASM/10_NASM/02_Custom-Printf
+	bin
+1
+d/home/shishqa/repositories/MIPT/2020_2/ASM/10_NASM/02_Custom-Printf/bin
+	test_put_c
+3
+d/home/shishqa/repositories/MIPT/2020_2/ASM/10_NASM/02_Custom-Printf
+	src
+2
+d/home/shishqa/repositories/MIPT/2020_2/ASM/10_NASM/02_Custom-Printf/src
+	put_d.asm
+5
+d/home/shishqa/repositories/MIPT/2020_2/ASM/10_NASM/02_Custom-Printf
+	src
+2
+d/home/shishqa/repositories/MIPT/2020_2/ASM/10_NASM/02_Custom-Printf/src
+	put_chars.asm
+4
+d/home/shishqa/repositories/MIPT/2020_2/ASM/10_NASM/02_Custom-Printf
+	src
+2
+d/home/shishqa/repositories/MIPT/2020_2/ASM/10_NASM/02_Custom-Printf/src
+	put_chars.asm
+4
+d/home/shishqa/repositories/MIPT/2020_2/ASM/10_NASM/02_Custom-Printf
+	src
+2
+d/home/shishqa/repositories/MIPT/2020_2/ASM/10_NASM
+	02_Custom-Printf
+3
+d/home/shishqa/repositories/MIPT/2020_2/ASM/10_NASM/02_Custom-Printf
+	src
+2
+d/home/shishqa/repositories/MIPT/2020_2/ASM/10_NASM/02_Custom-Printf/src
+	printf.asm
+2
+d/home/shishqa
+	.dosbox
+5
+d/home/shishqa/.dosbox
+	dosbox-0.74-3.conf
+1
+d/home/shishqa
+	downloads
+16
+d/home/shishqa/downloads
+	dosbox-asm-setup.rar.exe
+23
+d/home/shishqa
+	tmp
+21
+d/home/shishqa/tmp
+	DOSBox
+1
+d/home/shishqa/tmp/DOSBox
+	Config
+2
+d/home/shishqa/tmp/DOSBox/Config
+	DOSBox
+1
+d/home/shishqa/tmp/DOSBox/Config/DOSBox
+	Mapper-0.74.map
+2
+d/home/shishqa/tmp/DOSBox/Config
+	DOSBox
+1
+d/home/shishqa/tmp/DOSBox
+	Config
+2
+d/home/shishqa/tmp
+	DOSBox
+1
+d/home/shishqa
+	.dosbox
+5
+d/home/shishqa/.dosbox
+	dosbox-0.74-3
+3
+d/home/shishqa
+	.dosbox
+5
+d/home/shishqa/.dosbox
+	dosbox-0.74-3.conf
+2
+d/home/shishqa
+	tmp
+21
+d/home/shishqa/tmp
+	DOSBox
+1
+d/home/shishqa/tmp/DOSBox
+	Bin
+1
+d/home/shishqa/tmp
+	DOSBox
+1
+d/home/shishqa
+	.dosbox
+5
+d/home/shishqa/.dosbox
+	
+5
+d/home/shishqa
+	..
+0
+d/home/shishqa/.config
+	ncmpcpp
+16
+d/home/shishqa/.config/ncmpcpp
+	config
+1
+d/home/shishqa/.config
+	ncmpcpp
+16
+d/home/shishqa
+	.config
+2
+d/home/shishqa/.config
+	ncmpcpp
+16
+d/home/shishqa
+	.config
+2
+d/home
+	shishqa
+1
+d/
+	etc
+4
+d/etc
+	mopidy
+16
+d/etc/mopidy
+	mopidy.conf
+2
+d/etc
+	modprobe.d
+14
+d/
+	home
+5
+d/home/shishqa/.config
+	..
+0
+d/home/shishqa
+	.config
+2
+d/home/shishqa/.config
+	pulse
+21
+d/home/shishqa/.config/pulse
+	35eccd2dbe424f37843c528453fde32d-card-database.tdb
+1
+d/home/shishqa/.config
+	discord
+7
+d/home/shishqa
+	.config
+2
+d/home/shishqa/.config
+	wal
+26
+d/home/shishqa/.config/wal
+	colorschemes
+1
+d/home/shishqa/.config/wal/colorschemes
+	dark
+1
+d/home/shishqa/.config/wal/colorschemes/dark
+	..
+0
+d/home/shishqa/.config/wal/colorschemes
+	light
+2
+d/home/shishqa/.config/wal/colorschemes/light
+	..
+0
+d/home/shishqa/.config/wal/colorschemes
+	light
+2
+d/home/shishqa/.config/wal
+	colorschemes
+1
+d/home/shishqa/.config/wal/colorschemes
+	light
+2
+d/home/shishqa/.config/wal
+	templates
+2
+d/home/shishqa/.config/wal/templates
+	..
+0
+d/home/shishqa/.config/wal
+	templates
+2
+d/home/shishqa/.config
+	bspwm
+3
+d/home/shishqa/.config/bspwm
+	bspwmrc
+2
+d/home/shishqa/.config
+	polybar
+16
+d/home/shishqa/.config/polybar
+	old
+1
+d/home/shishqa/.config/polybar/old
+	bar-bottom.ini
+1
+d/home/shishqa/.config/polybar
+	bar.ini
+2
+d/home/shishqa
+	.config
+2
+d/home/shishqa/.config
+	polybar
+21
+d/home/shishqa/.config/polybar
+	colors.ini
+4
+d/home/shishqa
+	.config
+2
+d/home/shishqa/.config
+	guvcview2
+12
+d/home/shishqa/.config/guvcview2
+	video0
+1
+d/home/shishqa/.config
+	polybar
+20
+d/home/shishqa/.config/polybar
+	bars.ini
+2
+d/home/shishqa/.config
+	polybar
+20
+d/home/shishqa
+	.local
+8
+d/home/shishqa/.local
+	bin
+1
+d/home/shishqa/.local/bin
+	lock
+3
+d/home/shishqa/.local
+	bin
+1
+d/home/shishqa
+	.config
+2
+d/home/shishqa/.config
+	polybar
+20
+d/home/shishqa/.config/polybar
+	bars.ini
+3
+d/home/shishqa/.config
+	bspwm
+3
+d/home/shishqa/.config/bspwm
+	bspwmrc
+2
+d/home/shishqa/.config
+	polybar
+20
+d/home/shishqa/.config/polybar
+	bars.ini
+2
+d/home/shishqa
+	.config
+2
+d/home/shishqa/.config
+	polybar
+20
+d/home/shishqa/.config/polybar
+	bars.ini
+3
+d/home/shishqa
+	.idapro
+6
+d/home/shishqa/.config
+	polybar
+20
+d/home/shishqa/.config/polybar
+	colors.ini
+4
+d/home/shishqa
+	.mozilla
+10
+d/home/shishqa/.config
+	polybar
+20
+d/home/shishqa/.config/polybar
+	modules.ini
+4
+d/home/shishqa/.config
+	vifm
+23
+d/home/shishqa
+	.config
+2
+d/home
+	shishqa
+1
+d/
+	etc
+4
+d/etc
+	mopidy
+16
+d/etc/mopidy
+	logging.conf
+1
+d/etc
+	mopidy
+16
+d/home/shishqa/.config
+	mopidy
+15
+d/home/shishqa/.config/mopidy
+	mopidy.conf
+2
+d/home/shishqa/.config
+	bspwm
+3
+d/home/shishqa/.config/bspwm
+	autostart
+1
+d/home/shishqa
+	.config
+2
+d/home/shishqa/.config
+	mopidy
+15
+d/home/shishqa/.config/mopidy
+	logging.conf
+1
+d/home/shishqa/.config
+	mopidy
+15
+d/home/shishqa
+	.config
+2
+d/home
+	shishqa
+1
+d/
+	var
+21
+d/var
+	log
+8
+d/var/log
+	mopidy
+3
+d/var/log/mopidy
+	mopidy.log
+1
+d/home/shishqa/.config
+	polybar
+20
+d/home/shishqa/.config/polybar
+	colors.ini
+3
+d/home/shishqa
+	.icons
+5
+d/home/shishqa/.config
+	polybar
+20
+d/home/shishqa/.config/polybar
+	modules.ini
+4
+d/home/shishqa/.config
+	polybar
+20
+d/home/shishqa/.config/polybar
+	bars.ini
+2
+d/home/shishqa/.config
+	polybar
+20
+d/home/shishqa
+	.lyrics
+9
+d/home/shishqa/.config
+	sxhkd
+22
+d/home/shishqa/.config/sxhkd
+	..
+0
+d/home/shishqa/.config
+	sxhkd
+22
+d/home/shishqa/.config/sxhkd
+	sxhkdrc
+1
+d/home/shishqa/.config
+	bspwm
+3
+d/home/shishqa/.config/bspwm
+	bspwmrc
+2
+d/home/shishqa
+	.texlive
+12
+d/home/shishqa/.config
+	QtProject.conf
+17
+d/home/shishqa
+	.config
+2
+d/home
+	shishqa
+1
+d/
+	home
+4
+d/home/shishqa/.config
+	vifm
+9
+d/home/shishqa/.config/vifm
+	vifmrc
+10
+d/home/shishqa/.config
+	yay
+26
+d/home/shishqa
+	downloads
+16
+d/home/shishqa/downloads
+	Telegram
+2
+d/home/shishqa
+	media
+17
+d/home/shishqa/media
+	pictures
+2
+d/home/shishqa/media/pictures
+	361576.jpg
+2
+d/home/shishqa/media
+	pictures
+2
+d/home/shishqa/media/pictures
+	449509.png
+8
+d/home/shishqa
+	.local
+8
+d/home/shishqa/.local
+	bin
+1
+d/home/shishqa/.local/bin
+	check-arch-updates
+2
+d/home/shishqa/.local
+	bin
+1
+d/home/shishqa
+	.local
+8
+d/home/shishqa/.config
+	polybar
+20
+d/home/shishqa/.config/polybar
+	modules.ini
+4
+d/home/shishqa/.config
+	polybar
+20
+d/home/shishqa/.config/polybar
+	modules.ini
+4
+d/home/shishqa/.config
+	polybar
+17
+d/home/shishqa
+	.local
+8
+d/home/shishqa/.local
+	bin
+1
+d/home/shishqa/.local/bin
+	poly_launch
+4
+d/home/shishqa/.local
+	share
+2
+d/home/shishqa
+	.zoom
+14
+d/home/shishqa/.config
+	polybar
+17
+d/home/shishqa/.config/polybar
+	modules.ini
+5
+d/home/shishqa/.config
+	sxhkd
+16
+d/home/shishqa/.config/sxhkd
+	sxhkdrc
+1
+d/home/shishqa/.config
+	dunst
+9
+d/home/shishqa/.config/dunst
+	dunstrc
+1
+d/home/shishqa/.config
+	polybar
+20
+d/home/shishqa/.config/polybar
+	colors.ini
+3
+d/home/shishqa/.config
+	polybar
+20
+d/home/shishqa/.config/polybar
+	old
+1
+d/home/shishqa/.config/polybar/old
+	bar-bottom.ini
+1
+d/home/shishqa/.config/polybar
+	old
+1
+d/home/shishqa/.config
+	polybar
+16
+d/home/shishqa/.config/polybar
+	colors.ini
+3
 d
 
 # Right window history (oldest to newest):
-D/home/shishqa
-	Music
-17
-D/home/shishqa/Music
-	Foster The People - Pumped up Kicks (Official Music Video).mp3
-2
-D/home/shishqa
-	.zoom
-13
-D/home/shishqa/.config
-	mimeapps.list
-33
-D/home/shishqa
-	.themes
-12
-D/home/shishqa/.config
-	zsh
-29
-D/home/shishqa/.config/zsh
-	.zcompdump
-1
-D/home/shishqa/.config
-	darktable
-2
-D/home/shishqa/.config/darktable
-	..
-0
-D/home/shishqa/.config
-	mc
-11
-D/home/shishqa/.config/mc
-	..
-0
-D/home/shishqa/.config
-	ncmpcpp
-12
-D/home/shishqa/.config/ncmpcpp
-	..
-0
-D/home/shishqa/.config
-	ncmpcpp
-12
-D/home/shishqa/.config/ncmpcpp
-	error.log
-2
-D/home/shishqa/.config
-	oomox
-15
-D/home/shishqa/.config/oomox
-	..
-0
-D/home/shishqa/.config
-	zsh
-25
-D/home/shishqa/.config/zsh
-	aliasrc
-4
-D/home/shishqa/.config
-	zsh
-25
-D/home/shishqa
-	Downloads
-16
-D/home/shishqa/Downloads
-	Dolls_House_Miniature_Wallpaper_2__57465.1505671358.1280.1280.jpg
-9
-D/home/shishqa
-	Study
-20
-D/home/shishqa/Study
-	Kudryavtsev-LD-Sbornik-zadach-po-matematicheskomu-analizu-Tom-2-Integraly-Ryady.djvu
-3
-D/home/shishqa
-	Study
-20
-D/home/shishqa/Study
-	Kudryavtsev-LD-Sbornik-zadach-po-matematicheskomu-analizu-Tom-2-Integraly-Ryady.djvu
-3
-D/home/shishqa
-	.config
-2
 D/home/shishqa/.config
 	.xinitrc
 12
@@ -6049,9 +5968,95 @@ D/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/10_SAS-fork/programs
 D/mnt
 	WorkDisk
 3
+D/home/shishqa/repositories/MIPT/2020_2
+	..
+0
+D/home/shishqa
+	.local
+8
+D/home/shishqa/.local
+	bin
+1
+D/home/shishqa/.local/bin
+	poly_launch
+3
+D/home/shishqa/.local
+	bin
+1
+D/home/shishqa
+	.local
+8
+D/home/shishqa/.config
+	bspwm
+4
+D/home/shishqa/.config/bspwm
+	bspwmrc
+2
+D/home/shishqa/.config
+	sxhkd
+22
+D/home/shishqa/.config/sxhkd
+	sxhkdrc
+1
+D/home/shishqa/.config
+	user-dirs.dirs
+34
+D/home/shishqa/repositories/MIPT/2020_2
+	..
+0
+D/home/shishqa/repositories/MIPT
+	2020_2
+2
+D/home/shishqa/repositories
+	dotfiles
+2
+D/home/shishqa/repositories/dotfiles
+	scripts
+3
+D/home/shishqa/repositories/dotfiles/scripts
+	rofi-wifi
+7
+D/home/shishqa/repositories/dotfiles
+	config
+2
+D/home/shishqa/repositories/dotfiles/config
+	.Xresources
+13
+D/home/shishqa/repositories/dotfiles
+	config
+2
+D/home/shishqa/repositories/MIPT/2020_2
+	ALG
+1
+D/home/shishqa/repositories/MIPT
+	2020_2
+2
+D/home/shishqa/repositories
+	MIPT
+1
+D/home/shishqa/repositories/MIPT/2020_2
+	ALG
+1
+D/home/shishqa/repositories/MIPT
+	2020_2
+2
+D/home/shishqa/repositories
+	MIPT
+1
+D/home/shishqa/repositories/MIPT/2020_2
+	ALG
+1
+D/
+	usr
+19
 D
 
 # Command line history (oldest to newest):
+:touch rofi-mpc
+:touch run_ncmpcpp
+:touch run_htop
+:touch view_siji
+:mkdir mergesort
 :mkdir scripts
 :touch standard_instructions.hpp
 :touch sas_instructions.hpp
@@ -6163,7 +6168,6 @@ D
 :touch vimrc.plug
 :! feh eberhard-grossgasteiger-47g-IDWhlCc-unsplash.jpg
 :mkdir rofi
-:touch config
 :tou
 :touch modules.ini
 :mkdir picom
@@ -6236,7 +6240,6 @@ D
 :touch crack
 :touch crk
 :touch 30-touchpad.conf
-:mkdir mopidy
 :touch mopidy.conf
 :mkdir initially
 :touch LIMITS
@@ -6260,7 +6263,6 @@ D
 :touch Shishatskiy_167.tex
 :mkdir images
 :mkdir 34_asm_sse
-:mkdir tmp
 :mkdir Theory
 :mkdir dotfiles
 :mkdir ASM
@@ -6323,8 +6325,14 @@ D
 :touch test_vector.cpp
 :q
 :touch standard_implementations.hpp
+:mkdir tmp
+:touch config
+:mkdir old
+:mkdir mopidy
+:touch mimeapps.list
 
 # Search history (oldest to newest):
+/font
 /syste
 /defa
 /sys
@@ -6367,16 +6375,22 @@ D
 /vim
 /X11
 /xdg
-/mopi
 /puls
-/mop
 /llvm
 /lin
 /lib
 /gtkmm
 /gtk
+/pop
+/mopi
+/mop
+/log
 
 # Prompt history (oldest to newest):
+pconfig.old1
+profi-mpc
+pmapper-0.74-3.map
+pdosbox-0.74-3.conf
 px86_defines.hpp
 putils.ipp
 pfibonacci.out
@@ -6464,7 +6478,6 @@ pcallgrind.out.before_optimisation
 pcallgrind.out.before_optimisation1
 pcallgrind.out.before_optimisation3
 pcallgrind.out.before_optimisation2
-ppoly_launch
 pminimal.vifm
 plesha.txt
 pto_egor
@@ -6615,11 +6628,22 @@ pplayground
 pequation
 pequation.out
 pconfig
+pscripts
+plock
+pcalendar
+pdosbox-asm-setup.rar
+pdosbox-0.74-3
+pconfig.old
+pbar.ini
+pbars.ini
+ppoly_launch
+pvifmrc.old
+pget-time
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/shishqa/.local/share/vifm/Trash/000_ShLYaPA_PO_FIZRE.odt
+""/home/shishqa/.config/vifm/vifmrc
 
 # Directory stack (oldest to newest):
 
@@ -8084,6 +8108,236 @@ t/home/shishqa/.local/share/vifm/Trash/000_drawing.svg
 	/home/shishqa/study/drawing.svg
 t/home/shishqa/.local/share/vifm/Trash/000_ShLYaPA_PO_FIZRE.odt
 	/home/shishqa/study/ShLYaPA_PO_FIZRE.odt
+t/home/shishqa/.local/share/vifm/Trash/000_fill-workspace.sh
+	/home/shishqa/.local/bin/fill-workspace.sh
+t/home/shishqa/.local/share/vifm/Trash/000_list-font
+	/home/shishqa/.local/bin/list-font
+t/home/shishqa/.local/share/vifm/Trash/001_scripts
+	/home/shishqa/repositories/dotfiles/scripts
+t/home/shishqa/.local/share/vifm/Trash/000_.fehbg
+	/home/shishqa/.fehbg
+t/home/shishqa/.local/share/vifm/Trash/000_AAA.bmp
+	/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending/bin/AAA.bmp
+t/home/shishqa/.local/share/vifm/Trash/000_CAT.bmp
+	/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/04_Alpha-blending/bin/CAT.bmp
+t/home/shishqa/.local/share/vifm/Trash/000_11_C-like-Lang-fork
+	/home/shishqa/repositories/MIPT/2020_2/ASM/20_C/11_C-like-Lang-fork
+t/home/shishqa/.local/share/vifm/Trash/000_DOSBox-0.74.conf
+	/home/shishqa/.dosbox/DOSBox-0.74.conf
+t/home/shishqa/.local/share/vifm/Trash/000_dosbox-0.74-3
+	/home/shishqa/.dosbox/dosbox-0.74-3
+t/home/shishqa/.local/share/vifm/Trash/001__START_DOSBox.bat
+	/home/shishqa/.dosbox/_START_DOSBox.bat
+t/home/shishqa/.local/share/vifm/Trash/000_Bin
+	/home/shishqa/.dosbox/Bin
+t/home/shishqa/.local/share/vifm/Trash/000_Config
+	/home/shishqa/.dosbox/Config
+t/home/shishqa/.local/share/vifm/Trash/000_Doc
+	/home/shishqa/.dosbox/Doc
+t/home/shishqa/.local/share/vifm/Trash/000_Temp
+	/home/shishqa/.dosbox/Temp
+t/home/shishqa/.local/share/vifm/Trash/000_Autoexec.bat
+	/home/shishqa/.dosbox/Autoexec.bat
+t/home/shishqa/.local/share/vifm/Trash/000_DOSBox.exe
+	/home/shishqa/.dosbox/DOSBox.exe
+t/home/shishqa/.local/share/vifm/Trash/000_Russian.txt
+	/home/shishqa/.dosbox/Russian.txt
+t/home/shishqa/.local/share/vifm/Trash/000_SDL.dll
+	/home/shishqa/.dosbox/SDL.dll
+t/home/shishqa/.local/share/vifm/Trash/000_SDL_net.dll
+	/home/shishqa/.dosbox/SDL_net.dll
+t/home/shishqa/.local/share/vifm/Trash/000_ZMBV.dll
+	/home/shishqa/.dosbox/ZMBV.dll
+t/home/shishqa/.local/share/vifm/Trash/000_ZMBV.inf
+	/home/shishqa/.dosbox/ZMBV.inf
+t/home/shishqa/.local/share/vifm/Trash/000_dosbox-0.74-3.conf
+	/home/shishqa/.dosbox/dosbox-0.74-3.conf
+t/home/shishqa/.local/share/vifm/Trash/000_.dosbox
+	/home/shishqa/.dosbox
+t/home/shishqa/.local/share/vifm/Trash/000_DRAWING.LST
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/10_FRAME/DRAWING.LST
+t/home/shishqa/.local/share/vifm/Trash/000_DRAWING.OBJ
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/10_FRAME/DRAWING.OBJ
+t/home/shishqa/.local/share/vifm/Trash/000_MAIN.COM
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/10_FRAME/MAIN.COM
+t/home/shishqa/.local/share/vifm/Trash/000_MAIN.LST
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/10_FRAME/MAIN.LST
+t/home/shishqa/.local/share/vifm/Trash/000_MAIN.MAP
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/10_FRAME/MAIN.MAP
+t/home/shishqa/.local/share/vifm/Trash/000_MAIN.OBJ
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/10_FRAME/MAIN.OBJ
+t/home/shishqa/.local/share/vifm/Trash/000_WINDOW.LST
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/10_FRAME/WINDOW.LST
+t/home/shishqa/.local/share/vifm/Trash/000_WINDOW.OBJ
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/10_FRAME/WINDOW.OBJ
+t/home/shishqa/.local/share/vifm/Trash/000_01_10INT.COM
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/11_HW-FRAME/01_10INT.COM
+t/home/shishqa/.local/share/vifm/Trash/000_01_10INT.LST
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/11_HW-FRAME/01_10INT.LST
+t/home/shishqa/.local/share/vifm/Trash/000_01_10INT.MAP
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/11_HW-FRAME/01_10INT.MAP
+t/home/shishqa/.local/share/vifm/Trash/000_01_10INT.OBJ
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/11_HW-FRAME/01_10INT.OBJ
+t/home/shishqa/.local/share/vifm/Trash/000_02_VRAMS.COM
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/11_HW-FRAME/02_VRAMS.COM
+t/home/shishqa/.local/share/vifm/Trash/000_02_VRAMS.LST
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/11_HW-FRAME/02_VRAMS.LST
+t/home/shishqa/.local/share/vifm/Trash/000_02_VRAMS.MAP
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/11_HW-FRAME/02_VRAMS.MAP
+t/home/shishqa/.local/share/vifm/Trash/000_02_VRAMS.OBJ
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/11_HW-FRAME/02_VRAMS.OBJ
+t/home/shishqa/.local/share/vifm/Trash/000_03_VRAMF.COM
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/11_HW-FRAME/03_VRAMF.COM
+t/home/shishqa/.local/share/vifm/Trash/000_03_VRAMF.LST
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/11_HW-FRAME/03_VRAMF.LST
+t/home/shishqa/.local/share/vifm/Trash/000_03_VRAMF.MAP
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/11_HW-FRAME/03_VRAMF.MAP
+t/home/shishqa/.local/share/vifm/Trash/000_03_VRAMF.OBJ
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/11_HW-FRAME/03_VRAMF.OBJ
+t/home/shishqa/.local/share/vifm/Trash/000_02SEM.COM
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/12_SEMINAR/02SEM.COM
+t/home/shishqa/.local/share/vifm/Trash/000_02SEM.LST
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/12_SEMINAR/02SEM.LST
+t/home/shishqa/.local/share/vifm/Trash/000_02SEM.MAP
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/12_SEMINAR/02SEM.MAP
+t/home/shishqa/.local/share/vifm/Trash/000_02SEM.OBJ
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/12_SEMINAR/02SEM.OBJ
+t/home/shishqa/.local/share/vifm/Trash/000_01_TEST1.COM
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/20_SEMINAR/01_TEST1.COM
+t/home/shishqa/.local/share/vifm/Trash/000_01_TEST1.LST
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/20_SEMINAR/01_TEST1.LST
+t/home/shishqa/.local/share/vifm/Trash/000_01_TEST1.MAP
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/20_SEMINAR/01_TEST1.MAP
+t/home/shishqa/.local/share/vifm/Trash/000_01_TEST1.OBJ
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/20_SEMINAR/01_TEST1.OBJ
+t/home/shishqa/.local/share/vifm/Trash/000_01_TEST2.LST
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/20_SEMINAR/01_TEST2.LST
+t/home/shishqa/.local/share/vifm/Trash/000_01_TEST2.MAP
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/20_SEMINAR/01_TEST2.MAP
+t/home/shishqa/.local/share/vifm/Trash/000_01_TEST2.OBJ
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/20_SEMINAR/01_TEST2.OBJ
+t/home/shishqa/.local/share/vifm/Trash/000_MEM_STD.LST
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/21_HW-STR/MEM_STD.LST
+t/home/shishqa/.local/share/vifm/Trash/000_MEM_STD.OBJ
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/21_HW-STR/MEM_STD.OBJ
+t/home/shishqa/.local/share/vifm/Trash/000_STR_STD.LST
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/21_HW-STR/STR_STD.LST
+t/home/shishqa/.local/share/vifm/Trash/000_STR_STD.OBJ
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/21_HW-STR/STR_STD.OBJ
+t/home/shishqa/.local/share/vifm/Trash/000_T_STRLEN.COM
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/21_HW-STR/T_STRLEN.COM
+t/home/shishqa/.local/share/vifm/Trash/000_T_STRLEN.LST
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/21_HW-STR/T_STRLEN.LST
+t/home/shishqa/.local/share/vifm/Trash/000_T_STRLEN.MAP
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/21_HW-STR/T_STRLEN.MAP
+t/home/shishqa/.local/share/vifm/Trash/000_T_STRLEN.OBJ
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/21_HW-STR/T_STRLEN.OBJ
+t/home/shishqa/.local/share/vifm/Trash/001_MAIN.COM
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/30_SEMINAR/MAIN.COM
+t/home/shishqa/.local/share/vifm/Trash/001_MAIN.LST
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/30_SEMINAR/MAIN.LST
+t/home/shishqa/.local/share/vifm/Trash/001_MAIN.MAP
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/30_SEMINAR/MAIN.MAP
+t/home/shishqa/.local/share/vifm/Trash/001_MAIN.OBJ
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/30_SEMINAR/MAIN.OBJ
+t/home/shishqa/.local/share/vifm/Trash/000_CATCHER.COM
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/31_HW-INT/CATCHER.COM
+t/home/shishqa/.local/share/vifm/Trash/000_CATCHER.LST
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/31_HW-INT/CATCHER.LST
+t/home/shishqa/.local/share/vifm/Trash/000_CATCHER.MAP
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/31_HW-INT/CATCHER.MAP
+t/home/shishqa/.local/share/vifm/Trash/000_CATCHER.OBJ
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/31_HW-INT/CATCHER.OBJ
+t/home/shishqa/.local/share/vifm/Trash/000_CATCHER2.COM
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/31_HW-INT/CATCHER2.COM
+t/home/shishqa/.local/share/vifm/Trash/000_CATCHER2.LST
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/31_HW-INT/CATCHER2.LST
+t/home/shishqa/.local/share/vifm/Trash/000_CATCHER2.MAP
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/31_HW-INT/CATCHER2.MAP
+t/home/shishqa/.local/share/vifm/Trash/000_CATCHER2.OBJ
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/31_HW-INT/CATCHER2.OBJ
+t/home/shishqa/.local/share/vifm/Trash/000_DRAW.LST
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/31_HW-INT/DRAW.LST
+t/home/shishqa/.local/share/vifm/Trash/000_DRAW.OBJ
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/31_HW-INT/DRAW.OBJ
+t/home/shishqa/.local/share/vifm/Trash/000_END.LST
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/31_HW-INT/END.LST
+t/home/shishqa/.local/share/vifm/Trash/000_END.OBJ
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/31_HW-INT/END.OBJ
+t/home/shishqa/.local/share/vifm/Trash/001_WINDOW.LST
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/31_HW-INT/WINDOW.LST
+t/home/shishqa/.local/share/vifm/Trash/000_WINDOW.MAP
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/31_HW-INT/WINDOW.MAP
+t/home/shishqa/.local/share/vifm/Trash/001_WINDOW.OBJ
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/31_HW-INT/WINDOW.OBJ
+t/home/shishqa/.local/share/vifm/Trash/000_CODE_END.LST
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/40_KEYLOG/CODE_END.LST
+t/home/shishqa/.local/share/vifm/Trash/000_CODE_END.OBJ
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/40_KEYLOG/CODE_END.OBJ
+t/home/shishqa/.local/share/vifm/Trash/001_DRAW.LST
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/40_KEYLOG/DRAW.LST
+t/home/shishqa/.local/share/vifm/Trash/001_DRAW.OBJ
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/40_KEYLOG/DRAW.OBJ
+t/home/shishqa/.local/share/vifm/Trash/000_HOOKER.LST
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/40_KEYLOG/HOOKER.LST
+t/home/shishqa/.local/share/vifm/Trash/000_HOOKER.MAP
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/40_KEYLOG/HOOKER.MAP
+t/home/shishqa/.local/share/vifm/Trash/000_HOOKER.OBJ
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/40_KEYLOG/HOOKER.OBJ
+t/home/shishqa/.local/share/vifm/Trash/000_LOGGER.LST
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/40_KEYLOG/LOGGER.LST
+t/home/shishqa/.local/share/vifm/Trash/000_LOGGER.OBJ
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/40_KEYLOG/LOGGER.OBJ
+t/home/shishqa/.local/share/vifm/Trash/000_PRINT.LST
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/40_KEYLOG/PRINT.LST
+t/home/shishqa/.local/share/vifm/Trash/000_PRINT.OBJ
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/40_KEYLOG/PRINT.OBJ
+t/home/shishqa/.local/share/vifm/Trash/000_RUN_LOG.COM
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/40_KEYLOG/RUN_LOG.COM
+t/home/shishqa/.local/share/vifm/Trash/000_RUN_LOG.LST
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/40_KEYLOG/RUN_LOG.LST
+t/home/shishqa/.local/share/vifm/Trash/000_RUN_LOG.MAP
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/40_KEYLOG/RUN_LOG.MAP
+t/home/shishqa/.local/share/vifm/Trash/000_RUN_LOG.OBJ
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/40_KEYLOG/RUN_LOG.OBJ
+t/home/shishqa/.local/share/vifm/Trash/002_WINDOW.LST
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/40_KEYLOG/WINDOW.LST
+t/home/shishqa/.local/share/vifm/Trash/002_WINDOW.OBJ
+	/home/shishqa/repositories/MIPT/2020_2/ASM/00_MS-DOS/40_KEYLOG/WINDOW.OBJ
+t/home/shishqa/.local/share/vifm/Trash/000_hello.o
+	/home/shishqa/repositories/MIPT/2020_2/ASM/10_NASM/01_Hello-World/hello.o
+t/home/shishqa/.local/share/vifm/Trash/006_a.out
+	/home/shishqa/repositories/MIPT/2020_2/ASM/10_NASM/00_Echo/a.out
+t/home/shishqa/.local/share/vifm/Trash/000_echo.o
+	/home/shishqa/repositories/MIPT/2020_2/ASM/10_NASM/00_Echo/echo.o
+t/home/shishqa/.local/share/vifm/Trash/000_test.lst
+	/home/shishqa/repositories/MIPT/2020_2/ASM/10_NASM/00_Echo/test.lst
+t/home/shishqa/.local/share/vifm/Trash/003_test.o
+	/home/shishqa/repositories/MIPT/2020_2/ASM/10_NASM/00_Echo/test.o
+t/home/shishqa/.local/share/vifm/Trash/000_ObinsKit
+	/home/shishqa/.config/ObinsKit
+t/home/shishqa/.local/share/vifm/Trash/000_wal
+	/home/shishqa/.config/wal
+t/home/shishqa/.local/share/vifm/Trash/000_bar-bottom.ini
+	/home/shishqa/.config/polybar/bar-bottom.ini
+t/home/shishqa/.local/share/vifm/Trash/000_texput.log
+	/home/shishqa/texput.log
+t/home/shishqa/.local/share/vifm/Trash/000_guvcview2
+	/home/shishqa/.config/guvcview2
+t/home/shishqa/.local/share/vifm/Trash/000_siji.pcf
+	/home/shishqa/siji.pcf
+t/home/shishqa/.local/share/vifm/Trash/000_.Xresources.save
+	/home/shishqa/.config/.Xresources.save
+t/home/shishqa/.local/share/vifm/Trash/000_run_htop
+	/home/shishqa/.local/bin/run_htop
+t/home/shishqa/.local/share/vifm/Trash/000_run_ncmpcpp
+	/home/shishqa/.local/bin/run_ncmpcpp
+t/home/shishqa/.local/share/vifm/Trash/000_mimeapps.list
+	/home/shishqa/.config/mimeapps.list
+t/home/shishqa/.local/share/vifm/Trash/000_view_siji
+	/home/shishqa/.local/bin/view_siji
+t/home/shishqa/.local/share/vifm/Trash/000_config
+	/home/shishqa/.config/ncmpcpp/config
 
 # State:
 f

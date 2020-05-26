@@ -12,6 +12,7 @@ options="$option0\n$option1\n$option2\n$option3"
 chosen="$(echo -e "$options" | rofi -lines 4 -dmenu -p "power")"
 case $chosen in
     $option0)
+        sleep 0.5
         lock;;
     $option1)
         bspc quit;;

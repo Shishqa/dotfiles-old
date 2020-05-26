@@ -11,24 +11,28 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~Msle0~/\<info\>
+~MSle0~/accen
 
 # Last Substitute String:
 $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1590153598,,"wq"
+|2,0,1590518529,,"wq"
 :w
-|2,0,1590153520,,"w"
+|2,0,1590518524,,"w"
+:W
+|2,0,1590514098,,"W"
 :q
-|2,0,1590123200,,"q"
+|2,0,1590490386,,"q"
+:WQ
+|2,0,1590430140,,"WQ"
 :qw
-|2,0,1589629242,,"qw"
+|2,0,1590321529,,"qw"
+:s
+|2,0,1590321226,,"s"
 :Wq
 |2,0,1589392799,,"Wq"
-:s
-|2,0,1589100331,,"s"
 :help hex
 |2,0,1588329810,,"help hex"
 :Q
@@ -39,8 +43,6 @@ $
 |2,0,1586961617,,"PlugStatus"
 :PlugInstall
 |2,0,1586960629,,"PlugInstall"
-:W
-|2,0,1586888284,,"W"
 :300
 |2,0,1586875120,,"300"
 :PlugUpdate
@@ -75,106 +77,106 @@ $
 |2,0,1585830498,,"colorscheme MyTheme"
 
 # Search String History (newest to oldest):
+?/accen
+|2,1,1590514678,47,"accen"
+?/acc
+|2,1,1590514671,47,"acc"
+?/acce
+|2,1,1590514657,47,"acce"
+?/accent
+|2,1,1590514639,47,"accent"
+?/info
+|2,1,1590514312,47,"info"
+?/powe
+|2,1,1590514261,47,"powe"
+?/date
+|2,1,1590514254,47,"date"
+?/upda
+|2,1,1590514249,47,"upda"
+?/netwo
+|2,1,1590513663,47,"netwo"
+?/puls
+|2,1,1590513593,47,"puls"
+?/net
+|2,1,1590513453,47,"net"
+?/xba
+|2,1,1590513182,47,"xba"
+?/xbac
+|2,1,1590512821,47,"xbac"
+?/temp
+|2,1,1590512633,47,"temp"
+?/cal
+|2,1,1590512444,47,"cal"
+?/update
+|2,1,1590509905,47,"update"
+?/updat
+|2,1,1590509749,47,"updat"
+?/dat
+|2,1,1590506048,47,"dat"
+?/cale
+|2,1,1590505794,47,"cale"
+?/super + c
+|2,1,1590499059,47,"super + c"
+?/bsp
+|2,1,1590496556,47,"bsp"
+?/bat
+|2,1,1590493654,47,"bat"
+?/bspw
+|2,1,1590493586,47,"bspw"
+?/power
+|2,1,1590492111,47,"power"
+?/black
+|2,1,1590491836,47,"black"
+?/bla
+|2,1,1590491822,47,"bla"
+?/ye
+|2,1,1590491799,47,"ye"
+?/yellow
+|2,1,1590491761,47,"yellow"
+?/yel
+|2,1,1590491689,47,"yel"
+?//cal
+|2,1,1590490652,47,"/cal"
+?/mpd
+|2,1,1590490411,47,"mpd"
+?/pow
+|2,1,1590487795,47,"pow"
+?/xke
+|2,1,1590487354,47,"xke"
+?/mdp
+|2,1,1590486106,47,"mdp"
+?/musi
+|2,1,1590484786,47,"musi"
+?/tempe
+|2,1,1590477795,47,"tempe"
+?/xback
+|2,1,1590477531,47,"xback"
+?/pul
+|2,1,1590476187,47,"pul"
+?/r8
+|2,1,1590321549,47,"r8"
+?/R8
+|2,1,1590321517,47,"R8"
+?/Operand
+|2,1,1590259616,47,"Operand"
+?/REX_@
+|2,1,1590258931,47,"REX_@"
+?/EXT_REG
+|2,1,1590258616,47,"EXT_REG"
+?/QWORD_OP
+|2,1,1590258511,47,"QWORD_OP"
+? \<pix_ptr\>
+|2,1,1590245931,,"\\<pix_ptr\\>"
 ? \<info\>
 |2,1,1590056714,,"\\<info\\>"
 ?/RET
 |2,1,1588486422,47,"RET"
-?/netwo
-|2,1,1587306506,47,"netwo"
-?/xke
-|2,1,1587306296,47,"xke"
-?/puls
-|2,1,1587306250,47,"puls"
-?/xback
-|2,1,1587306072,47,"xback"
 ?/powerm
 |2,1,1587306046,47,"powerm"
 ?/pulse
 |2,1,1587304347,47,"pulse"
-?/mpd
-|2,1,1587303356,47,"mpd"
 ?/screensh
 |2,1,1586763102,47,"screensh"
-?/defaul
-|2,1,1586759242,47,"defaul"
-?/ewm
-|2,1,1586755863,47,"ewm"
-?/date-alt
-|2,1,1586755385,47,"date-alt"
-?/load-module module-native-protoco
-|2,1,1586711613,47,"load-module module-native-protoco"
-?/floatin
-|2,1,1586702665,47,"floatin"
-?/audio_
-|2,1,1586610018,47,"audio_"
-?/aut
-|2,1,1586609495,47,"aut"
-?/PUTIN
-|2,1,1586265914,47,"PUTIN"
-? @$
-|2,1,1586186325,,"@$"
-?/autologin
-|2,1,1586025099,47,"autologin"
-?/bluetooth
-|2,1,1586011621,47,"bluetooth"
-? ██║
-|2,1,1586009753,,"██║"
-?/scheme
-|2,1,1585987354,47,"scheme"
-?/monstercat
-|2,1,1585987047,47,"monstercat"
-?/smoothing
-|2,1,1585987014,47,"smoothing"
-?/media
-|2,1,1585912340,47,"media"
-?/media_library
-|2,1,1585911006,47,"media_library"
-? \<1\>
-|2,1,1585900227,,"\\<1\\>"
-?/DEFAU
-|2,1,1585897032,47,"DEFAU"
-?/Shift+r
-|2,1,1585896376,47,"Shift+r"
-?/filesystem
-|2,1,1585892146,47,"filesystem"
-?/arch-update
-|2,1,1585891331,47,"arch-update"
-?/powermenu
-|2,1,1585890787,47,"powermenu"
-?/ewh
-|2,1,1585890232,47,"ewh"
-?/network
-|2,1,1585888887,47,"network"
-?/keyboard
-|2,1,1585888721,47,"keyboard"
-?/xkeuboard
-|2,1,1585888717,47,"xkeuboard"
-?/date
-|2,1,1585850451,47,"date"
-?/default
-|2,1,1585850526,47,"default"
-?/module date
-|2,1,1585849409,47,"module date"
-?/module/date
-|2,1,1585849402,47,"module/date"
-?/networl
-|2,1,1585848638,47,"networl"
-?/menu
-|2,1,1585848547,47,"menu"
-?/sysmenu
-|2,1,1585848543,47,"sysmenu"
-?/update-arch
-|2,1,1585847396,47,"update-arch"
-?/inner
-|2,1,1585845341,47,"inner"
-?/#
-|2,1,1585837021,47,"#"
-?/color-window
-|2,1,1585832338,47,"color-window"
-?/separator
-|2,1,1585832278,47,"separator"
-?/fulls
-|2,1,1585831879,47,"fulls"
 
 # Expression History (newest to oldest):
 
@@ -183,139 +185,267 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
-"0	CHAR	0
-	urxvt -geometry 38x18+$pos_x+$pos_y --title "popup calendar" -e dialog --no-shadow --no-lines --no-cancel --week-start 1 --clear --calendar "" 1 40
+"0	LINE	0
+	accent-left = #EAEBED
 	
-	
-|3,0,0,0,3,0,1590057346,"urxvt -geometry 38x18+$pos_x+$pos_y --title \"popup calendar\" -e dialog --no-shadow --no-lines --no-cancel --week-start 1 --clear --calendar \"\" 1 40","",""
+|3,0,0,1,2,0,1590516083,"accent-left = #EAEBED",""
 ""1	LINE	0
-	
-|3,1,1,1,1,0,1590153389,""
+	;fg      = #EBF5E9
+|3,1,1,1,1,0,1590517940,";fg      = #EBF5E9"
 "2	LINE	0
-	# focus the node for the given path jump
-|3,0,2,1,1,0,1590153388,"# focus the node for the given path jump"
-"3	LINE	0
-		bspc node -f @{parent,brother,first,second}
-|3,0,3,1,1,0,1590153387,"	bspc node -f @{parent,brother,first,second}"
-"4	LINE	0
-	super + {p,b,comma,period}
-|3,0,4,1,1,0,1590153387,"super + {p,b,comma,period}"
-"5	LINE	0
 	
-|3,0,5,1,1,0,1590058682,""
+|3,0,2,1,1,0,1590516313,""
+"3	LINE	0
+	
+|3,0,3,1,1,0,1590516313,""
+"4	LINE	0
+	;accent-right = #AFC4DB
+|3,0,4,1,1,0,1590516312,";accent-right = #AFC4DB"
+"5	LINE	0
+	;accent-mid   = #8F9D6A
+|3,0,5,1,1,0,1590516311,";accent-mid   = #8F9D6A"
 "6	LINE	0
-	];
-|3,0,6,1,1,0,1590058681,"];"
+	;accent-left  = #F9EE98
+|3,0,6,1,1,0,1590516311,";accent-left  = #F9EE98"
 "7	LINE	0
-	experimental-backends = true;
-	round-borders = 1;
-	corner-radius = 10.0;
-	detect-rounded-corners = true;
-	rounded-corners-exclude = [
-	  "window_type = 'menu'",
-	  "window_type = 'dropdown_menu'",
-	  "window_type = 'popup_menu'",
-	  "class_g = 'Polybar'",
-	  "class_g = 'Rofi'",
-	  "class_g = 'Dunst'"
-|3,0,7,1,11,0,1590058680,"experimental-backends = true;","round-borders = 1;","corner-radius = 10.0;","detect-rounded-corners = true;","rounded-corners-exclude = [","  \"window_type = 'menu'\",","  \"window_type = 'dropdown_menu'\",","  \"window_type = 'popup_menu'\",","  \"class_g = 'Polybar'\",","  \"class_g = 'Rofi'\",","  \"class_g = 'Dunst'\""
+	;fg      = #E6DFD8
+|3,0,7,1,1,0,1590516300,";fg      = #E6DFD8"
 "8	LINE	0
-	######################
-|3,0,8,1,1,0,1590058308,"######################"
+	
+|3,0,8,1,1,0,1590516086,""
 "9	LINE	0
-	#
-|3,0,9,1,1,0,1590058308,"#"
+	accent-left  = #F9EE98
+|3,0,9,1,1,0,1590515566,"accent-left  = #F9EE98"
 "-	CHAR	0
-	h
-|3,0,36,0,1,0,1590153286,"h"
+	:
+|3,0,36,0,1,0,1590514377,":"
 
 # Buffer list:
-%~/.config/sxhkd/sxhkdrc	20	0
+%~/.config/dunst/dunstrc	202	20
 
 # History of marks within files (newest to oldest):
 
-> ~/.config/sxhkd/sxhkdrc
-	*	1590153590	0
-	"	20	0
-	^	20	0
-	.	17	12
-	+	113	0
-	+	18	9
-	+	19	23
-	+	11	47
-	+	17	12
+> ~/.config/dunst/dunstrc
+	*	1590518524	0
+	"	202	20
+	^	202	21
+	.	202	20
+	+	202	20
 
-> ~/.config/bspwm/bspwmrc
-	*	1590153340	0
-	"	41	0
-
-> ~/.local/bin/poly_launch
-	*	1590153291	0
-	"	5	0
-
-> ~/.local/bin/rofi-powermenu
-	*	1590153286	0
-	"	15	12
-	.	15	12
-	+	15	12
-
-> ~/repositories/dotfiles/scripts/rofi-powermenu
-	*	1590153250	0
-	"	15	12
-	.	15	12
-	+	15	12
-
-> ~/.local/bin/list-font
-	*	1590153201	0
+> ~/repositories/dotfiles/.zshenv
+	*	1590518429	0
 	"	1	0
 
-> ~/.local/bin/fill-workspace.sh
-	*	1590153183	0
-	"	3	0
+> ~/repositories/dotfiles/.xinitrc
+	*	1590518426	0
+	"	13	0
 
-> ~/repositories/MIPT/2020_2/ASM/20_C/05_SAS-to-ELF/src/main.cpp
-	*	1590123411	0
-	"	18	0
+> ~/.config/bspwm/bspwmrc
+	*	1590518370	0
+	"	31	40
+	^	31	41
+	.	31	40
+	+	65	55
+	+	22	43
+	+	23	43
+	+	21	36
+	+	31	40
+
+> ~/.config/polybar/colors.ini
+	*	1590518247	0
+	"	6	16
+	^	6	17
+	.	6	16
+	+	7	17
+	+	4	17
+	+	7	17
+	+	7	19
+	+	7	16
+	+	8	0
+	+	12	15
+	+	12	17
+	+	12	0
+	+	12	7
+	+	12	12
+	+	12	10
+	+	12	9
+	+	12	11
+	+	12	12
+	+	12	13
+	+	12	10
+	+	12	11
+	+	12	9
+	+	12	24
+	+	12	21
+	+	12	19
+	+	12	18
+	+	12	21
+	+	12	13
+	+	12	0
+	+	9	14
+	+	10	0
+	+	11	0
+	+	10	9
+	+	11	11
+	+	10	19
+	+	9	20
+	+	11	21
+	+	10	14
+	+	9	14
+	+	10	12
+	+	9	14
+	+	10	14
+	+	7	18
+	+	7	0
+	+	12	0
+	+	9	0
+	+	3	0
+	+	7	0
+	+	6	0
+	+	3	16
+	+	6	16
+	+	7	0
+	+	6	16
 
 > ~/.config/.Xresources
-	*	1590123377	0
-	"	112	0
-	^	65	24
-	.	65	23
-	+	65	23
+	*	1590517804	0
+	"	23	0
+	^	23	0
+	.	23	0
+	+	23	24
+	+	23	0
 
-> ~/.config/neofetch/config.conf
-	*	1590123356	0
-	"	771	11
-	^	680	18
-	.	680	17
-	+	28	4
-	+	86	11
-	+	74	19
-	+	102	21
-	+	159	17
-	+	238	11
-	+	221	13
-	+	207	13
-	+	238	10
-	+	302	16
-	+	537	17
-	+	549	12
-	+	680	19
-	+	746	23
-	+	8	0
-	+	30	0
-	+	24	4
-	+	28	5
-	+	12	4
-	+	13	4
-	+	15	4
-	+	21	4
-	+	746	21
-	+	14	4
-	+	22	4
-	+	20	4
-	+	22	4
-	+	46	14
-	+	133	20
-	+	680	17
+> ~/.config/ncmpcpp/config
+	*	1590517121	0
+	"	33	25
+	^	33	26
+	.	33	25
+	+	49	18
+	+	18	27
+	+	31	19
+	+	44	25
+	+	33	25
+
+> ~/.config/QtProject.conf
+	*	1590516856	0
+	"	1	0
+
+> ~/.config/polybar/bars.ini
+	*	1590515375	0
+	"	57	9
+	^	57	10
+	.	98	9
+	+	82	94
+	+	59	10
+	+	63	18
+	+	67	23
+	+	103	1
+	+	104	26
+	+	67	22
+	+	104	23
+	+	82	17
+	+	120	25
+	+	116	0
+	+	117	0
+	+	96	10
+	+	100	18
+	+	96	9
+	+	100	19
+	+	96	10
+	+	100	19
+	+	66	26
+	+	67	22
+	+	60	10
+	+	69	15
+	+	70	24
+	+	65	0
+	+	66	22
+	+	67	22
+	+	80	24
+	+	69	14
+	+	70	0
+	+	60	10
+	+	59	10
+	+	63	17
+	+	33	24
+	+	70	24
+	+	107	16
+	+	97	10
+	+	98	10
+	+	106	14
+	+	70	0
+	+	69	14
+	+	61	10
+	+	33	0
+	+	32	14
+	+	24	9
+	+	61	9
+	+	97	10
+	+	98	9
+
+> ~/.config/polybar/modules.ini
+	*	1590514689	0
+	"	390	40
+	^	390	41
+	.	390	40
+	+	75	50
+	+	71	14
+	+	72	17
+	+	596	12
+	+	597	52
+	+	594	19
+	+	597	13
+	+	369	42
+	+	388	10
+	+	480	9
+	+	485	14
+	+	494	37
+	+	369	39
+	+	380	20
+	+	380	34
+	+	380	24
+	+	381	0
+	+	532	9
+	+	356	42
+	+	376	28
+	+	377	25
+	+	532	13
+	+	534	12
+	+	543	8
+	+	542	7
+	+	541	7
+	+	540	8
+	+	539	7
+	+	538	7
+	+	537	7
+	+	536	8
+	+	535	9
+	+	536	9
+	+	537	12
+	+	538	9
+	+	539	9
+	+	540	9
+	+	541	9
+	+	542	9
+	+	543	9
+	+	342	15
+	+	342	39
+	+	369	38
+	+	410	52
+	+	410	54
+	+	411	0
+	+	342	0
+	+	369	0
+	+	241	0
+	+	233	17
+	+	234	20
+	+	234	19
+	+	234	0
+	+	236	13
+	+	240	0
+	+	236	14
+	+	149	45
+	+	158	46
+	+	238	38
+	+	326	18
+	+	390	40
