@@ -79,9 +79,9 @@ URxvt.matcher.rend.0:       Uline Bold fg5
 !#< colors 
 
 ! State:           'bg',          'fg',      'bgalt',        'hlbg',         'hlfg'
-rofi.color-normal: argb:001E1E1E,  #A7A7A7,  argb:00151515,  argb:FFFBE9B9,  #1E1E1E
-rofi.color-active: argb:001E1E1E,  #FBE9B9,  argb:00151515,  argb:FFFBE9B9,  #1E1E1E
-rofi.color-urgent: argb:001E1E1E,  #F259D4,  argb:00151515,  argb:FFFBE9B9,  #1E1E1E
+rofi.color-normal: argb:001E1E1E,  #A7A7A7,  argb:00151515,  argb:FFD9E5D6,  #1E1E1E
+rofi.color-active: argb:001E1E1E,  #D9E5D6,  argb:00151515,  argb:FFD9E5D6,  #1E1E1E
+rofi.color-urgent: argb:001E1E1E,  #F259D5,  argb:00151515,  argb:FFD9E5D6,  #1E1E1E
 !                  'bg',           'border'
 rofi.color-window: argb:E01E1E1E,  #404552
 
